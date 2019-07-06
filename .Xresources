@@ -1,0 +1,9 @@
+Xft.dpi: 125
+URxvt*font: xft:Source Code Pro:size=10
+URxvt.scrollBar: false
+
+URxvt.depth: 32
+URxvt.background: [95]#000000
+URxvt.foreground: #ffffff
+
+Xcursor.size: 28
