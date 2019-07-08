@@ -1,7 +1,10 @@
+let plugins_path = has('win32') ? 'C:\Users\jakub\.vim' : '/home/jakub/.vim'
+
+
 set guifont=Source\ Code\ Pro:h11
 
 packadd minpac
-call minpac#init({'dir': '/home/jakub/.vim'})
+call minpac#init({'dir': plugins_path})
 call minpac#add('k-takata/minpac', {'type': 'opt'})
 call minpac#add('tomasiser/vim-code-dark')
 call minpac#add('neovimhaskell/haskell-vim')
