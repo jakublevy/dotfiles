@@ -3,9 +3,9 @@
 screenshot='/tmp/'$(date +%s)'.png'
 key='' #insert your imgbb.com API key here
 
-if [ $# -eq 1 && "$1" == '-f' ]; then
+if [[ $# -eq 1 && "$1" == '-f' ]]; then
     maim "$screenshot"
-elif [ $# -eq 1 && "$1" == '-w' ]; then
+elif [[ $# -eq 1 && "$1" == '-w' ]]; then
     maim -i $(xdotool getactivewindow) "$screenshot"
 else
     exit 1

@@ -1,10 +1,6 @@
 #!/bin/bash
  
-# screen=$(mktemp -u)'.png'
-# dir='/home/jakub/.config/scripts/lock/'
-dir='/opt/scripts/lock/'
-
-# screen="$dir"'l.png'
+dir='/home/jakub/.config/scripts/lock/'
 screen='/tmp/lockscreen.png'
 lock="$dir"'lock.png'
 
@@ -13,11 +9,10 @@ if [ -f "$screen" ]; then
 fi
 
 maim "$screen"
-convert "$screen" -scale 10% -scale 1000% "$screen"
+gm convert "$screen" -scale 10% -scale 1000% "$screen"
 #convert "$screen" -filter Gaussian -blur 0x3 "$screen"
  
-if [ -f "$lock" ]
-then
+if [ -f "$lock" ]; then
     # placement x/y
     PX=0
     PY=0
@@ -37,7 +32,7 @@ then
         PX=$(($SROX + $SRX/2 - $RX/2))
         PY=$(($SROY + $SRY/2 - $RY/2))
  
-        convert "$screen" "$lock" -geometry +$PX+$PY -composite -matte  "$screen"
+        gm convert "$screen" "$lock" -geometry +$PX+$PY - | gm composite -geometry +$PX+$PY -matte "$lock" - "$screen"
         #echo "done"
     done
 fi

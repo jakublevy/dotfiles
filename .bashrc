@@ -1,7 +1,11 @@
-alias vim=nvim
-export EDITOR=nvim
+#
+# ~/.bashrc
+#
 
-# 0 = internal speakers
-# 7 = hdmi
-# depending on custom /etc/asound.conf
-export ALSA_DEVICE=0
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+alias ls='ls --color=auto'
+PS1='[\u@\h \W]\$ '
+
+alias vim=nvim

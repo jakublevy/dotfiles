@@ -1,0 +1,11 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/sda1
+UUID=5335-009B	/boot	vfat	rw,noatime,nodiratime	0 2
+
+# /dev/sda2
+UUID=d3c59eab-f93f-4b8b-bed7-ace706a2b8ba	/	ext4	rw,noatime,nodiratime	0 1
+
+

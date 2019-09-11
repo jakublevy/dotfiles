@@ -24,7 +24,7 @@
 #
 # The top properties below are applied to every block, but can be overridden.
 # Each block command defaults to the script name to avoid boilerplate.
-command=/usr/lib/i3blocks/$BLOCK_NAME
+command=/usr/lib/i3blocks/$BLOCK_NAME/$BLOCK_NAME
 separator_block_width=15
 markup=none
 
@@ -38,10 +38,14 @@ label=🌡️
 # label=
 interval=30
 
+
 [load_average]
-# label=
-label=
+label= 
 interval=10
+
+[memory]
+label= 
+interval=30
 
 # Disk usage
 #
@@ -49,9 +53,7 @@ interval=10
 # The script may be called with a optional argument to set the alert
 # (defaults to 10 for 10%).
 [disk]
-# label=🖴
-label=
-# label=
+label= 
 instance=/
 interval=60
 
@@ -63,17 +65,12 @@ interval=60
 #separator=false
 #interval=30
 
-#[memory]
-#label=SWAP
-#instance=swap
-#separator=false
-#interval=30
-
 # Network interface monitoring
 #
 # If the instance is not specified, use the interface used for default route.
 # The address can be forced to IPv4 or IPv6 with -4 or -6 switches.
 [iface]
+label= 
 instance=wlp0s12f0
 color=#00FF00
 interval=10
@@ -92,19 +89,17 @@ separator=true
 #
 # The script may be called with -w and -c switches to specify thresholds,
 # see the script for details.
-[cpu_usage]
-label=CPU
-interval=10
-min_width=CPU: 100.00%
-#separator=false
+#[cpu_usage]
+#label=CPU
+#interval=10
+#min_width=CPU: 100.00%
 
 # Battery indicator
 #
 # The battery instance defaults to 0.
-[battery]
-#label=BAT
+[battery2]
+markup=pango
 # label=⚡
-label=⚡
 instance=0
 interval=50
 
@@ -115,30 +110,30 @@ interval=50
 # See the script for details.
 [volume]
 # label=♪
-label=
+label= 
 instance=Master
-#instance=PCM
 interval=10
 signal=10
 
 [backlight]
-label=
+label= 
 # label=🖵
 command=/home/jakub/.config/i3blocks/backlight.sh
 interval=10
 
 [date]
-label=
-command=date '+%a, %d.%m.%Y'
+label= 
+command=date '+%a, %-d.%-m.%Y'
 interval=3600
 
 [time]
-label=
+label= 
 command=date '+%H:%M'
 interval=30
 
 [lang]
-command=xkblayout-state print "%s"
+label= 
+command=echo `xkblayout-state print "%s"`
 interval=10
 
 # Generic media player support

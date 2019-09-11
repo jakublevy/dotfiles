@@ -1,1 +1,7 @@
-keycode 94 = Shift_L
+remove Lock = Caps_Lock
+remove Control = Control_L
+keysym Control_L = Escape
+keysym Caps_Lock = Control_L
+keysym Escape = Caps_Lock
+add Control = Control_L
+keycode 94 = Shift_L Shift_L Shift_L
