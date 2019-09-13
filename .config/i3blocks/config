@@ -118,7 +118,7 @@ signal=10
 [backlight]
 label= 
 # label=🖵
-command=/home/jakub/.config/i3blocks/backlight.sh
+command=~/.config/scripts/backlight.sh
 interval=10
 
 [date]

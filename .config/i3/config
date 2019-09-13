@@ -201,7 +201,7 @@ bindsym XF86AudioLowerVolume exec --no-startup-id amixer sset Master 5%-
 bindsym XF86AudioMute exec --no-startup-id amixer sset Master toggle
 
 #Touchpad toggle
-bindsym XF86TouchpadToggle exec touchpad_toggle.sh
+bindsym XF86TouchpadToggle exec ~/.config/scripts/touchpad_toggle.sh
 
 #NetworkManager applent
 exec --no-startup-id nm-applet --sm-disable
@@ -212,7 +212,7 @@ exec --no-startup-id /usr/lib/geoclue-2.0/demos/agent
 #exec --no-startup-id "setxkbmap -option grp:alt_shift_toggle,caps:swapescape -layout us,cz -variant ,qwerty"
 #exec --no-startup-id setxkbmap -option grp:alt_shift_toggle -layout us,cz -variant ,qwerty
 #exec --no-startup-id xmodmap /home/jakub/.Xmodmap
-exec --no-startup-id /home/jakub/.config/i3/keyboard.sh
+exec --no-startup-id ~/.config/scripts/keyboard.sh
 
 #i3lock bind to WIN+L
 bindsym Ctrl+Mod4+L exec --no-startup-id ~/.config/scripts/lock/lock.sh
@@ -225,8 +225,8 @@ bindsym $mod+less move workspace to output left
 #Prt Sc
 # bindsym Print exec maim ~/Pictures/$(date +%s).png
 # bindsym Mod1+Sys_Req 
-bindsym Print exec --no-startup-id ~/.config/i3/screenshot.sh -f
-bindsym Mod1+Sys_Req exec --no-startup-id ~/.config/i3/screenshot.sh -w
+bindsym Print exec --no-startup-id ~/.config/scripts/screenshot.sh -f
+bindsym Mod1+Sys_Req exec --no-startup-id ~/.config/scripts/screenshot.sh -w
 
 #Clipboard manager
 exec --no-startup-id clipit -dn
@@ -261,6 +261,16 @@ mode "$mode_system" {
     bindsym Escape mode "default"
 }
 bindsym XF86PowerOff mode "$mode_system"
+
+set $mode_sound_output (i) internal, (h) HDMI
+mode "$mode_sound_output" {
+    bindsym i exec --no-startup-id ~/.config/scripts/audio_internal.sh, mode "default"
+    bindsym h exec --no-startup-id ~/.config/scripts/audio_hdmi.sh, mode "default"
+
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+}
+bindsym $mod+m mode "$mode_sound_output"
 
 #floating window max constraints
 floating_maximum_size 1820 x 980
