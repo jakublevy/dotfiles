@@ -4,3 +4,4 @@ echo 'pcm.!default {
     card 0
     device 7
 }' > ~/.asoundrc
+alsactl restore &> /dev/null
