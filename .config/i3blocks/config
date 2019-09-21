@@ -97,9 +97,9 @@ separator=true
 # Battery indicator
 #
 # The battery instance defaults to 0.
-[battery2]
-markup=pango
-# label=⚡
+[battery]
+# markup=pango
+label=⚡
 instance=0
 interval=50
 

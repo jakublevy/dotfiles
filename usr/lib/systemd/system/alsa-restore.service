@@ -14,5 +14,3 @@ Type=oneshot
 RemainAfterExit=true
 ExecStart=-/usr/bin/alsactl --file /home/jakub/.asound.state restore
 ExecStop=-/usr/bin/alsactl --file /home/jakub/.asound.state store
-User=jakub
-Group=users
