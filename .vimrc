@@ -99,6 +99,17 @@ nnoremap <A-j> <C-w>j
 nnoremap <A-k> <C-w>k
 nnoremap <A-l> <C-w>l
 
+nnoremap <A-H> <C-w>H
+nnoremap <A-J> <C-w>J
+nnoremap <A-K> <C-w>K
+nnoremap <A-L> <C-w>L
+
+tnoremap <A-H> <C-\><C-n><C-w>Hi
+tnoremap <A-J> <C-\><C-n><C-w>Ji
+tnoremap <A-K> <C-\><C-n><C-w>Ki
+tnoremap <A-L> <C-\><C-n><C-w>Li
+
+
 "tmux sane navigation
 nnoremap <silent> <A-h> :TmuxNavigateLeft<CR>
 nnoremap <silent> <A-j> :TmuxNavigateDown<CR>
