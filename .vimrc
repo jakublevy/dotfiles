@@ -21,6 +21,9 @@ command! PackUpdate call minpac#update()
 command! PackClean call minpac#clean()
 command! PackStatus call minpac#status()
 
+" leader key remap
+let mapleader = ","
+
 "enable vsc colorscheme
 colorscheme codedark
 
@@ -99,11 +102,13 @@ nnoremap <A-j> <C-w>j
 nnoremap <A-k> <C-w>k
 nnoremap <A-l> <C-w>l
 
+"mapping for moving vim windows
 nnoremap <A-H> <C-w>H
 nnoremap <A-J> <C-w>J
 nnoremap <A-K> <C-w>K
 nnoremap <A-L> <C-w>L
 
+"it works even with vim terminal
 tnoremap <A-H> <C-\><C-n><C-w>Hi
 tnoremap <A-J> <C-\><C-n><C-w>Ji
 tnoremap <A-K> <C-\><C-n><C-w>Ki
@@ -142,6 +147,9 @@ autocmd BufRead .vimrc setlocal spell
 
 "spellcheck autocompletion
 set complete+=kspell
+
+"highlighted yank config
+let g:highlightedyank_highlight_duration = 800
 
 "only necessary for plain vim
 if !has('nvim')
