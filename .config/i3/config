@@ -227,6 +227,8 @@ bindsym $mod+less move workspace to output left
 # bindsym Mod1+Sys_Req 
 bindsym Print exec --no-startup-id ~/.config/scripts/screenshot.sh -f
 bindsym Mod1+Sys_Req exec --no-startup-id ~/.config/scripts/screenshot.sh -w
+bindsym Ctrl+Print exec --no-startup-id maim "/home/jakub/Pictures/$(date +%s)-screenshot.png"
+bindsym Ctrl+Mod1+Sys_Req exec --no-startup-id ~/.config/scripts/screenshot.sh -e
 
 #Clipboard manager
 exec --no-startup-id clipit -dn
