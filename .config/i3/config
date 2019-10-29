@@ -153,7 +153,6 @@ mode "resize" {
         bindsym Left resize shrink width 10 px or 10 ppt
         bindsym Down resize grow height 10 px or 10 ppt
         bindsym Up resize shrink height 10 px or 10 ppt
-        bindsym Right resize grow width 10 px or 10 ppt
 
         # back to normal: Enter or Escape or $mod+r
         bindsym Return mode "default"
@@ -188,8 +187,8 @@ smart_gaps on
 #change workspace number
 bindsym $mod+n exec --no-startup-id i3-input -F 'rename workspace to "%s"' -P 'New name for this workspace: '
 
-#turn off display after 120s of inactivity
-exec --no-startup-id xset s 120
+#turn off display after 10mins of inactivity
+exec --no-startup-id xset s 600
 
 #Screen brightness controls
 bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 10
@@ -218,8 +217,12 @@ exec --no-startup-id ~/.config/scripts/keyboard.sh
 bindsym Ctrl+Mod4+L exec --no-startup-id ~/.config/scripts/lock/lock.sh
 
 # move focused workspace between monitors
-bindsym $mod+greater move workspace to output right
-bindsym $mod+less move workspace to output left
+bindsym $mod+Shift+greater move workspace to output right
+bindsym $mod+Shift+less move workspace to output left
+
+#move to next and previous workspace
+bindsym $mod+greater workspace next
+bindsym $mod+less workspace prev
 
 
 #Prt Sc
