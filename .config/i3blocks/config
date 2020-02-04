@@ -125,7 +125,8 @@ signal=11
 [date]
 label= 
 # command=date '+%a, %-d.%-m.%Y'
-command=date '+%a  %-m月 %-d日'
+# command=date '+%a  %-m月 %-d日'
+command=LC_TIME=ja_JP.UTF-8 date '+%a  %-m月 %-d日'
 interval=3600
 
 [time]
