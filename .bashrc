@@ -10,3 +10,5 @@ PS1='[\u@\h \W]\$ '
 
 alias vim=nvim
 export PATH="$PATH:/home/jakub/.local/bin"
+
+set -o vi
