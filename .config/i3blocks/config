@@ -34,6 +34,7 @@ markup=none
 # The script may be called with -w and -c switches to specify thresholds,
 # see the script for details.
 [temperature]
+command=/usr/lib/i3blocks/temperature/temperature -w 60 -c 75 --chip coretemp-isa-0000
 label=🌡️
 # label=
 interval=30
