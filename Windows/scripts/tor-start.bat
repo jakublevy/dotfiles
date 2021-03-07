@@ -7,7 +7,7 @@ reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Se
 reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v "ProxyOverride" /t REG_SZ /d "<local>" /f > nul
 
 SET curpath=%~dp0
-powershell -Command "& { . %curpath:~0,-1%\ps\libs\registry-changed.ps1; refresh-system | Out-Null }"
+powershell -Command "& { . %curpath:~0,-1%\..\libs\ps\registry-changed.ps1; refresh-system | Out-Null }"
 sc start tor > nul
 
 

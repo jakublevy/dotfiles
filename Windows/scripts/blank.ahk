@@ -1,0 +1,2 @@
+.::
+Run blank.bat
