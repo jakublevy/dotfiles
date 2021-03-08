@@ -1,0 +1,28 @@
+ci=choco install -y $*
+cua=choco upgrade all -y $*
+cun=choco uninstall -x -y $*
+cs=choco search $*
+cl=choco list --local-only $*
+
+vim=nvim $*
+loud=speakers.bat $*
+quiet=headphones.bat $*
+
+ydl=youtube-dl $*
+
+gc=git clone $*
+gs=git status $*
+ga=git add $*
+gaa=git add -A $*
+
+pwd=cd $*
+cd=cd /d $*
+cdh=cd /d %userprofile% $*
+cdd=cd /d %userprofile%\Desktop $*
+
+ip=ipconfig $*
+cp=xcopy /Y /H /C $*
+rm=del $*
+ls=dir /B $*
+rmdir=rmdir /S /Q $*
+cc=cleanmgr /verylowdisk /autoclean /sagerun:5 $T powershell -File C:\tools\BCURRAN3\choco-cleaner.ps1 $*

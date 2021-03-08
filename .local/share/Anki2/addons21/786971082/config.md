@@ -1,0 +1,3 @@
+**saveEveryNSeconds** changes the number of seconds between automatic saves. Anki's default value is 300 (5 minutes). This add-on decreases that to 60 seconds (1 minute) by default. You can change it to any value you want, but be aware that low values may cause Anki to run noticeably slower. You must restart Anki for changes to this value to take effect.
+
+Autosaves are considered only when certain actions are taken such as saving a review or adding a card; just leaving Anki idle for *saveEveryNSeconds* seconds will not trigger a save. Choosing the “Force Save” menu option added by this add-on will always save immediately.

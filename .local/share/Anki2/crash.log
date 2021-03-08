@@ -1,0 +1,616 @@
+Windows fatal exception: access violation
+
+Current thread 0x00000ff0 (most recent call first):
+<no Python frame>
+Windows fatal exception: access violation
+
+Thread 0x00002b00 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00000afc (most recent call first):
+  File "selectors.py", line 314 in _select
+  File "selectors.py", line 323 in select
+  File "socketserver.py", line 232 in serve_forever
+  File "aqt\mediasrv.py", line 64 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000002f0 (most recent call first):
+  File "aqt\utils.py", line 105 in showInfo
+  File "aqt\utils.py", line 55 in showWarning
+  File "aqt\mediasync.py", line 105 in _handle_sync_error
+  File "aqt\mediasync.py", line 95 in _on_finished
+  File "aqt\taskman.py", line 53 in <lambda>
+  File "aqt\taskman.py", line 65 in _on_closures_pending
+  File "aqt\__init__.py", line 488 in _run
+  File "aqt\__init__.py", line 349 in run
+  File "runanki", line 4 in <module>
+Windows fatal exception: access violation
+
+Thread 0x00002b80 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00000d38 (most recent call first):
+  File "selectors.py", line 314 in _select
+  File "selectors.py", line 323 in select
+  File "socketserver.py", line 232 in serve_forever
+  File "aqt\mediasrv.py", line 64 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001b1c (most recent call first):
+  File "aqt\utils.py", line 105 in showInfo
+  File "aqt\utils.py", line 55 in showWarning
+  File "aqt\mediasync.py", line 105 in _handle_sync_error
+  File "aqt\mediasync.py", line 95 in _on_finished
+  File "aqt\taskman.py", line 53 in <lambda>
+  File "aqt\taskman.py", line 65 in _on_closures_pending
+  File "aqt\__init__.py", line 488 in _run
+  File "aqt\__init__.py", line 349 in run
+  File "runanki", line 4 in <module>
+Windows fatal exception: code 0x8001010d
+
+Thread 0x000021e8 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000024f4 (most recent call first):
+  File "selectors.py", line 314 in _select
+  File "selectors.py", line 323 in select
+  File "socketserver.py", line 232 in serve_forever
+  File "aqt\mediasrv.py", line 64 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Current thread 0x0000095c (most recent call first):
+  File "aqt\__init__.py", line 488 in _run
+  File "aqt\__init__.py", line 349 in run
+  File "runanki", line 4 in <module>
+Windows fatal exception: access violation
+
+Thread 0x00001720 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00002ab4 (most recent call first):
+  File "selectors.py", line 314 in _select
+  File "selectors.py", line 323 in select
+  File "socketserver.py", line 232 in serve_forever
+  File "aqt\mediasrv.py", line 64 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000029f4 (most recent call first):
+  File "aqt\utils.py", line 105 in showInfo
+  File "aqt\utils.py", line 55 in showWarning
+  File "aqt\mediasync.py", line 105 in _handle_sync_error
+  File "aqt\mediasync.py", line 95 in _on_finished
+  File "aqt\taskman.py", line 53 in <lambda>
+  File "aqt\taskman.py", line 65 in _on_closures_pending
+  File "aqt\__init__.py", line 488 in _run
+  File "aqt\__init__.py", line 349 in run
+  File "runanki", line 4 in <module>
+Windows fatal exception: access violation
+
+Thread 0x00003fa4 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003ccc (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001f20 (most recent call first):
+  File "threading.py", line 306 in wait
+  File "queue.py", line 179 in get
+  File "aqt\mpv.py", line 367 in _get_event
+  File "aqt\mpv.py", line 511 in _event_reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00002338 (most recent call first):
+  File "aqt\mpv.py", line 240 in _reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00004e94 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001548 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003bc4 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00004368 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x0000499c (most recent call first):
+  File "waitress\wasyncore.py", line 174 in poll
+  File "waitress\wasyncore.py", line 247 in loop
+  File "waitress\server.py", line 329 in run
+  File "aqt\mediasrv.py", line 71 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00004c78 (most recent call first):
+  File "aqt\__init__.py", line 570 in _run
+  File "aqt\__init__.py", line 400 in run
+  File "runanki", line 4 in <module>
+Windows fatal exception: access violation
+
+Thread 0x00003eb0 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00002998 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00002dac (most recent call first):
+  File "threading.py", line 306 in wait
+  File "queue.py", line 179 in get
+  File "aqt\mpv.py", line 363 in _get_event
+  File "aqt\mpv.py", line 502 in _event_reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003f00 (most recent call first):
+  File "aqt\mpv.py", line 238 in _reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003248 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00000c3c (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000012cc (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003bec (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003d48 (most recent call first):
+  File "waitress\wasyncore.py", line 174 in poll
+  File "waitress\wasyncore.py", line 247 in loop
+  File "waitress\server.py", line 329 in run
+  File "aqt\mediasrv.py", line 71 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003fd0 (most recent call first):
+  File "aqt\__init__.py", line 570 in _run
+  File "aqt\__init__.py", line 400 in run
+  File "runanki", line 4 in <module>
+Windows fatal exception: code 0x8001010d
+
+Thread 0x00003a8c (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00002188 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001e3c (most recent call first):
+  File "threading.py", line 306 in wait
+  File "queue.py", line 179 in get
+  File "aqt\mpv.py", line 363 in _get_event
+  File "aqt\mpv.py", line 502 in _event_reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00002190 (most recent call first):
+  File "aqt\mpv.py", line 238 in _reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00002bf4 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003a44 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000031a4 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001624 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00002be4 (most recent call first):
+  File "waitress\wasyncore.py", line 174 in poll
+  File "waitress\wasyncore.py", line 247 in loop
+  File "waitress\server.py", line 329 in run
+  File "aqt\mediasrv.py", line 71 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Current thread 0x00001d90 (most recent call first):
+  File "aqt\__init__.py", line 570 in _run
+  File "aqt\__init__.py", line 400 in run
+  File "runanki", line 4 in <module>
+Windows fatal exception: access violation
+
+Thread 0x00003920 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x0000596c (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003b10 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003dd8 (most recent call first):
+  File "threading.py", line 306 in wait
+  File "queue.py", line 179 in get
+  File "aqt\mpv.py", line 363 in _get_event
+  File "aqt\mpv.py", line 502 in _event_reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00005c7c (most recent call first):
+  File "aqt\mpv.py", line 238 in _reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00006128 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003a78 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000053a0 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00005558 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 74 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x0000343c (most recent call first):
+  File "waitress\wasyncore.py", line 174 in poll
+  File "waitress\wasyncore.py", line 247 in loop
+  File "waitress\server.py", line 329 in run
+  File "aqt\mediasrv.py", line 71 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00004404 (most recent call first):
+  File "aqt\__init__.py", line 570 in _run
+  File "aqt\__init__.py", line 400 in run
+  File "runanki", line 4 in <module>
+Windows fatal exception: code 0x8001010d
+
+Thread 0x000013d0 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x0000384c (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000015e0 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001804 (most recent call first):
+  File "threading.py", line 306 in wait
+  File "queue.py", line 179 in get
+  File "aqt\mpv.py", line 363 in _get_event
+  File "aqt\mpv.py", line 502 in _event_reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000012f8 (most recent call first):
+  File "aqt\mpv.py", line 238 in _reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003a6c (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000038b8 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001be0 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000038ec (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00000c84 (most recent call first):
+  File "waitress\wasyncore.py", line 172 in poll
+  File "waitress\wasyncore.py", line 245 in loop
+  File "waitress\server.py", line 322 in run
+  File "aqt\mediasrv.py", line 80 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Current thread 0x000036d4 (most recent call first):
+  File "aqt\__init__.py", line 574 in _run
+  File "aqt\__init__.py", line 405 in run
+  File "runanki.py", line 4 in <module>
+Windows fatal exception: access violation
+
+Thread 0x00002760 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001354 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000030d0 (most recent call first):
+  File "threading.py", line 306 in wait
+  File "queue.py", line 179 in get
+  File "aqt\mpv.py", line 363 in _get_event
+  File "aqt\mpv.py", line 502 in _event_reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00002b6c (most recent call first):
+  File "aqt\mpv.py", line 238 in _reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001f4c (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x0000260c (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000016ac (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000020f8 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001b5c (most recent call first):
+  File "waitress\wasyncore.py", line 172 in poll
+  File "waitress\wasyncore.py", line 245 in loop
+  File "waitress\server.py", line 322 in run
+  File "aqt\mediasrv.py", line 80 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x0000319c (most recent call first):
+  File "aqt\__init__.py", line 574 in _run
+  File "aqt\__init__.py", line 405 in run
+  File "runanki.py", line 4 in <module>
+Windows fatal exception: access violation
+
+Thread 0x00004514 (most recent call first):
+  File "threading.py", line 306 in wait
+  File "queue.py", line 179 in get
+  File "aqt\mpv.py", line 363 in _get_event
+  File "aqt\mpv.py", line 502 in _event_reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Current thread 0x0000462c (most recent call first):
+<no Python frame>
+Windows fatal exception: access violation
+
+Thread 0x00002988 (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x0000239c (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000018dc (most recent call first):
+  File "concurrent\futures\thread.py", line 78 in _worker
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003020 (most recent call first):
+  File "threading.py", line 306 in wait
+  File "queue.py", line 179 in get
+  File "aqt\mpv.py", line 363 in _get_event
+  File "aqt\mpv.py", line 502 in _event_reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003028 (most recent call first):
+  File "aqt\mpv.py", line 238 in _reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000019dc (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00000f38 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x000034d0 (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00001bec (most recent call first):
+  File "threading.py", line 302 in wait
+  File "waitress\task.py", line 72 in handler_thread
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x0000131c (most recent call first):
+  File "waitress\wasyncore.py", line 172 in poll
+  File "waitress\wasyncore.py", line 245 in loop
+  File "waitress\server.py", line 322 in run
+  File "aqt\mediasrv.py", line 80 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Thread 0x00003688 (most recent call first):
+  File "aqt\__init__.py", line 574 in _run
+  File "aqt\__init__.py", line 405 in run
+  File "runanki.py", line 4 in <module>
