@@ -7,8 +7,8 @@ config = aqt.mw.addonManager.getConfig(__name__)
 # config["killpoint"] #  140: suspends cards if you review them successfully and the resulting interval is at least this value in days. adds a "auto-suspended" tag.
 
 # burying and killing can be disabled for specific cards by adding special tags
-# "no_burry" to disable burying
-# "no_suspend" to disable killing
+# "No::Burry" to disable burying
+# "No::Suspend" to disable killing
 
 def checkKill(self, card, ease, early, _old):
     ret = _old(self, card, ease, early)
@@ -16,14 +16,14 @@ def checkKill(self, card, ease, early, _old):
         return ret
     
     note = card.note()
-    if note.hasTag("no_suspend"):
+    if note.hasTag("No::Suspend"):
         return ret
     
     if card.ivl >= config["killpoint"]:
         self.suspendCards([card.id])
         note.addTag("auto-suspended")
         note.flush()
-        tooltip(_("Card automatically auto-suspended and tagged due to high maturity - DA KILL Z0NE"))
+        tooltip(_("Card automatically auto-suspended and tagged due to high maturity"))
     return ret
 
 to_bury = []
@@ -35,12 +35,12 @@ def checkBury(self, card, ease, _old):
         return ret
     
     note = card.note()
-    if note.hasTag("no_burry"):
+    if note.hasTag("No::Burry"):
         return ret
     
     count_relapses_today = self.col.db.scalar("select count() from revlog where ease = 1 and type = 2 and cid = ? and id > ?", card.id, (self.col.sched.dayCutoff-86400)*1000)
     if count_relapses_today >= config["burypoint"]:
-        tooltip(_("Card automatically buried until tomorrow - DA BURY Z0NE"))
+        tooltip(_("Card automatically buried until tomorrow"))
         to_bury += [card.id]
     return ret
 

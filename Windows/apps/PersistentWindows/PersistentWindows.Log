@@ -462,3 +462,1126 @@ CAOCD - Capturing 6560.525942 WindowsTerminal                   at [ 234x 234] s
 12:30:21 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
 12:30:21 Logger 1 windows recorded
 CAOCD - Capturing 9252.264028 explorer                          at [2145x 355] size [1138x 657] V:True D:\jakub\Desktop\dotfiles 
+12:32:56 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:32:56 Logger 1 windows recorded
+CAOCD - Capturing 10664.395046 cmd                              at [ 260x 260] size [ 993x 519] V:True C:\WINDOWS\system32\cmd.exe 
+12:33:31 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:33:31 Logger 1 windows recorded
+CAOCD - Capturing 10664.395046 cmd                              at [ 438x 246] size [ 993x 519] V:True C:\WINDOWS\system32\cmd.exe 
+12:34:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:34:01 Logger 1 windows recorded
+CAOCD - Capturing 4064.853520 firefox                           at [ 670x   6] size [1099x1020] V:True Mozilla Firefox 
+12:34:02 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:34:02 Logger 1 windows recorded
+CAOCD - Capturing 4064.853520 firefox                           at [2295x  44] size [1099x1020] V:True Mozilla Firefox 
+12:34:03 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:34:03 Logger 1 windows recorded
+CAOCD - Capturing 4064.853520 firefox                           at [2590x   6] size [1099x1020] V:True Mozilla Firefox 
+12:34:14 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:34:14 Logger 1 windows recorded
+CAOCD - Capturing 9252.656786 explorer                          at [2119x 329] size [1138x 657] V:True This PC 
+12:34:16 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:34:16 Logger 1 windows recorded
+CAOCD - Capturing 9252.656786 explorer                          at [-1255x 246] size [1138x 657] V:True This PC 
+12:34:34 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:34:34 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [2590x   6] size [1099x1020] V:True Mozilla Firefox 
+12:37:31 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:37:31 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [ 670x   6] size [1099x1020] V:True rearanging monitors display port windows - Google Search — Mozilla Firefox 
+12:38:19 Logger System Suspending
+12:38:32 Logger System Resuming
+12:38:32 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:38:32 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+12:38:32 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+12:38:32 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+12:38:32 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+12:38:33 Logger Detected changes in display metrics, will capture once windows are restored
+12:38:34 Logger Detected changes in display metrics, will capture once windows are restored
+12:38:35 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:38:35 Logger 3 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [2590x   6] size [1099x1020] V:True windows 7 - Turning DisplayPort monitor off disables monitor completely - Super User — Mozilla Firefox 
+CAOCD - Capturing 10792.66486 TextInputHost                     at [1920x   0] size [1920x1200] V:True Microsoft Text Input Application 
+CAOCD - Capturing 1692.262214 ApplicationFrameHost              at [2435x 229] size [1216x 941] V:True Microsoft Store 
+12:38:40 Logger Display settings changed
+12:38:40 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:38:40 Logger SetWindowPlacement(firefox [2590x6]-[1099x1020]) - True
+12:38:40 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+12:38:40 Logger SetWindowPlacement(ApplicationFrameHost [2435x229]-[1216x941]) - True
+12:38:40 Logger SetWindowPlacement(TextInputHost [1920x0]-[1920x1200]) - True
+12:38:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:38:49 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [ 670x   6] size [1099x1020] V:True windows 7 - Turning DisplayPort monitor off disables monitor completely - Super User — Mozilla Firefox 
+12:39:00 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:39:00 Logger 5 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [ 670x   6] size [1099x1020] V:True windows 7 - Turning DisplayPort monitor off disables monitor completely - Super User — Mozilla Firefox 
+CAOCD - Capturing 10792.66486 TextInputHost                     at [1920x   0] size [1920x1200] V:True Microsoft Text Input Application 
+CAOCD - Capturing 1692.262214 ApplicationFrameHost              at [2435x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 2120.131588 WinStore.App                      at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 9252.2885040 explorer                         at [-1255x 246] size [1138x 657] V:True C:\rice\apps\PersistentWindows 
+12:39:05 Logger System Suspending
+12:39:21 Logger System Resuming
+12:39:21 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:39:21 Logger 2 windows recorded
+CAOCD - Capturing 10792.66486 TextInputHost                     at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+CAOCD - Capturing 1692.262214 ApplicationFrameHost              at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+12:39:21 Logger No old profile found for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+12:39:21 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+12:39:21 Logger 5 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [ 670x   6] size [1099x1020] V:True windows 7 - Turning DisplayPort monitor off disables monitor completely - Super User — Mozilla Firefox 
+CAOCD - Capturing 10792.66486 TextInputHost                     at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+CAOCD - Capturing 1692.262214 ApplicationFrameHost              at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 2120.131588 WinStore.App                      at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 9252.2885040 explorer                         at [-1255x 246] size [1138x 657] V:True C:\rice\apps\PersistentWindows 
+12:39:25 Logger Detected changes in display metrics, will capture once windows are restored
+12:39:26 Logger Detected changes in display metrics, will capture once windows are restored
+12:39:27 Logger Detected changes in display metrics, will capture once windows are restored
+12:39:28 Logger Detected changes in display metrics, will capture once windows are restored
+12:39:29 Logger Detected changes in display metrics, will capture once windows are restored
+12:39:30 Logger Detected changes in display metrics, will capture once windows are restored
+12:39:31 Logger Detected changes in display metrics, will capture once windows are restored
+12:39:31 Logger Display settings changed
+12:39:31 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:39:32 Logger SetWindowPlacement(explorer [-1255x246]-[1138x657]) - True
+12:39:32 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+12:39:32 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+12:39:32 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+12:39:32 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+12:39:44 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:39:44 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [2590x   6] size [1099x1020] V:True windows 7 - Turning DisplayPort monitor off disables monitor completely - Super User — Mozilla Firefox 
+12:39:48 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:39:48 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [ 401x  -8] size [1099x1020] V:True windows 7 - Turning DisplayPort monitor off disables monitor completely - Super User — Mozilla Firefox 
+12:39:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:39:49 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [ 670x   6] size [1099x1020] V:True windows 7 - Turning DisplayPort monitor off disables monitor completely - Super User — Mozilla Firefox 
+12:39:53 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:39:53 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [2462x  -8] size [1099x1020] V:True windows 7 - Turning DisplayPort monitor off disables monitor completely - Super User — Mozilla Firefox 
+12:40:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:40:01 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [ 650x 159] size [1099x1020] V:True Jisho.org: Japanese Dictionary — Mozilla Firefox 
+12:40:02 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:40:02 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [2462x  -8] size [1099x1020] V:True Jisho.org: Japanese Dictionary — Mozilla Firefox 
+12:40:22 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:40:22 Logger 5 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [2462x  -8] size [1099x1020] V:True Jisho.org: Japanese Dictionary — Mozilla Firefox 
+CAOCD - Capturing 10792.66486 TextInputHost                     at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+CAOCD - Capturing 1692.262214 ApplicationFrameHost              at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 2120.131588 WinStore.App                      at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 9252.1574572 explorer                         at [-1255x 246] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 
+12:40:24 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:40:24 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [ 542x  -8] size [1099x1020] V:True Jisho.org: Japanese Dictionary — Mozilla Firefox 
+12:40:26 Logger System Suspending
+12:40:39 Logger System Resuming
+12:40:39 Logger No old profile found for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+12:40:40 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+12:40:40 Logger 4 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [ 542x  -8] size [1099x1020] V:True Jisho.org: Japanese Dictionary — Mozilla Firefox 
+CAOCD - Capturing 10792.66486 TextInputHost                     at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+CAOCD - Capturing 1692.262214 ApplicationFrameHost              at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 2120.131588 WinStore.App                      at [   0x   1] size [1200x 932] V:True Microsoft Store 
+12:40:46 Logger Detected changes in display metrics, will capture once windows are restored
+12:40:47 Logger Detected changes in display metrics, will capture once windows are restored
+12:40:48 Logger Detected changes in display metrics, will capture once windows are restored
+12:40:49 Logger Detected changes in display metrics, will capture once windows are restored
+12:40:50 Logger Detected changes in display metrics, will capture once windows are restored
+12:40:50 Logger Display settings changed
+12:40:50 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:40:50 Logger SetWindowPlacement(firefox [542x-8]-[1099x1020]) - True
+12:40:50 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+12:40:50 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+12:40:50 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+12:40:53 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:40:53 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [ 582x  -8] size [1099x1020] V:True Jisho.org: Japanese Dictionary — Mozilla Firefox 
+12:40:55 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:40:55 Logger 1 windows recorded
+CAOCD - Capturing 10032.394918 firefox                          at [2502x  -8] size [1099x1020] V:True Jisho.org: Japanese Dictionary — Mozilla Firefox 
+12:45:58 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:45:58 Logger 1 windows recorded
+CAOCD - Capturing 10616.918218 regedit                          at [2131x 186] size [1440x 849] V:True Registry Editor 
+12:46:02 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:46:02 Logger 1 windows recorded
+CAOCD - Capturing 10616.918218 regedit                          at [ 182x 198] size [1440x 849] V:True Registry Editor 
+12:47:15 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:47:15 Logger 1 windows recorded
+CAOCD - Capturing 10616.918218 regedit                          at [ 424x 913] size [1440x 849] V:True Registry Editor 
+12:47:16 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:47:16 Logger 1 windows recorded
+CAOCD - Capturing 10616.918218 regedit                          at [ 197x 440] size [1440x 849] V:True Registry Editor 
+12:47:17 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:47:17 Logger 1 windows recorded
+CAOCD - Capturing 10616.918218 regedit                          at [ 221x 253] size [1440x 849] V:True Registry Editor 
+12:47:18 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:47:18 Logger 1 windows recorded
+CAOCD - Capturing 10616.918218 regedit                          at [ 198x 204] size [1440x 849] V:True Registry Editor 
+12:47:28 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:47:28 Logger 1 windows recorded
+CAOCD - Capturing 2828.2033314 WindowsTerminal                  at [  78x  78] size [1129x 631] V:True Administrator: Command Prompt 
+12:48:52 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:48:52 Logger 0 windows recorded
+
+12:48:55 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:48:55 Logger 1 windows recorded
+CAOCD - Capturing 10548.131230 TextInputHost                    at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+12:49:04 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:49:04 Logger 1 windows recorded
+CAOCD - Capturing 4476.196690 explorer                          at [-1255x 246] size [1138x 657] V:True This PC 
+12:49:21 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:49:21 Logger 1 windows recorded
+CAOCD - Capturing 5632.197522 firefox                           at [2502x   0] size [1099x1020] V:True Mozilla Firefox 
+12:49:22 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:49:22 Logger 1 windows recorded
+CAOCD - Capturing 11660.196748 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+12:49:23 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:49:23 Logger 1 windows recorded
+CAOCD - Capturing 11684.197506 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+12:49:40 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:49:40 Logger 1 windows recorded
+CAOCD - Capturing 11660.197570 ApplicationFrameHost             at [ 344x 118] size [1216x 953] V:True Settings 
+12:49:41 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:49:41 Logger 1 windows recorded
+CAOCD - Capturing 13016.196642 SystemSettings                   at [   0x   1] size [1200x 944] V:True Settings 
+12:52:05 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:52:05 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [-466x 386] size [ 439x 348] V:True Anki 
+12:52:07 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:52:07 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 809x 576] size [ 439x 348] V:True Anki 
+12:52:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:52:49 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 780x 568] size [ 439x 348] V:True JP Additional vocab – Anki 
+12:53:36 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:53:36 Logger 1 windows recorded
+CAOCD - Capturing 11380.918332 anki                             at [1142x 747] size [ 103x  94] V:True Anki 
+12:53:41 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:53:41 Logger 1 windows recorded
+CAOCD - Capturing 11380.917546 anki                             at [1094x 394] size [ 161x  94] V:True Anki 
+12:53:47 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:53:47 Logger 1 windows recorded
+CAOCD - Capturing 11380.327846 anki                             at [ 908x 401] size [ 162x  10] V:True Anki 
+12:54:04 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:54:04 Logger 1 windows recorded
+CAOCD - Capturing 11380.393380 anki                             at [ 942x 602] size [  93x  28] V:True Anki 
+12:54:12 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:54:12 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 760x 576] size [ 439x 348] V:True Anki 
+12:54:13 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:54:13 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 760x 577] size [ 439x 348] V:True Anki 
+12:54:18 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:54:18 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 734x 480] size [ 439x 348] V:True Tobira Vocab – Anki 
+12:54:19 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:54:19 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 730x 464] size [ 439x 348] V:True Tobira Vocab – Anki 
+12:55:03 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:55:03 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 721x 451] size [ 439x 348] V:True Anki 
+12:55:04 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:55:04 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 741x 445] size [ 439x 348] V:True Anki 
+12:58:35 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:58:35 Logger 1 windows recorded
+CAOCD - Capturing 11380.394494 anki                             at [ 957x 533] size [  92x  19] V:True Anki 
+12:58:36 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:58:36 Logger 1 windows recorded
+CAOCD - Capturing 11380.394494 anki                             at [ 847x 533] size [  93x  19] V:True Anki 
+12:58:37 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:58:37 Logger 1 windows recorded
+CAOCD - Capturing 11380.458908 anki                             at [ 783x 496] size [ 143x  28] V:True Anki 
+12:58:38 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:58:38 Logger 1 windows recorded
+CAOCD - Capturing 11380.328916 anki                             at [ 819x 496] size [ 262x 209] V:True Anki 
+12:58:45 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:58:45 Logger 1 windows recorded
+CAOCD - Capturing 11380.4129986 anki                            at [2315x 342] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+12:58:47 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:58:47 Logger 1 windows recorded
+CAOCD - Capturing 11380.4129986 anki                            at [-851x 368] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+12:59:05 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:59:05 Logger 1 windows recorded
+CAOCD - Capturing 11380.524794 anki                             at [ 596x 544] size [ 130x 119] V:True Anki 
+13:00:02 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:00:02 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [ 599x 368] size [1099x 764] V:True new 1 - Notepad++ [Administrator] 
+13:00:03 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:00:03 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1179x 204] size [1099x 764] V:True new 1 - Notepad++ [Administrator] 
+13:02:03 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:02:03 Logger 1 windows recorded
+CAOCD - Capturing 7528.1639694 explorer                         at [   0x   0] size [1920x1170] V:True Task Switching 
+13:05:50 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:05:50 Logger 1 windows recorded
+CAOCD - Capturing 5632.263430 firefox                           at [2264x  21] size [  59x  22] V:True New Tab 
+13:06:31 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:06:31 Logger 1 windows recorded
+CAOCD - Capturing 11380.458908 anki                             at [ 783x 496] size [ 183x  28] V:True Anki 
+13:06:43 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:06:43 Logger 1 windows recorded
+CAOCD - Capturing 11380.1115402 anki                            at [ 985x 561] size [ 140x  52] V:True Anki 
+13:07:31 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:07:31 Logger 1 windows recorded
+CAOCD - Capturing 11380.656672 anki                             at [ 953x 610] size [ 140x  52] V:True Anki 
+13:07:34 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:07:34 Logger 1 windows recorded
+CAOCD - Capturing 5632.263430 firefox                           at [2590x  45] size [ 178x  22] V:True Tobira Chapter 9 - Google Docs 
+13:09:13 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:09:13 Logger 1 windows recorded
+CAOCD - Capturing 11380.853206 anki                             at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:09:27 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:09:27 Logger 1 windows recorded
+CAOCD - Capturing 5632.263430 firefox                           at [2611x  39] size [  59x  22] V:True New Tab 
+13:09:59 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:09:59 Logger 1 windows recorded
+CAOCD - Capturing 11380.1377484 anki                            at [-760x 419] size [ 228x 174] V:True Anki 
+13:10:27 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:10:27 Logger 1 windows recorded
+CAOCD - Capturing 11380.656600 anki                             at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:10:34 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:10:34 Logger 1 windows recorded
+CAOCD - Capturing 11380.1049566 anki                            at [-479x   0] size [ 467x 584] V:True Anki 
+13:11:11 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:11:11 Logger 1 windows recorded
+CAOCD - Capturing 11380.4850806 anki                            at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:11:17 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:11:17 Logger 1 windows recorded
+CAOCD - Capturing 11380.4916342 anki                            at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:11:44 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:11:44 Logger 1 windows recorded
+CAOCD - Capturing 11380.918796 anki                             at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:12:00 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:12:00 Logger 1 windows recorded
+CAOCD - Capturing 11380.5112950 anki                            at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:12:12 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:12:12 Logger 1 windows recorded
+CAOCD - Capturing 11380.1115404 anki                            at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:12:16 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:12:16 Logger 1 windows recorded
+CAOCD - Capturing 11380.1180940 anki                            at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:12:27 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:12:27 Logger 1 windows recorded
+CAOCD - Capturing 11380.2294750 anki                            at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:13:06 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:13:06 Logger 1 windows recorded
+CAOCD - Capturing 11380.1377548 anki                            at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:13:11 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:13:11 Logger 1 windows recorded
+CAOCD - Capturing 11380.2491358 anki                            at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:13:13 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:13:13 Logger 1 windows recorded
+CAOCD - Capturing 11380.1574156 anki                            at [ 970x 522] size [  92x  19] V:True Anki 
+13:13:15 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:13:15 Logger 1 windows recorded
+CAOCD - Capturing 11380.1639692 anki                            at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:13:18 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:13:18 Logger 1 windows recorded
+CAOCD - Capturing 11380.2360536 anki                            at [-851x 368] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+13:21:20 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:21:20 Logger 1 windows recorded
+CAOCD - Capturing 7528.2163926 explorer                         at [   0x   0] size [1920x1170] V:True Task Switching 
+13:22:43 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:22:43 Logger 1 windows recorded
+CAOCD - Capturing 9760.2360534 Greenshot                        at [-1680x   0] size [5520x1200] V:True Greenshot capture form 
+13:22:51 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:22:51 Logger 1 windows recorded
+CAOCD - Capturing 9760.263716 Greenshot                         at [ 182x 182] size [ 225x 105] V:True Imgur plug-in 
+13:22:56 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:22:56 Logger 1 windows recorded
+CAOCD - Capturing 5328.67250 chrome                             at [2391x 166] size [ 942x 935] V:True Messages 
+13:22:59 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:22:59 Logger 1 windows recorded
+CAOCD - Capturing 5328.67250 chrome                             at [2263x 178] size [ 942x 935] V:True Messages for web 
+13:23:00 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:23:00 Logger 1 windows recorded
+CAOCD - Capturing 5328.67250 chrome                             at [ 603x 105] size [ 942x 935] V:True Messages for web 
+13:23:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:23:01 Logger 1 windows recorded
+CAOCD - Capturing 5328.67250 chrome                             at [-544x  91] size [ 942x 935] V:True Messages for web 
+13:23:02 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:23:02 Logger 1 windows recorded
+CAOCD - Capturing 5328.67250 chrome                             at [-1383x  97] size [ 942x 935] V:True Messages for web 
+13:23:03 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:23:03 Logger 1 windows recorded
+CAOCD - Capturing 5328.67250 chrome                             at [-1199x  59] size [ 942x 935] V:True Messages for web 
+13:23:06 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:23:06 Logger 1 windows recorded
+CAOCD - Capturing 5328.198272 chrome                            at [-965x  97] size [ 656x 824] V:True Imgur: The magic of the Internet - Chromium 
+13:23:16 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:23:16 Logger 1 windows recorded
+CAOCD - Capturing 5632.262258 firefox                           at [2954x  67] size [ 480x  86] V:True https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.mff.cuni.cz%2Fkoronavirus%3Ffbclid%3DIwAR3w0jNJiHBLYr3jLRkDSrgITwPoWfSXauUcDZXsNqYjVTJ5IhbTVklrjWM&h=AT0jEyheTfgfQD7UJqzcL8C8OYm4PVvg9te6SBlPfx0SDFtmkznabfJFL0qBjUZRIHgRVKRDfaQyDO2gP2oc_PaOIMVu9M8HaDaLvzH5pB0_vU2VV0BEaz4BvSbv0kqty6GF&__tn__=-UK-R&c[0]=AT06hJtS1HDFQ1Pmmm8rQdKuKBySSLilr6lNjtN3k_evsJIbSKHCD9Lz2SJkuQ61Yaj4qi-dfiwLclb1C2jg8PKW87zRbnGSElkDZzscCld5ehQmVwsC8zPLok6QK6nkRwFL9pMEG3eQiBiXnhamV5VG9JFQuY3FgNCXCP_I-nkeXxrq8Fhjhsl5OWkA9crLCvWJf9U 
+13:32:00 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:32:00 Logger 1 windows recorded
+CAOCD - Capturing 11380.722174 anki                             at [-851x 368] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+13:32:07 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:32:07 Logger 1 windows recorded
+CAOCD - Capturing 11380.525890 anki                             at [1008x 532] size [  91x  19] V:True Anki 
+13:32:40 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:32:40 Logger 1 windows recorded
+CAOCD - Capturing 11380.590970 anki                             at [1105x 599] size [ 103x  94] V:True Anki 
+13:33:10 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:33:10 Logger 1 windows recorded
+CAOCD - Capturing 11380.263790 anki                             at [-851x 368] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+13:33:12 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:33:12 Logger 1 windows recorded
+CAOCD - Capturing 11380.263790 anki                             at [ -46x 373] size [ 765x 532] V:True Browse (1 of 12 cards selected) 
+13:33:13 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:33:13 Logger 1 windows recorded
+CAOCD - Capturing 11380.263790 anki                             at [ -45x 374] size [ 765x 532] V:True Browse (1 of 12 cards selected) 
+13:33:15 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:33:15 Logger 1 windows recorded
+CAOCD - Capturing 11380.263790 anki                             at [ 223x 398] size [ 765x 532] V:True Browse (1 of 12 cards selected) 
+13:33:42 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:33:42 Logger 1 windows recorded
+CAOCD - Capturing 11380.656960 anki                             at [ 787x 508] size [ 336x 121] V:True Anki 
+13:33:45 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:33:45 Logger 1 windows recorded
+CAOCD - Capturing 11380.919104 anki                             at [ 787x 508] size [ 336x 121] V:True Anki 
+13:34:31 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:34:31 Logger 1 windows recorded
+CAOCD - Capturing 11380.591470 anki                             at [1103x 602] size [ 103x  94] V:True Anki 
+13:34:35 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:34:35 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 752x 472] size [ 439x 348] V:True Anki 
+13:43:14 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:43:14 Logger 1 windows recorded
+CAOCD - Capturing 11380.198266 anki                             at [ 223x 398] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+13:43:19 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+13:43:19 Logger 1 windows recorded
+CAOCD - Capturing 11380.263802 anki                             at [ 223x 398] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+14:02:18 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:02:18 Logger 1 windows recorded
+CAOCD - Capturing 11380.460340 anki                             at [ 787x 508] size [ 336x 121] V:True Anki 
+14:02:30 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:02:30 Logger 1 windows recorded
+CAOCD - Capturing 11380.328916 anki                             at [ 830x 523] size [ 262x 209] V:True Anki 
+14:02:48 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:02:48 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 689x 502] size [ 439x 348] V:True Filtered Deck 1:–: (Tobira Vocab) – Anki 
+14:04:48 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:04:48 Logger 1 windows recorded
+CAOCD - Capturing 11380.657020 anki                             at [ 787x 587] size [  93x  19] V:True Anki 
+14:04:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:04:49 Logger 1 windows recorded
+CAOCD - Capturing 11380.458908 anki                             at [ 731x 553] size [ 183x  28] V:True Anki 
+14:06:26 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:06:26 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 754x 452] size [ 439x 348] V:True Filtered Deck 1:–: (Tobira Vocab) – Anki 
+14:06:37 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:06:37 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 700x 481] size [ 439x 348] V:True Filtered Deck 1:–: (Tobira Vocab) – Anki 
+14:06:38 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:06:38 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 748x 465] size [ 439x 348] V:True Filtered Deck 1:–: (Tobira Vocab) – Anki 
+14:06:39 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:06:39 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 748x 444] size [ 439x 348] V:True Filtered Deck 1:–: (Tobira Vocab) – Anki 
+14:07:55 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:07:55 Logger 1 windows recorded
+CAOCD - Capturing 10464.132780 PersistentWindows                at [  26x  26] size [ 525x 350] V:True MainWindow 
+14:08:05 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:08:05 Logger 1 windows recorded
+CAOCD - Capturing 11380.198316 anki                             at [ 223x 398] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+14:13:02 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:13:02 Logger 1 windows recorded
+CAOCD - Capturing 11380.1508980 anki                            at [-1048x 279] size [ 416x 439] V:True Edit Current 
+14:13:05 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:13:05 Logger 1 windows recorded
+CAOCD - Capturing 11380.460474 anki                             at [1156x 758] size [ 220x 323] V:True Anki 
+14:13:11 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:13:11 Logger 1 windows recorded
+CAOCD - Capturing 11380.460460 anki                             at [1369x 758] size [ 177x  94] V:True Anki 
+14:13:19 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:13:19 Logger 1 windows recorded
+CAOCD - Capturing 11380.1640052 anki                            at [1132x 753] size [ 220x 323] V:True Anki 
+14:13:20 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:13:20 Logger 1 windows recorded
+CAOCD - Capturing 11380.2098740 anki                            at [1345x 753] size [ 177x  94] V:True Anki 
+14:17:34 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:17:34 Logger 1 windows recorded
+CAOCD - Capturing 8840.198310 cmd                               at [ 234x 234] size [ 993x 519] V:True C:\WINDOWS\system32\cmd.exe 
+14:17:52 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:17:52 Logger 1 windows recorded
+CAOCD - Capturing 7528.1443452 explorer                         at [   0x   0] size [1920x1170] V:True Task Switching 
+14:18:33 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:18:33 Logger 1 windows recorded
+CAOCD - Capturing 11380.394970 anki                             at [ 897x 610] size [ 140x  52] V:True Anki 
+14:18:41 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:18:41 Logger 1 windows recorded
+CAOCD - Capturing 11380.263858 anki                             at [ 918x 607] size [ 140x  52] V:True Anki 
+14:22:05 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:22:05 Logger 1 windows recorded
+CAOCD - Capturing 11380.1115710 anki                            at [1112x 602] size [ 103x  94] V:True Anki 
+14:22:07 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:22:07 Logger 1 windows recorded
+CAOCD - Capturing 11380.591530 anki                             at [ 223x 398] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+14:22:16 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:22:16 Logger 1 windows recorded
+CAOCD - Capturing 11380.329440 anki                             at [ 787x 508] size [ 336x 121] V:True Anki 
+14:22:43 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:22:43 Logger 1 windows recorded
+CAOCD - Capturing 11380.460512 anki                             at [ 947x 483] size [ 206x  19] V:True Anki 
+14:23:03 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:23:03 Logger 1 windows recorded
+CAOCD - Capturing 11380.460454 anki                             at [ 223x 398] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+14:23:09 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:23:09 Logger 1 windows recorded
+CAOCD - Capturing 11380.525992 anki                             at [ 635x 550] size [ 467x 584] V:True Anki 
+14:23:38 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:23:38 Logger 1 windows recorded
+CAOCD - Capturing 11380.328916 anki                             at [ 826x 495] size [ 262x 209] V:True Anki 
+14:23:40 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:23:40 Logger 1 windows recorded
+CAOCD - Capturing 11380.394904 anki                             at [1107x 604] size [ 103x  94] V:True Anki 
+14:26:46 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:26:46 Logger 1 windows recorded
+CAOCD - Capturing 11380.327952 anki                             at [ 223x 398] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+14:28:26 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:28:26 Logger 1 windows recorded
+CAOCD - Capturing 11380.1509034 anki                            at [ 223x 398] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+14:28:33 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:28:33 Logger 1 windows recorded
+CAOCD - Capturing 11380.1509034 anki                            at [-681x 391] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+14:28:34 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:28:34 Logger 1 windows recorded
+CAOCD - Capturing 11380.1509034 anki                            at [-927x 346] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+14:28:38 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:28:38 Logger 1 windows recorded
+CAOCD - Capturing 9192.1050280 explorer                         at [-1255x 246] size [1138x 657] V:True This PC 
+14:28:40 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:28:40 Logger 1 windows recorded
+CAOCD - Capturing 9192.1050280 explorer                         at [-1429x 126] size [1138x 657] V:True C:\ 
+14:28:46 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:28:46 Logger 1 windows recorded
+CAOCD - Capturing 9192.394908 explorer                          at [-1429x 126] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming 
+14:29:37 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:29:37 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1216x 232] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+14:29:38 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:29:38 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1431x 163] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+14:29:48 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:29:48 Logger 1 windows recorded
+CAOCD - Capturing 11380.1574570 anki                            at [-927x 346] size [ 765x 532] V:True Browse (1 of 1 cards selected) 
+14:34:07 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:34:07 Logger 1 windows recorded
+CAOCD - Capturing 7528.198480 explorer                          at [   0x   0] size [1920x1170] V:True Task Switching 
+14:34:53 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:34:53 Logger 1 windows recorded
+CAOCD - Capturing 7528.657180 explorer                          at [   0x   0] size [1920x1170] V:True Task Switching 
+14:36:30 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:36:30 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 733x 446] size [ 439x 348] V:True Filtered Deck 1:–: (Tobira Vocab) – Anki 
+14:40:19 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:40:19 Logger 1 windows recorded
+CAOCD - Capturing 7528.395264 explorer                          at [   0x   0] size [1920x1170] V:True Task Switching 
+14:46:47 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:46:47 Logger 1 windows recorded
+CAOCD - Capturing 11380.1181478 anki                            at [-927x 346] size [ 765x 532] V:True Anki 
+14:47:09 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:47:09 Logger 1 windows recorded
+CAOCD - Capturing 11380.657408 anki                             at [-590x 859] size [ 178x  21] V:True Anki 
+14:47:15 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:47:15 Logger 1 windows recorded
+CAOCD - Capturing 11380.722944 anki                             at [-609x 849] size [ 424x  21] V:True Anki 
+14:47:24 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:47:24 Logger 1 windows recorded
+CAOCD - Capturing 11380.1247014 anki                            at [-927x 346] size [ 765x 532] V:True Browse (1 of 16 cards selected) 
+14:52:25 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:52:25 Logger 1 windows recorded
+CAOCD - Capturing 11380.1771302 anki                            at [-927x 346] size [ 765x 532] V:True Anki 
+14:52:33 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+14:52:33 Logger 1 windows recorded
+CAOCD - Capturing 11380.1640450 anki                            at [-609x 849] size [ 424x  21] V:True Anki 
+15:00:57 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:00:57 Logger 1 windows recorded
+CAOCD - Capturing 7528.1378298 explorer                         at [   0x   0] size [1920x1170] V:True Task Switching 
+15:03:26 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:03:26 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 746x 437] size [ 439x 348] V:True Filtered Deck 1:–: (Tobira Vocab) – Anki 
+15:03:27 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:03:27 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 732x 435] size [ 439x 348] V:True Filtered Deck 1:–: (Tobira Vocab) – Anki 
+15:03:28 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:03:28 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [ 733x 435] size [ 439x 348] V:True Filtered Deck 1:–: (Tobira Vocab) – Anki 
+15:03:44 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:03:44 Logger 1 windows recorded
+CAOCD - Capturing 11380.1771514 anki                            at [1095x 592] size [ 103x  94] V:True Anki 
+15:03:47 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:03:47 Logger 1 windows recorded
+CAOCD - Capturing 11380.2492412 anki                            at [-927x 346] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+15:04:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:04:01 Logger 1 windows recorded
+CAOCD - Capturing 11380.1706012 anki                            at [-560x   0] size [ 467x 584] V:True Anki 
+15:04:10 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:04:10 Logger 1 windows recorded
+CAOCD - Capturing 11380.1116186 anki                            at [-494x   0] size [ 467x 584] V:True Anki 
+15:04:29 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:04:29 Logger 1 windows recorded
+CAOCD - Capturing 11380.1837058 anki                            at [-547x   0] size [ 467x 584] V:True Anki 
+15:04:32 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:04:32 Logger 1 windows recorded
+CAOCD - Capturing 11380.1837058 anki                            at [-547x   0] size [ 467x 364] V:True Anki 
+15:04:33 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:04:33 Logger 1 windows recorded
+CAOCD - Capturing 11380.1837058 anki                            at [-547x   0] size [ 467x  52] V:True Anki 
+15:04:59 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:04:59 Logger 1 windows recorded
+CAOCD - Capturing 11380.3082232 anki                            at [ 399x 595] size [ 255x  15] V:True Anki 
+15:05:07 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:05:07 Logger 1 windows recorded
+CAOCD - Capturing 11380.198670 anki                             at [-589x   0] size [ 467x 584] V:True Anki 
+15:05:08 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:05:08 Logger 1 windows recorded
+CAOCD - Capturing 11380.198670 anki                             at [-589x   0] size [ 467x  52] V:True Anki 
+15:05:42 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:05:42 Logger 1 windows recorded
+CAOCD - Capturing 11380.657412 anki                             at [-576x   0] size [ 467x 584] V:True Anki 
+15:05:43 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:05:43 Logger 1 windows recorded
+CAOCD - Capturing 11380.657412 anki                             at [-576x   0] size [ 467x 156] V:True Anki 
+15:05:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:05:49 Logger 1 windows recorded
+CAOCD - Capturing 11380.2492412 anki                            at [-497x 333] size [ 765x 532] V:True Browse (1 of 3 cards selected) 
+15:05:50 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:05:50 Logger 1 windows recorded
+CAOCD - Capturing 11380.2492412 anki                            at [ 160x 302] size [ 765x 532] V:True Browse (1 of 3 cards selected) 
+15:05:57 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:05:57 Logger 1 windows recorded
+CAOCD - Capturing 11380.526352 anki                             at [ 497x 426] size [ 467x 584] V:True Anki 
+15:06:04 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:06:04 Logger 1 windows recorded
+CAOCD - Capturing 11380.1115932 anki                            at [ 533x 534] size [ 467x 584] V:True Anki 
+15:06:26 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:06:26 Logger 1 windows recorded
+CAOCD - Capturing 11380.2492412 anki                            at [-1046x 279] size [ 765x 532] V:True Browse (1 of 115 cards selected) 
+15:07:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:07:01 Logger 1 windows recorded
+CAOCD - Capturing 11380.3475132 anki                            at [-708x 427] size [ 467x 584] V:True Anki 
+15:07:58 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:07:58 Logger 1 windows recorded
+CAOCD - Capturing 11380.3737592 anki                            at [-728x 782] size [ 424x  21] V:True Anki 
+15:08:04 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:08:04 Logger 1 windows recorded
+CAOCD - Capturing 11380.2557948 anki                            at [ 741x 486] size [ 218x 134] V:True Anki 
+15:08:06 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:08:06 Logger 1 windows recorded
+CAOCD - Capturing 11380.328916 anki                             at [ 811x 486] size [ 262x 209] V:True Anki 
+15:08:11 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:08:11 Logger 1 windows recorded
+CAOCD - Capturing 11380.3802812 anki                            at [-1046x 279] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+15:08:50 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:08:50 Logger 1 windows recorded
+CAOCD - Capturing 11380.3802812 anki                            at [  -4x 319] size [ 765x 532] V:True Browse (1 of 115 cards selected) 
+15:08:51 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:08:51 Logger 1 windows recorded
+CAOCD - Capturing 11380.3802812 anki                            at [ 153x 327] size [ 765x 532] V:True Browse (1 of 178 cards selected) 
+15:09:45 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:09:45 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1406x 400] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+15:09:46 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:09:46 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1397x 226] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+15:11:06 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:11:06 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1291x 606] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+15:11:07 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:11:07 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1294x 548] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+15:11:12 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:11:12 Logger 1 windows recorded
+CAOCD - Capturing 5380.198716 WindowsTerminal                   at [  26x  26] size [1129x 631] V:True Windows Terminal 
+15:11:24 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:11:24 Logger 1 windows recorded
+CAOCD - Capturing 5380.198716 WindowsTerminal                   at [ 505x 220] size [1129x 631] V:True Administrator: Command Prompt 
+15:11:25 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:11:25 Logger 1 windows recorded
+CAOCD - Capturing 9192.1836766 explorer                         at [-1403x 152] size [1138x 657] V:True D:\jakub\Desktop\dotfiles 
+15:12:17 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:12:17 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [-505x 418] size [ 439x 348] V:True Anki 
+15:12:18 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:12:18 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [-475x 418] size [ 439x 348] V:True Anki 
+15:12:19 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:12:19 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1423x 294] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+15:12:20 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:12:20 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1435x 259] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+15:12:34 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:12:34 Logger 1 windows recorded
+CAOCD - Capturing 7528.1246888 explorer                         at [ 268x 142] size [ 387x  82] V:True Drag 
+15:12:42 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:12:42 Logger 1 windows recorded
+CAOCD - Capturing 5632.591514 firefox                           at [2355x  16] size [ 164x  93] V:True Drag 
+15:12:55 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:12:55 Logger 1 windows recorded
+CAOCD - Capturing 5632.197522 firefox                           at [2680x 340] size [1099x1020] V:True DA KILL Z0NE - automatic suspension and burying for time-wasting cards - AnkiWeb — Mozilla Firefox 
+15:12:59 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:12:59 Logger 1 windows recorded
+CAOCD - Capturing 11380.327774 anki                             at [-459x 416] size [ 439x 348] V:True Anki 
+15:13:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:13:01 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1112x1018] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+15:13:02 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:13:02 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1597x 126] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+15:14:50 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:14:50 Logger 1 windows recorded
+CAOCD - Capturing 9172.723026 notepad                           at [2207x 251] size [1440x 849] V:True old_monitors.reg - Notepad 
+15:19:35 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:19:35 Logger 1 windows recorded
+CAOCD - Capturing 9192.1311918 explorer                         at [-1429x 126] size [1138x 657] V:True This PC 
+15:19:43 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:19:43 Logger 1 windows recorded
+CAOCD - Capturing 8860.460856 Acrobat                           at [ 118x  70] size [1021x1100] V:True TOBIRA Grammar Power - Exercises for Mastery by Mayumi Oka Michio Tsutsui ShoÌko Emori YoshiroÌ Hanai Satoru Ishikawa Junko KondoÌ (z-lib.org).pdf - Adobe Acrobat Pro DC (32-bit) 
+15:20:28 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:20:28 Logger 1 windows recorded
+CAOCD - Capturing 5632.198802 firefox                           at [2680x 150] size [1099x1020] V:True Mozilla Firefox 
+15:20:29 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:20:29 Logger 1 windows recorded
+CAOCD - Capturing 5632.198802 firefox                           at [ 760x 150] size [1099x1020] V:True Mozilla Firefox 
+15:24:18 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:24:18 Logger 1 windows recorded
+CAOCD - Capturing 5632.264346 firefox                           at [ 469x  21] size [  59x  22] V:True New Tab 
+15:24:21 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:24:21 Logger 1 windows recorded
+CAOCD - Capturing 5632.264346 firefox                           at [ 447x  21] size [ 221x  22] V:True MFF UK | Matematicko-fyzikální fakulta 
+15:37:46 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:37:46 Logger 1 windows recorded
+CAOCD - Capturing 11380.198408 anki                             at [-645x 514] size [ 469x 383] V:True Add 
+15:41:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:41:49 Logger 1 windows recorded
+CAOCD - Capturing 5632.1902396 firefox                          at [ 293x 401] size [  43x  22] V:True inane 
+15:42:08 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:42:08 Logger 1 windows recorded
+CAOCD - Capturing 6808.264376 explorer                          at [2047x 335] size [1139x 614] V:True Control Panel 
+15:42:57 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+15:42:57 Logger 1 windows recorded
+CAOCD - Capturing 9192.526890 explorer                          at [-1403x 152] size [1138x 657] V:True This PC 
+18:16:43 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:16:43 Logger 10 windows recorded
+CAOCD - Capturing 10548.131230 TextInputHost                    at [1920x   0] size [1920x1200] V:True Microsoft Text Input Application 
+CAOCD - Capturing 11660.196748 ApplicationFrameHost             at [2435x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 11684.197506 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 4148.1247236 anki                             at [-493x 380] size [ 439x 348] V:True Anki 
+CAOCD - Capturing 5632.197522 firefox                           at [2680x 158] size [1099x1020] V:True Tobira Chapter 9 - Google Docs — Mozilla Firefox 
+CAOCD - Capturing 5632.198802 firefox                           at [2680x 150] size [1099x1020] V:True Mozilla Firefox 
+CAOCD - Capturing 5860.132388 notepad++                         at [-1412x 107] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+CAOCD - Capturing 8860.460856 Acrobat                           at [ 118x  70] size [1021x1100] V:True TOBIRA Grammar Power - Exercises for Mastery by Mayumi Oka Michio Tsutsui ShoÌko Emori YoshiroÌ Hanai Satoru Ishikawa Junko KondoÌ (z-lib.org).pdf - Adobe Acrobat Pro DC (32-bit) 
+CAOCD - Capturing 9192.1050946 explorer                         at [-1292x 303] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 
+CAOCD - Capturing 9192.1311918 explorer                         at [-1370x 225] size [1138x 657] V:True D:\jakub\Downloads\Tobira\best 
+18:16:46 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:16:46 Logger 1 windows recorded
+CAOCD - Capturing 5632.198802 firefox                           at [1394x 265] size [1099x1020] V:True Mozilla Firefox 
+18:16:47 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:16:47 Logger 1 windows recorded
+CAOCD - Capturing 5632.198802 firefox                           at [ 760x 150] size [1099x1020] V:True Mozilla Firefox 
+18:16:51 Logger System Suspending
+18:17:09 Logger System Resuming
+18:17:10 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:17:10 Logger 2 windows recorded
+CAOCD - Capturing 10548.131230 TextInputHost                    at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+CAOCD - Capturing 11660.196748 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+18:17:10 Logger No old profile found for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+18:17:10 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+18:17:10 Logger 9 windows recorded
+CAOCD - Capturing 10548.131230 TextInputHost                    at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+CAOCD - Capturing 11660.196748 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 11684.197506 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 4148.1247236 anki                             at [-493x 380] size [ 439x 348] V:True Anki 
+CAOCD - Capturing 5632.197522 firefox                           at [ 760x 158] size [1099x1020] V:True Tobira Chapter 9 - Google Docs — Mozilla Firefox 
+CAOCD - Capturing 5632.198802 firefox                           at [ 760x 150] size [1099x1020] V:True Mozilla Firefox 
+CAOCD - Capturing 5860.132388 notepad++                         at [-1412x 107] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+CAOCD - Capturing 8860.460856 Acrobat                           at [ 118x  70] size [1021x1100] V:True TOBIRA Grammar Power - Exercises for Mastery by Mayumi Oka Michio Tsutsui ShoÌko Emori YoshiroÌ Hanai Satoru Ishikawa Junko KondoÌ (z-lib.org).pdf - Adobe Acrobat Pro DC (32-bit) 
+CAOCD - Capturing 9192.1311918 explorer                         at [-1370x 225] size [1138x 657] V:True D:\jakub\Downloads\Tobira\best 
+18:17:14 Logger Detected changes in display metrics, will capture once windows are restored
+18:17:15 Logger Detected changes in display metrics, will capture once windows are restored
+18:17:16 Logger Detected changes in display metrics, will capture once windows are restored
+18:17:17 Logger Detected changes in display metrics, will capture once windows are restored
+18:17:18 Logger Detected changes in display metrics, will capture once windows are restored
+18:17:18 Logger Display settings changed
+18:17:18 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:17:20 Logger SetWindowPlacement(Acrobat [118x70]-[1021x1100]) - True
+18:17:20 Logger SetWindowPlacement(firefox [760x150]-[1099x1020]) - True
+18:17:20 Logger SetWindowPlacement(firefox [2680x158]-[1099x1020]) - True
+18:17:20 Logger SetWindowPlacement(anki [-493x380]-[439x348]) - True
+18:17:20 Logger SetWindowPlacement(notepad++ [-1412x107]-[1099x764]) - True
+18:17:20 Logger SetWindowPlacement(explorer [-1370x225]-[1138x657]) - True
+18:17:20 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+18:17:20 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+18:17:20 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+18:17:40 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:17:40 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-660x 117] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+18:17:41 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:17:41 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1467x 128] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+18:17:42 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:17:42 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1465x 129] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+18:18:00 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:18:00 Logger 1 windows recorded
+CAOCD - Capturing 15228.526350 setup                            at [ 195x 150] size [1290x 720] V:True Visual Studio Installer 
+18:18:21 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:18:21 Logger 1 windows recorded
+CAOCD - Capturing 1828.393250 setup                             at [ 195x 150] size [1290x 720] V:True Visual Studio Installer 
+18:19:15 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:19:15 Logger 1 windows recorded
+CAOCD - Capturing 13988.852264 cmd                              at [ 104x 104] size [ 993x 519] V:True C:\WINDOWS\system32\cmd.exe 
+18:19:17 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:19:17 Logger 1 windows recorded
+CAOCD - Capturing 13988.852264 cmd                              at [ 839x 284] size [ 993x 519] V:True C:\WINDOWS\system32\cmd.exe 
+18:19:18 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:19:18 Logger 1 windows recorded
+CAOCD - Capturing 13988.852264 cmd                              at [ 860x 246] size [ 993x 519] V:True C:\WINDOWS\system32\cmd.exe 
+18:20:34 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:20:34 Logger 2 windows recorded
+CAOCD - Capturing 11660.2819136 ApplicationFrameHost            at [ 344x 118] size [1216x 953] V:True Settings 
+CAOCD - Capturing 908.1508298 SystemSettings                    at [   0x   1] size [1200x 944] V:True Settings 
+18:20:50 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:20:50 Logger 2 windows recorded
+CAOCD - Capturing 12728.721782 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 14272.2295550 powershell                      at [ 182x 182] size [ 993x 399] V:True Administrator:  
+18:20:51 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:20:51 Logger 1 windows recorded
+CAOCD - Capturing 10448.657270 WindowsTerminal                  at [ 208x 208] size [1129x 631] V:True Command Prompt 
+18:20:59 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:20:59 Logger 1 windows recorded
+CAOCD - Capturing 12728.1510306 cleanmgr                        at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+18:21:20 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:21:20 Logger 2 windows recorded
+CAOCD - Capturing 12728.1837062 cleanmgr                        at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 12728.721620 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+18:21:23 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:21:23 Logger 2 windows recorded
+CAOCD - Capturing 12728.1902598 cleanmgr                        at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 12728.787156 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+18:21:26 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:21:26 Logger 2 windows recorded
+CAOCD - Capturing 12728.1968134 cleanmgr                        at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 12728.852692 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+18:22:16 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:22:16 Logger 1 windows recorded
+CAOCD - Capturing 12992.1246386 explorer                        at [2047x 335] size [1139x 614] V:True Control Panel 
+18:23:17 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:23:17 Logger 1 windows recorded
+CAOCD - Capturing 12560.788958 cmd                              at [ 234x 234] size [ 993x 519] V:True C:\WINDOWS\system32\cmd.exe 
+18:23:28 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:23:28 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1642x 150] size [1099x 764] V:True D:\jakub\Desktop\jap.txt - Notepad++ [Administrator] 
+18:42:09 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:42:09 Logger 1 windows recorded
+CAOCD - Capturing 5632.328954 firefox                           at [2597x 432] size [ 134x  22] V:True odkaz do nového okna 
+18:47:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:47:49 Logger 1 windows recorded
+CAOCD - Capturing 14836.2886002 explorer                        at [2047x 335] size [1139x 614] V:True Control Panel 
+18:47:51 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:47:51 Logger 1 windows recorded
+CAOCD - Capturing 14836.2886002 explorer                        at [ 488x 248] size [1139x 614] V:True Control Panel\Programs\Programs and Features 
+18:48:15 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:48:15 Logger 1 windows recorded
+CAOCD - Capturing 4148.461798 anki                              at [-372x 431] size [ 150x  81] V:True Anki 
+18:48:24 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:48:24 Logger 1 windows recorded
+CAOCD - Capturing 5632.263430 firefox                           at [3051x  33] size [  59x  22] V:True New Tab 
+18:50:07 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:50:07 Logger 1 windows recorded
+CAOCD - Capturing 4148.1311682 anki                             at [-485x 431] size [ 218x 134] V:True Anki 
+18:50:08 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:50:08 Logger 1 windows recorded
+CAOCD - Capturing 4148.1705676 anki                             at [-415x 431] size [ 262x 209] V:True Anki 
+18:52:10 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:52:10 Logger 1 windows recorded
+CAOCD - Capturing 5632.263430 firefox                           at [2832x  33] size [  59x  22] V:True New Tab 
+18:54:08 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+18:54:08 Logger 1 windows recorded
+CAOCD - Capturing 5632.328954 firefox                           at [3234x 455] size [ 235x  22] V:True Click a word to see alternative translations 
+19:01:12 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+19:01:12 Logger 1 windows recorded
+CAOCD - Capturing 5632.263430 firefox                           at [2842x  21] size [  59x  22] V:True New Tab 
+20:57:19 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+20:57:19 Logger 1 windows recorded
+CAOCD - Capturing 4148.1706490 anki                             at [ 216x 194] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+20:58:02 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+20:58:02 Logger 1 windows recorded
+CAOCD - Capturing 4148.8259124 anki                             at [ 583x 272] size [ 204x 132] V:True Anki 
+20:58:13 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+20:58:13 Logger 1 windows recorded
+CAOCD - Capturing 4148.1639342 anki                             at [ 575x 262] size [ 163x 178] V:True Anki 
+20:58:15 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+20:58:15 Logger 1 windows recorded
+CAOCD - Capturing 4148.1704878 anki                             at [ 307x 245] size [ 242x 205] V:True Anki 
+20:58:16 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+20:58:16 Logger 1 windows recorded
+CAOCD - Capturing 4148.1311444 anki                             at [ 384x 245] size [ 132x  28] V:True Anki 
+20:58:20 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+20:58:20 Logger 1 windows recorded
+CAOCD - Capturing 4148.1837646 anki                             at [ 260x 245] size [ 336x 315] V:True Anki 
+20:58:21 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+20:58:21 Logger 1 windows recorded
+CAOCD - Capturing 4148.1704900 anki                             at [ 224x 245] size [ 219x 103] V:True Anki 
+20:59:10 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+20:59:10 Logger 1 windows recorded
+CAOCD - Capturing 4148.1311888 anki                             at [ 552x 368] size [ 467x 619] V:True Anki 
+20:59:25 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+20:59:25 Logger 1 windows recorded
+CAOCD - Capturing 4148.1706490 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (1 of 57 cards selected) 
+21:10:41 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:10:41 Logger 1 windows recorded
+CAOCD - Capturing 4148.1901508 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+21:10:50 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:10:50 Logger 1 windows recorded
+CAOCD - Capturing 14616.2360020 explorer                        at [-1344x 251] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming\Anki2\addons21\1565222544 
+21:11:32 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:11:32 Logger 1 windows recorded
+CAOCD - Capturing 4148.2688674 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+21:12:57 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:12:57 Logger 1 windows recorded
+CAOCD - Capturing 4148.2754302 anki                             at [ 482x 251] size [ 256x  28] V:True Anki 
+21:12:58 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:12:58 Logger 1 windows recorded
+CAOCD - Capturing 4148.2427084 anki                             at [ 410x 251] size [ 229x 266] V:True Anki 
+21:13:00 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:13:00 Logger 1 windows recorded
+CAOCD - Capturing 4148.5375676 anki                             at [ 839x 490] size [ 467x 619] V:True Anki 
+21:14:00 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:14:00 Logger 1 windows recorded
+CAOCD - Capturing 4148.3672432 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+21:15:16 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:15:16 Logger 1 windows recorded
+CAOCD - Capturing 4148.4064256 anki                             at [ 812x 446] size [ 467x 619] V:True Anki 
+21:15:42 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:15:42 Logger 1 windows recorded
+CAOCD - Capturing 4148.1903146 anki                             at [ 672x 419] size [ 467x 619] V:True Anki 
+21:16:15 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:16:15 Logger 1 windows recorded
+CAOCD - Capturing 4148.3016354 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+21:17:10 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:17:10 Logger 1 windows recorded
+CAOCD - Capturing 5860.132388 notepad++                         at [-1633x 371] size [1099x 764] V:True C:\Users\jakub\AppData\Roaming\Anki2\addons21\1565222544\__init__.py - Notepad++ [Administrator] 
+21:17:20 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:17:20 Logger 1 windows recorded
+CAOCD - Capturing 4148.2163778 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+21:17:21 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:17:21 Logger 1 windows recorded
+CAOCD - Capturing 4148.2623678 anki                             at [ 364x 251] size [ 242x 205] V:True Anki 
+21:17:22 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:17:22 Logger 1 windows recorded
+CAOCD - Capturing 4148.1837226 anki                             at [ 317x 251] size [ 336x 315] V:True Anki 
+21:17:29 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:17:29 Logger 1 windows recorded
+CAOCD - Capturing 4148.2229314 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+21:17:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:17:49 Logger 1 windows recorded
+CAOCD - Capturing 5632.263430 firefox                           at [3289x  30] size [  59x  22] V:True New Tab 
+21:18:22 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:18:22 Logger 1 windows recorded
+CAOCD - Capturing 5632.263430 firefox                           at [3628x  44] size [  59x  22] V:True New Tab 
+21:18:44 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:18:44 Logger 1 windows recorded
+CAOCD - Capturing 9192.132470 explorer                          at [-1266x 329] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming 
+21:18:50 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:18:50 Logger 1 windows recorded
+CAOCD - Capturing 9192.197912 explorer                          at [-1240x 355] size [1138x 657] V:True D:\jakub\Desktop\bak 
+21:19:09 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:19:09 Logger 1 windows recorded
+CAOCD - Capturing 5632.1575468 firefox                          at [2592x 308] size [ 448x 204] V:True Opening anki-2.1.42-windows.exe 
+21:20:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:20:01 Logger 1 windows recorded
+CAOCD - Capturing 13124.264174 anki-2.1.42-windows              at [ 747x 439] size [ 426x 292] V:True Anki Setup: Installation Folder 
+21:20:22 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:20:22 Logger 1 windows recorded
+CAOCD - Capturing 7292.264142 anki                              at [ 680x 392] size [ 532x 335] V:True Anki 
+21:20:27 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:20:27 Logger 1 windows recorded
+CAOCD - Capturing 7292.329678 anki                              at [-493x 380] size [ 439x 348] V:True Anki 
+21:20:40 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:20:40 Logger 1 windows recorded
+CAOCD - Capturing 1928.460728 notepad                           at [2207x 251] size [1440x 849] V:True *Untitled - Notepad 
+21:21:00 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:21:00 Logger 1 windows recorded
+CAOCD - Capturing 7292.460756 anki                              at [-415x 431] size [ 262x 209] V:True Anki 
+21:21:27 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:21:27 Logger 1 windows recorded
+CAOCD - Capturing 14844.263592 anki                             at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:22:06 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:22:06 Logger 1 windows recorded
+CAOCD - Capturing 14844.1115526 anki                            at [-415x 431] size [ 262x 209] V:True Anki 
+21:23:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:23:01 Logger 1 windows recorded
+CAOCD - Capturing 4876.657334 anki                              at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:23:06 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:23:06 Logger 1 windows recorded
+CAOCD - Capturing 4876.263578 anki                              at [-415x 431] size [ 262x 209] V:True Anki 
+21:23:17 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:23:17 Logger 1 windows recorded
+CAOCD - Capturing 5304.657372 anki                              at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:23:20 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:23:20 Logger 1 windows recorded
+CAOCD - Capturing 5304.2492876 anki                             at [-415x 431] size [ 262x 209] V:True Anki 
+21:23:22 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:23:22 Logger 1 windows recorded
+CAOCD - Capturing 5304.591766 anki                              at [ 273x 200] size [ 765x 532] V:True Browse (1 of 1030 cards selected) 
+21:23:37 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:23:37 Logger 1 windows recorded
+CAOCD - Capturing 5304.787850 anki                              at [ 364x 251] size [ 230x 196] V:True Anki 
+21:23:40 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:23:40 Logger 1 windows recorded
+CAOCD - Capturing 5304.394660 anki                              at [-372x 431] size [ 150x  81] V:True Anki 
+21:24:04 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:24:04 Logger 1 windows recorded
+CAOCD - Capturing 5304.984458 anki                              at [ 273x 200] size [ 765x 532] V:True Browse (1 of 1030 cards selected) 
+21:24:13 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:24:13 Logger 1 windows recorded
+CAOCD - Capturing 5304.984582 anki                              at [ 273x 200] size [ 765x 532] V:True Anki 
+21:24:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:24:49 Logger 1 windows recorded
+CAOCD - Capturing 14516.1377554 anki                            at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:25:07 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:25:07 Logger 1 windows recorded
+CAOCD - Capturing 4036.918404 anki                              at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:25:10 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:25:10 Logger 1 windows recorded
+CAOCD - Capturing 4036.198070 anki                              at [ 273x 200] size [ 765x 532] V:True Browse (1 of 1030 cards selected) 
+21:25:50 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:25:50 Logger 1 windows recorded
+CAOCD - Capturing 280.983940 anki                               at [-493x 380] size [ 439x 348] V:True Anki 
+21:26:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:26:01 Logger 1 windows recorded
+CAOCD - Capturing 280.1246280 anki                              at [-415x 431] size [ 262x 209] V:True Anki 
+21:26:10 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:26:10 Logger 1 windows recorded
+CAOCD - Capturing 8004.395166 anki                              at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:26:14 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:26:14 Logger 1 windows recorded
+CAOCD - Capturing 8004.984598 anki                              at [-415x 431] size [ 262x 209] V:True Anki 
+21:26:29 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:26:29 Logger 1 windows recorded
+CAOCD - Capturing 14516.984472 anki                             at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:26:31 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:26:31 Logger 1 windows recorded
+CAOCD - Capturing 14516.591286 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (1 of 1030 cards selected) 
+21:26:34 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:26:34 Logger 1 windows recorded
+CAOCD - Capturing 14516.1050558 anki                            at [-415x 431] size [ 262x 209] V:True Anki 
+21:26:45 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:26:45 Logger 1 windows recorded
+CAOCD - Capturing 2848.788404 anki                              at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:26:47 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:26:47 Logger 1 windows recorded
+CAOCD - Capturing 2848.984506 anki                              at [-372x 431] size [ 150x  81] V:True Anki 
+21:26:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:26:49 Logger 1 windows recorded
+CAOCD - Capturing 2848.918808 anki                              at [ 273x 200] size [ 765x 532] V:True Browse (1 of 1030 cards selected) 
+21:26:52 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:26:52 Logger 1 windows recorded
+CAOCD - Capturing 2848.985044 anki                              at [-415x 431] size [ 262x 209] V:True Anki 
+21:27:02 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:27:02 Logger 1 windows recorded
+CAOCD - Capturing 11632.853940 anki                             at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:27:06 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:27:06 Logger 1 windows recorded
+CAOCD - Capturing 11632.1050038 anki                            at [-415x 431] size [ 262x 209] V:True Anki 
+21:27:42 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:27:42 Logger 1 windows recorded
+CAOCD - Capturing 14836.1312674 anki                            at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:27:44 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:27:44 Logger 1 windows recorded
+CAOCD - Capturing 14836.1246502 anki                            at [ 273x 200] size [ 765x 532] V:True Browse (1 of 1030 cards selected) 
+21:27:46 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:27:46 Logger 1 windows recorded
+CAOCD - Capturing 14836.1050014 anki                            at [ 364x 251] size [ 244x 227] V:True Anki 
+21:27:48 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:27:48 Logger 1 windows recorded
+CAOCD - Capturing 14836.3738058 anki                            at [ 317x 251] size [ 337x 315] V:True Anki 
+21:27:57 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:27:57 Logger 1 windows recorded
+CAOCD - Capturing 14836.1312038 anki                            at [-415x 431] size [ 262x 209] V:True Anki 
+21:28:15 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:28:15 Logger 1 windows recorded
+CAOCD - Capturing 3696.1116134 anki                             at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:28:17 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:28:17 Logger 1 windows recorded
+CAOCD - Capturing 3696.2097646 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (1 of 1030 cards selected) 
+21:28:19 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:28:19 Logger 1 windows recorded
+CAOCD - Capturing 3696.1312152 anki                             at [ 441x 251] size [ 132x  28] V:True Anki 
+21:28:20 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:28:20 Logger 1 windows recorded
+CAOCD - Capturing 3696.1246594 anki                             at [ 317x 251] size [ 329x 315] V:True Anki 
+21:28:24 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:28:24 Logger 1 windows recorded
+CAOCD - Capturing 3696.1312718 anki                             at [-415x 431] size [ 262x 209] V:True Anki 
+21:28:32 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:28:32 Logger 1 windows recorded
+CAOCD - Capturing 13660.1312086 anki                            at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:28:34 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:28:34 Logger 1 windows recorded
+CAOCD - Capturing 13660.394756 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (1 of 1030 cards selected) 
+21:28:36 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:28:36 Logger 1 windows recorded
+CAOCD - Capturing 13660.460710 anki                             at [ 364x 251] size [ 244x 227] V:True Anki 
+21:28:39 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:28:39 Logger 1 windows recorded
+CAOCD - Capturing 13660.2099522 anki                            at [ 410x 251] size [ 229x 266] V:True Anki 
+21:28:42 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:28:42 Logger 1 windows recorded
+CAOCD - Capturing 13660.2100280 anki                            at [-415x 431] size [ 262x 209] V:True Anki 
+21:29:04 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:29:04 Logger 1 windows recorded
+CAOCD - Capturing 13660.4065738 anki                            at [ 823x 297] size [ 137x 336] V:True Anki 
+21:30:38 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:30:38 Logger 1 windows recorded
+CAOCD - Capturing 13660.1705940 anki                            at [ 441x 251] size [ 132x  28] V:True Anki 
+21:30:57 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:30:57 Logger 1 windows recorded
+CAOCD - Capturing 9192.1050002 explorer                         at [-1214x   0] size [1138x 657] V:True D:\jakub\Desktop\bak 
+21:31:05 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:31:05 Logger 1 windows recorded
+CAOCD - Capturing 14388.2033356 notepad++                       at [-1633x 371] size [1099x 764] V:True *D:\jakub\Desktop\bak\Anki2\addons21\info.txt - Notepad++ [Administrator] 
+21:31:20 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:31:20 Logger 1 windows recorded
+CAOCD - Capturing 5632.3801186 firefox                          at [2592x 308] size [ 448x 204] V:True Opening anki-2.1.40-windows.exe 
+21:31:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:31:49 Logger 1 windows recorded
+CAOCD - Capturing 5632.132640 firefox                           at [3217x 170] size [ 144x  22] V:True anki-2.1.42-windows.exe 
+21:31:58 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:31:58 Logger 1 windows recorded
+CAOCD - Capturing 14488.2558274 anki-2.1.40-windows             at [ 747x 439] size [ 426x 292] V:True Anki Setup: Installation Folder 
+21:32:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:32:01 Logger 1 windows recorded
+CAOCD - Capturing 9192.1574916 explorer                         at [-1188x  26] size [1138x 657] V:True This PC 
+21:32:22 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:32:22 Logger 1 windows recorded
+CAOCD - Capturing 13908.1048876 anki                            at [-493x 380] size [ 439x 348] V:True jakub - Anki 
+21:32:25 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:32:25 Logger 1 windows recorded
+CAOCD - Capturing 13908.460780 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+21:32:27 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:32:27 Logger 1 windows recorded
+CAOCD - Capturing 13908.395234 anki                             at [ 364x 251] size [ 242x 205] V:True Anki 
+21:32:30 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:32:30 Logger 1 windows recorded
+CAOCD - Capturing 13908.526316 anki                             at [-415x 431] size [ 262x 209] V:True Anki 
+21:32:35 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:32:35 Logger 1 windows recorded
+CAOCD - Capturing 13908.722882 anki                             at [ 273x 200] size [ 765x 532] V:True Browse (0 of 0 cards selected) 
+21:34:33 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:34:33 Logger 1 windows recorded
+CAOCD - Capturing 11732.1508564 WindowsTerminal                 at [ 130x 130] size [1129x 631] V:True Administrator: Command Prompt 
+21:34:58 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:34:58 Logger 1 windows recorded
+CAOCD - Capturing 9192.3278590 explorer                         at [-1162x  52] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming 
+21:35:17 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:35:17 Logger 1 windows recorded
+CAOCD - Capturing 12416.263678 explorer                         at [ 488x 248] size [1139x 614] V:True Control Panel 
+21:35:40 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+21:35:40 Logger 1 windows recorded
+CAOCD - Capturing 9192.985000 explorer                          at [-1136x  78] size [1138x 657] V:True This PC 

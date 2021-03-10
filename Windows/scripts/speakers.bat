@@ -1,2 +1,2 @@
 @echo off
-nircmd setdefaultsounddevice "Dell U2413" 1
+nircmd setdefaultsounddevice "Dell U2413 DP" 1

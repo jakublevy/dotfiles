@@ -1,0 +1,5 @@
+Anki 2.1.42 nefunguje:
+QuickFilter
+Opening the same window multiple time
+Highlight Search Results in the Browser
+Advanced Browser
