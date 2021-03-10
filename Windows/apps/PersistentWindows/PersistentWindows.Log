@@ -1,0 +1,464 @@
+11:27:03 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:27:03 Logger 7 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [2435x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 11660.263434 explorer                         at [-1311x 300] size [1138x 657] V:True D:\jakub\Desktop\PersistentWindows 
+CAOCD - Capturing 11660.524496 explorer                         at [-1337x 274] size [1138x 657] V:True Downloads 
+CAOCD - Capturing 8992.459456 regedit                           at [2131x 186] size [1440x 849] V:True Registry Editor 
+CAOCD - Capturing 980.524410 firefox                            at [-796x 105] size [1099x1020] V:True Persistent Windows - Ninjacrab — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [1920x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:27:13 Logger Display settings changed
+11:27:13 Logger No old profile found for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:27:13 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:27:13 Logger 7 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 11660.263434 explorer                         at [-1311x 300] size [1138x 657] V:True D:\jakub\Desktop\PersistentWindows 
+CAOCD - Capturing 11660.524496 explorer                         at [-1337x 274] size [1138x 657] V:True Downloads 
+CAOCD - Capturing 8992.459456 regedit                           at [ 211x 186] size [1440x 849] V:True Registry Editor 
+CAOCD - Capturing 980.524410 firefox                            at [-1091x   8] size [1099x1020] V:True Persistent Windows - Ninjacrab — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:27:21 Logger Display settings changed
+11:27:21 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:27:21 Logger SetWindowPlacement(explorer [-1311x300]-[1138x657]) - True
+11:27:21 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:27:21 Logger SetWindowPlacement(firefox [-796x105]-[1099x1020]) - True
+11:27:21 Logger SetWindowPlacement(regedit [2131x186]-[1440x849]) - True
+11:27:21 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:27:21 Logger SetWindowPlacement(ApplicationFrameHost [2435x229]-[1216x941]) - True
+11:27:21 Logger SetWindowPlacement(TextInputHost [1920x0]-[1920x1200]) - True
+11:27:21 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:27:21 Logger 1 windows recorded
+CAOCD - Capturing 980.524410 firefox                            at [-1094x   5] size [1099x1020] V:True Persistent Windows - Ninjacrab — Mozilla Firefox 
+11:27:31 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:27:31 Logger 1 windows recorded
+CAOCD - Capturing 980.524410 firefox                            at [ 670x   6] size [1099x1020] V:True Persistent Windows - Ninjacrab — Mozilla Firefox 
+11:27:33 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:27:33 Logger 1 windows recorded
+CAOCD - Capturing 980.197732 firefox                            at [1270x  24] size [ 185x  22] V:True stardocks Fence - Google Search 
+11:27:35 Logger Detected changes in display metrics, will capture once windows are restored
+11:27:35 Logger Display settings changed
+11:27:35 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:27:35 Logger SetWindowPlacement(firefox [-1091x8]-[1099x1020]) - True
+11:27:35 Logger SetWindowPlacement(explorer [-1311x300]-[1138x657]) - True
+11:27:35 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:27:35 Logger SetWindowPlacement(regedit [211x186]-[1440x849]) - True
+11:27:35 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:27:35 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+11:27:35 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+11:27:38 Logger Display settings changed
+11:27:38 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:27:39 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+11:27:39 Logger SetWindowPlacement(explorer [-1311x300]-[1138x657]) - True
+11:27:39 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:27:39 Logger SetWindowPlacement(regedit [2131x186]-[1440x849]) - True
+11:27:39 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:27:39 Logger SetWindowPlacement(ApplicationFrameHost [2435x229]-[1216x941]) - True
+11:27:39 Logger SetWindowPlacement(TextInputHost [1920x0]-[1920x1200]) - True
+11:27:47 Logger Display settings changed
+11:27:47 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:27:47 Logger SetWindowPlacement(firefox [-1091x8]-[1099x1020]) - True
+11:27:47 Logger SetWindowPlacement(explorer [-1311x300]-[1138x657]) - True
+11:27:47 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:27:47 Logger SetWindowPlacement(regedit [211x186]-[1440x849]) - True
+11:27:47 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:27:47 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+11:27:47 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+11:27:56 Logger Display settings changed
+11:27:56 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:27:56 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+11:27:57 Logger SetWindowPlacement(explorer [-1311x300]-[1138x657]) - True
+11:27:57 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:27:57 Logger SetWindowPlacement(regedit [2131x186]-[1440x849]) - True
+11:27:57 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:27:57 Logger SetWindowPlacement(ApplicationFrameHost [2435x229]-[1216x941]) - True
+11:27:57 Logger SetWindowPlacement(TextInputHost [1920x0]-[1920x1200]) - True
+11:28:29 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:28:30 Logger 7 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [2435x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 11660.263434 explorer                         at [-1311x 300] size [1138x 657] V:True D:\jakub\Desktop\PersistentWindows 
+CAOCD - Capturing 11660.524496 explorer                         at [-1337x 274] size [1138x 657] V:True Downloads 
+CAOCD - Capturing 8992.459456 regedit                           at [2131x 186] size [1440x 849] V:True Registry Editor 
+CAOCD - Capturing 980.524410 firefox                            at [ 670x   6] size [1099x1020] V:True Persistent Windows - Ninjacrab — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [1920x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:28:48 Logger Display settings changed
+11:28:48 Logger No old profile found for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:28:48 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:28:48 Logger 7 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 11660.263434 explorer                         at [-1311x 300] size [1138x 657] V:True D:\jakub\Desktop\PersistentWindows 
+CAOCD - Capturing 11660.524496 explorer                         at [-1337x 274] size [1138x 657] V:True Downloads 
+CAOCD - Capturing 8992.459456 regedit                           at [ 211x 186] size [1440x 849] V:True Registry Editor 
+CAOCD - Capturing 980.524410 firefox                            at [ 670x   6] size [1099x1020] V:True Persistent Windows - Ninjacrab — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:28:56 Logger Detected changes in display metrics, will capture once windows are restored
+11:28:56 Logger Display settings changed
+11:28:56 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:28:56 Logger SetWindowPlacement(explorer [-1311x300]-[1138x657]) - True
+11:28:56 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+11:28:56 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:28:56 Logger SetWindowPlacement(regedit [2131x186]-[1440x849]) - True
+11:28:56 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:28:56 Logger SetWindowPlacement(ApplicationFrameHost [2435x229]-[1216x941]) - True
+11:28:56 Logger SetWindowPlacement(TextInputHost [1920x0]-[1920x1200]) - True
+11:36:05 Logger Initial Capturing applications for [Id:0 Loc:0x0 Res:1024x768]
+11:36:05 Logger 0 windows recorded
+
+11:37:25 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:37:25 Logger 7 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [2435x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 5616.459888 explorer                          at [-1337x 274] size [1138x 657] V:True C:\rice\apps\PersistentWindows 
+CAOCD - Capturing 8652.328830 mmc                               at [ 412x 135] size [ 820x 600] V:True Services 
+CAOCD - Capturing 8652.525338 mmc                               at [   0x   0] size [   0x   0] V:True OLEChannelWnd 
+CAOCD - Capturing 9896.656394 firefox                           at [2590x   6] size [1099x1020] V:True Root.cz - informace nejen ze světa Linuxu — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [1920x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:37:31 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:37:31 Logger 1 windows recorded
+CAOCD - Capturing 9896.656394 firefox                           at [ 670x   6] size [1099x1020] V:True Root.cz - informace nejen ze světa Linuxu — Mozilla Firefox 
+11:37:34 Logger Display settings changed
+11:37:34 Logger No old profile found for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:37:34 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:37:34 Logger 7 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 5616.459888 explorer                          at [-1337x 274] size [1138x 657] V:True C:\rice\apps\PersistentWindows 
+CAOCD - Capturing 8652.328830 mmc                               at [ 412x 135] size [ 820x 600] V:True Services 
+CAOCD - Capturing 8652.525338 mmc                               at [   0x   0] size [   0x   0] V:True OLEChannelWnd 
+CAOCD - Capturing 9896.656394 firefox                           at [ 670x   6] size [1099x1020] V:True Root.cz - informace nejen ze světa Linuxu — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:37:40 Logger Display settings changed
+11:37:40 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:37:40 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+11:37:41 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:37:41 Logger SetWindowPlacement(mmc [412x135]-[820x600]) - True
+11:37:41 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:37:41 Logger SetWindowPlacement(ApplicationFrameHost [2435x229]-[1216x941]) - True
+11:37:41 Logger SetWindowPlacement(TextInputHost [1920x0]-[1920x1200]) - True
+11:37:41 Logger SetWindowPlacement(mmc [0x0]-[0x0]) - True
+11:37:52 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:37:52 Logger 1 windows recorded
+CAOCD - Capturing 9896.394632 firefox                           at [ 700x  27] size [  59x  22] V:True New Tab 
+11:38:13 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:38:13 Logger 1 windows recorded
+CAOCD - Capturing 9896.656424 firefox                           at [1413x 371] size [ 101x  51] V:True Drag 
+11:38:47 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:38:47 Logger 1 windows recorded
+CAOCD - Capturing 9896.460210 firefox                           at [ 672x 308] size [ 448x 204] V:True Opening MonitorKeeper64.exe 
+11:41:32 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:41:32 Logger 7 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [2435x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 5616.459888 explorer                          at [-1337x 274] size [1138x 657] V:True C:\rice\apps\PersistentWindows 
+CAOCD - Capturing 8652.328830 mmc                               at [ 604x 264] size [ 820x 600] V:True Services 
+CAOCD - Capturing 8652.525338 mmc                               at [   0x   0] size [   0x   0] V:True OLEChannelWnd 
+CAOCD - Capturing 9896.656394 firefox                           at [2590x   6] size [1099x1020] V:True Releases · hunkydoryrepair/MonitorKeeper · GitHub — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [1920x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:41:38 Logger System Suspending
+11:41:51 Logger System Resuming
+11:41:52 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:41:52 Logger 3 windows recorded
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 9896.656394 firefox                           at [ 670x   6] size [1099x1020] V:True Releases · hunkydoryrepair/MonitorKeeper · GitHub — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:41:52 Logger No old profile found for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:41:52 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:41:52 Logger 7 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 5616.459888 explorer                          at [-1337x 274] size [1138x 657] V:True C:\rice\apps\PersistentWindows 
+CAOCD - Capturing 8652.328830 mmc                               at [ 604x 264] size [ 820x 600] V:True Services 
+CAOCD - Capturing 8652.525338 mmc                               at [   0x   0] size [   0x   0] V:True OLEChannelWnd 
+CAOCD - Capturing 9896.656394 firefox                           at [ 670x   6] size [1099x1020] V:True Releases · hunkydoryrepair/MonitorKeeper · GitHub — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:41:58 Logger Detected changes in display metrics, will capture once windows are restored
+11:41:59 Logger Detected changes in display metrics, will capture once windows are restored
+11:42:00 Logger Detected changes in display metrics, will capture once windows are restored
+11:42:01 Logger Detected changes in display metrics, will capture once windows are restored
+11:42:02 Logger Detected changes in display metrics, will capture once windows are restored
+11:42:03 Logger Display settings changed
+11:42:03 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:42:04 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:42:04 Logger SetWindowPlacement(mmc [604x264]-[820x600]) - True
+11:42:04 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:42:04 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+11:42:04 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+11:42:04 Logger SetWindowPlacement(mmc [0x0]-[0x0]) - True
+11:42:04 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+11:42:14 Logger Display settings changed
+11:42:14 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:42:14 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:42:14 Logger SetWindowPlacement(mmc [604x264]-[820x600]) - True
+11:42:14 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:42:14 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+11:42:14 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+11:42:14 Logger SetWindowPlacement(mmc [0x0]-[0x0]) - True
+11:42:14 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+11:42:18 Logger Display settings changed
+11:42:18 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:42:19 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:42:19 Logger SetWindowPlacement(mmc [604x264]-[820x600]) - True
+11:42:19 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:42:19 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+11:42:19 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+11:42:19 Logger SetWindowPlacement(mmc [0x0]-[0x0]) - True
+11:42:19 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+11:42:24 Logger System Suspending
+11:42:41 Logger System Resuming
+11:42:42 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:42:42 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:42:42 Logger SetWindowPlacement(mmc [604x264]-[820x600]) - True
+11:42:42 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:42:42 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+11:42:42 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+11:42:42 Logger SetWindowPlacement(mmc [0x0]-[0x0]) - True
+11:42:42 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+11:42:45 Logger Detected changes in display metrics, will capture once windows are restored
+11:42:46 Logger Detected changes in display metrics, will capture once windows are restored
+11:42:47 Logger Detected changes in display metrics, will capture once windows are restored
+11:42:48 Logger Detected changes in display metrics, will capture once windows are restored
+11:42:49 Logger Detected changes in display metrics, will capture once windows are restored
+11:42:50 Logger Detected changes in display metrics, will capture once windows are restored
+11:42:50 Logger Display settings changed
+11:42:50 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:42:50 Logger SetWindowPlacement(explorer [-1337x274]-[1138x657]) - True
+11:42:50 Logger SetWindowPlacement(mmc [604x264]-[820x600]) - True
+11:42:50 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:42:50 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+11:42:50 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+11:42:50 Logger SetWindowPlacement(mmc [0x0]-[0x0]) - True
+11:42:50 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+11:43:11 Logger Initial Capturing applications for [Id:0 Loc:0x0 Res:1024x768]
+11:43:11 Logger 0 windows recorded
+
+11:43:21 Logger System Suspending
+11:43:35 Logger System Resuming
+11:43:35 Logger Restoring applications for [Id:0 Loc:0x0 Res:1024x768]
+11:46:09 Logger Initial Capturing applications for [Id:0 Loc:0x0 Res:1024x768]
+11:46:09 Logger 0 windows recorded
+
+11:46:21 Logger System Suspending
+11:46:35 Logger System Resuming
+11:46:35 Logger Restoring applications for [Id:0 Loc:0x0 Res:1024x768]
+11:47:21 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:47:21 Logger 6 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [2435x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 1200.722942 WindowsTerminal                   at [2200x 403] size [1129x 631] V:True Administrator: Command Prompt 
+CAOCD - Capturing 5616.459888 explorer                          at [ 338x 309] size [1138x 657] V:True C:\rice\apps\PersistentWindows 
+CAOCD - Capturing 9896.656394 firefox                           at [2590x   6] size [1099x1020] V:True Releases · hunkydoryrepair/MonitorKeeper · GitHub — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [1920x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:47:26 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:47:26 Logger 1 windows recorded
+CAOCD - Capturing 1200.722942 WindowsTerminal                   at [ 871x 354] size [1129x 631] V:True Administrator: Command Prompt 
+11:47:27 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:47:27 Logger 1 windows recorded
+CAOCD - Capturing 1200.722942 WindowsTerminal                   at [ 683x 363] size [1129x 631] V:True Administrator: Command Prompt 
+11:47:29 Logger System Suspending
+11:47:48 Logger System Resuming
+11:47:48 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:47:48 Logger 3 windows recorded
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 9896.656394 firefox                           at [ 670x   6] size [1099x1020] V:True Releases · hunkydoryrepair/MonitorKeeper · GitHub — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:47:48 Logger No old profile found for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:47:49 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+11:47:49 Logger 6 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 1200.722942 WindowsTerminal                   at [ 683x 363] size [1129x 631] V:True Administrator: Command Prompt 
+CAOCD - Capturing 5616.459888 explorer                          at [ 338x 309] size [1138x 657] V:True C:\rice\apps\PersistentWindows 
+CAOCD - Capturing 9896.656394 firefox                           at [ 670x   6] size [1099x1020] V:True Releases · hunkydoryrepair/MonitorKeeper · GitHub — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:47:53 Logger Detected changes in display metrics, will capture once windows are restored
+11:47:54 Logger Detected changes in display metrics, will capture once windows are restored
+11:47:55 Logger Detected changes in display metrics, will capture once windows are restored
+11:47:56 Logger Detected changes in display metrics, will capture once windows are restored
+11:47:57 Logger Detected changes in display metrics, will capture once windows are restored
+11:47:58 Logger Display settings changed
+11:47:58 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:47:58 Logger SetWindowPlacement(WindowsTerminal [683x363]-[1129x631]) - True
+11:47:59 Logger SetWindowPlacement(explorer [338x309]-[1138x657]) - True
+11:47:59 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+11:47:59 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+11:47:59 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+11:47:59 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+11:49:32 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:49:32 Logger 9 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 3376.1116120 notepad++                        at [ 688x 659] size [1099x 764] V:True C:\Users\jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\persistent-windows.bat - Notepad++ [Administrator] 
+CAOCD - Capturing 5616.459888 explorer                          at [ 338x 309] size [1138x 657] V:True C:\rice\scripts 
+CAOCD - Capturing 5616.460408 explorer                          at [ 627x 354] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 
+CAOCD - Capturing 5628.2229612 cmd                              at [  52x  52] size [ 993x 519] V:True C:\WINDOWS\system32\cmd.exe 
+CAOCD - Capturing 9896.1181076 firefox                          at [2590x   6] size [1099x1020] V:True do not show tray icon - Google Search — Mozilla Firefox 
+CAOCD - Capturing 9896.656394 firefox                           at [ 670x   6] size [1099x1020] V:True Releases · hunkydoryrepair/MonitorKeeper · GitHub — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:50:14 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:50:14 Logger 9 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 3376.1116120 notepad++                        at [ 688x 659] size [1099x 764] V:True C:\Users\jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\persistent-windows.bat - Notepad++ [Administrator] 
+CAOCD - Capturing 5616.459888 explorer                          at [ 338x 309] size [1138x 657] V:True C:\rice\scripts 
+CAOCD - Capturing 5616.460408 explorer                          at [ 627x 354] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 
+CAOCD - Capturing 9004.853634 WindowsTerminal                   at [  78x  78] size [1129x 631] V:True Administrator: Command Prompt - start  /? 
+CAOCD - Capturing 9896.1181076 firefox                          at [2590x   6] size [1099x1020] V:True How can I execute a Windows command line in background? - Super User — Mozilla Firefox 
+CAOCD - Capturing 9896.656394 firefox                           at [ 670x   6] size [1099x1020] V:True Releases · hunkydoryrepair/MonitorKeeper · GitHub — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:50:18 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:50:18 Logger 9 windows recorded
+CAOCD - Capturing 10780.131368 WinStore.App                     at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 10788.131694 ApplicationFrameHost             at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 3376.1116120 notepad++                        at [ 688x 659] size [1099x 764] V:True C:\Users\jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\persistent-windows.bat - Notepad++ [Administrator] 
+CAOCD - Capturing 5616.459888 explorer                          at [ 338x 309] size [1138x 657] V:True C:\rice\scripts 
+CAOCD - Capturing 5616.460408 explorer                          at [ 627x 354] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 
+CAOCD - Capturing 9004.853634 WindowsTerminal                   at [  78x  78] size [1129x 631] V:True Administrator: Command Prompt - start  /? 
+CAOCD - Capturing 9896.1181076 firefox                          at [2590x   6] size [1099x1020] V:True How can I execute a Windows command line in background? - Super User — Mozilla Firefox 
+CAOCD - Capturing 9896.656394 firefox                           at [ 670x   6] size [1099x1020] V:True Releases · hunkydoryrepair/MonitorKeeper · GitHub — Mozilla Firefox 
+CAOCD - Capturing 9988.66472 TextInputHost                      at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:54:56 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:54:56 Logger 0 windows recorded
+
+11:54:59 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:54:59 Logger 1 windows recorded
+CAOCD - Capturing 10792.66486 TextInputHost                     at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+11:55:24 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:55:24 Logger 1 windows recorded
+CAOCD - Capturing 1692.262214 ApplicationFrameHost              at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+11:55:25 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:55:25 Logger 1 windows recorded
+CAOCD - Capturing 2120.131588 WinStore.App                      at [   0x   1] size [1200x 932] V:True Microsoft Store 
+11:55:43 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+11:55:43 Logger 2 windows recorded
+CAOCD - Capturing 1692.131158 ApplicationFrameHost              at [ 344x 118] size [1216x 953] V:True Settings 
+CAOCD - Capturing 7564.66570 SystemSettings                     at [   0x   1] size [1200x 944] V:True Settings 
+12:12:24 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:12:24 Logger 1 windows recorded
+CAOCD - Capturing 5904.262638 firefox                           at [ 670x   6] size [1099x1020] V:True Mozilla Firefox 
+12:12:32 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:12:32 Logger 1 windows recorded
+CAOCD - Capturing 7948.263214 MSIAfterburner                    at [-901x 278] size [ 784x 540] V:True MSI Afterburner  
+12:12:53 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:12:53 Logger 1 windows recorded
+CAOCD - Capturing 9248.328658 firefox                           at [ 670x   6] size [1099x1020] V:True Mozilla Firefox 
+12:12:55 Logger System Suspending
+12:13:07 Logger System Resuming
+12:13:07 Logger No old profile found for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+12:13:07 Logger Initial Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:0x0 Res:1920x1200]
+12:13:07 Logger 4 windows recorded
+CAOCD - Capturing 10792.66486 TextInputHost                     at [   0x   0] size [1920x1200] V:True Microsoft Text Input Application 
+CAOCD - Capturing 1692.262214 ApplicationFrameHost              at [ 515x 229] size [1216x 941] V:True Microsoft Store 
+CAOCD - Capturing 2120.131588 WinStore.App                      at [   0x   1] size [1200x 932] V:True Microsoft Store 
+CAOCD - Capturing 9248.328658 firefox                           at [ 670x   6] size [1099x1020] V:True Mozilla Firefox 
+12:13:10 Logger Detected changes in display metrics, will capture once windows are restored
+12:13:11 Logger Detected changes in display metrics, will capture once windows are restored
+12:13:12 Logger Detected changes in display metrics, will capture once windows are restored
+12:13:13 Logger Detected changes in display metrics, will capture once windows are restored
+12:13:14 Logger Detected changes in display metrics, will capture once windows are restored
+12:13:14 Logger Display settings changed
+12:13:14 Logger Restoring applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:13:15 Logger SetWindowPlacement(firefox [670x6]-[1099x1020]) - True
+12:13:15 Logger SetWindowPlacement(WinStore.App [0x1]-[1200x932]) - True
+12:13:15 Logger SetWindowPlacement(ApplicationFrameHost [515x229]-[1216x941]) - True
+12:13:15 Logger SetWindowPlacement(TextInputHost [0x0]-[1920x1200]) - True
+12:13:23 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:13:23 Logger 1 windows recorded
+CAOCD - Capturing 9252.328804 explorer                          at [-1226x 245] size [1138x 657] V:True This PC 
+12:13:24 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:13:24 Logger 1 windows recorded
+CAOCD - Capturing 3836.328872 Taskmgr                           at [-778x 271] size [ 680x 600] V:True Task Manager 
+12:13:39 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:13:39 Logger 1 windows recorded
+CAOCD - Capturing 9252.327772 explorer                          at [-1200x 271] size [1138x 657] V:True This PC 
+12:13:52 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:13:52 Logger 1 windows recorded
+CAOCD - Capturing 5512.525796 notepad++                         at [ 599x 368] size [1099x 764] V:True C:\rice\macros.doskey - Notepad++ [Administrator] 
+12:26:09 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:26:09 Logger 1 windows recorded
+CAOCD - Capturing 1172.590874 WindowsTerminal                   at [  78x  78] size [1129x 631] V:True Administrator: Command Prompt 
+12:26:16 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:26:16 Logger 2 windows recorded
+CAOCD - Capturing 11220.263484 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 6660.394830 powershell                        at [ 104x 104] size [ 993x 399] V:True Administrator:  
+12:26:26 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:26:26 Logger 1 windows recorded
+CAOCD - Capturing 11220.263718 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+12:26:27 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:26:27 Logger 1 windows recorded
+CAOCD - Capturing 6660.394830 powershell                        at [ 712x 199] size [ 993x 399] V:True Administrator:  
+12:26:28 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:26:28 Logger 1 windows recorded
+CAOCD - Capturing 6660.394830 powershell                        at [ 519x 208] size [ 993x 399] V:True Administrator:  
+12:26:47 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:26:47 Logger 2 windows recorded
+CAOCD - Capturing 11220.263708 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 11220.329090 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+12:26:50 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:26:50 Logger 2 windows recorded
+CAOCD - Capturing 11220.329244 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 11220.394626 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+12:26:54 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:26:54 Logger 1 windows recorded
+CAOCD - Capturing 7964.459978 WindowsTerminal                   at [ 130x 130] size [1129x 631] V:True Administrator: Command Prompt 
+12:26:55 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:26:55 Logger 1 windows recorded
+CAOCD - Capturing 7964.459978 WindowsTerminal                   at [2336x 211] size [1129x 631] V:True Administrator: Command Prompt 
+12:27:40 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:27:40 Logger 1 windows recorded
+CAOCD - Capturing 11220.394626 cleanmgr                         at [ 395x 486] size [ 351x 153] V:True Disk Cleanup 
+12:27:43 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:27:43 Logger 3 windows recorded
+CAOCD - Capturing 11220.132834 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 11220.329088 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 9252.460024 explorer                          at [-1174x 297] size [1138x 657] V:True This PC 
+12:27:53 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:27:53 Logger 1 windows recorded
+CAOCD - Capturing 7376.460370 WindowsTerminal                   at [ 156x 156] size [1129x 631] V:True Administrator: Command Prompt 
+12:27:54 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:27:54 Logger 1 windows recorded
+CAOCD - Capturing 7940.1115216 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+12:27:55 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:27:55 Logger 1 windows recorded
+CAOCD - Capturing 7940.1115216 cleanmgr                         at [ 916x 519] size [ 351x 153] V:True Disk Cleanup 
+12:27:56 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:27:56 Logger 1 windows recorded
+CAOCD - Capturing 7940.1115216 cleanmgr                         at [1309x 528] size [ 351x 153] V:True Disk Cleanup 
+12:28:01 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:28:01 Logger 1 windows recorded
+CAOCD - Capturing 7940.722394 cleanmgr                          at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+12:28:04 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:28:04 Logger 1 windows recorded
+CAOCD - Capturing 9464.525944 WindowsTerminal                   at [ 182x 182] size [1129x 631] V:True Command Prompt 
+12:28:18 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:28:18 Logger 2 windows recorded
+CAOCD - Capturing 7940.460352 cleanmgr                          at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 7940.460534 cleanmgr                          at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+12:28:21 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:28:21 Logger 3 windows recorded
+CAOCD - Capturing 7940.526070 cleanmgr                          at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 7940.984538 cleanmgr                          at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 9252.263558 explorer                          at [-1148x 323] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 
+12:28:22 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:28:22 Logger 1 windows recorded
+CAOCD - Capturing 9252.263558 explorer                          at [2119x 329] size [1138x 657] V:True C:\Users\jakub\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup 
+12:28:37 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:28:37 Logger 1 windows recorded
+CAOCD - Capturing 1720.394706 Taskmgr                           at [-778x 271] size [ 680x 600] V:True Task Manager 
+12:28:49 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:28:49 Logger 2 windows recorded
+CAOCD - Capturing 7940.1050074 cleanmgr                         at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+CAOCD - Capturing 7940.591606 cleanmgr                          at [ 784x 508] size [ 351x 153] V:True Disk Cleanup 
+12:28:59 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:28:59 Logger 1 windows recorded
+CAOCD - Capturing 8404.656700 Taskmgr                           at [-778x 271] size [ 680x 600] V:True Task Manager 
+12:29:46 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:29:46 Logger 1 windows recorded
+CAOCD - Capturing 5244.394538 notepad++                         at [ 599x 368] size [1099x 764] V:True C:\rice\macros.doskey - Notepad++ [Administrator] 
+12:30:10 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:30:10 Logger 1 windows recorded
+CAOCD - Capturing 6560.525942 WindowsTerminal                   at [ 234x 234] size [1129x 631] V:True Administrator: Command Prompt 
+12:30:21 Logger Capturing applications for [Id:0 Loc:-1680x0 Res:1680x1050],[Id:1 Loc:1920x0 Res:1920x1200],[Id:2 Loc:0x0 Res:1920x1200]
+12:30:21 Logger 1 windows recorded
+CAOCD - Capturing 9252.264028 explorer                          at [2145x 355] size [1138x 657] V:True D:\jakub\Desktop\dotfiles 

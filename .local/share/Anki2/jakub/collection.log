@@ -17720,3 +17720,831 @@
 [1615369633] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.40
 [1615369680] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.40
 [1615369717] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.40
+[1615377124] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.40
+[1615377128] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967C83A0> {'data': '', 'did': 1600844981553, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615323198045, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615326920, 'nid': 1615323198045, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 1063}
+[1615377132] schedv2.py:answerCard(): 
+[1615377132] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96796FD0> {'data': '', 'did': 1600844981553, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615324257828, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615326921, 'nid': 1615324257828, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 1063}
+[1615377136] schedv2.py:answerCard(): 
+[1615377136] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967A9A90> {'data': '', 'did': 1600844981553, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615323417242, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615326925, 'nid': 1615323417242, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 1063}
+[1615377138] schedv2.py:answerCard(): 
+[1615377138] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967A9D30> {'data': '', 'did': 1600844981553, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615324239204, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615326923, 'nid': 1615324239204, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 1063}
+[1615377146] schedv2.py:answerCard(): 
+[1615377146] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967A9E20> {'data': '', 'did': 1600844981553, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615324937644, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615326933, 'nid': 1615324937644, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 1063}
+[1615377170] schedv2.py:answerCard(): 
+[1615377170] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967A9910> {'data': '', 'did': 1600844981553, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615325589693, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615326927, 'nid': 1615325589693, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 1063}
+[1615377177] schedv2.py:answerCard(): 
+[1615377177] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967A9D60> {'data': '', 'did': 1600844981553, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615324019610, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615326949, 'nid': 1615324019610, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': 1063}
+[1615377182] schedv2.py:answerCard(): 
+[1615377182] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967A9AF0> {'data': '', 'did': 1600844981553, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615324899914, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615326929, 'nid': 1615324899914, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1063}
+[1615377191] schedv2.py:answerCard(): 
+[1615377191] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E94247CA0> {'data': '', 'did': 1600844981553, 'due': 1615377844, 'factor': 2300, 'flags': 0, 'id': 1615324937644, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615377170, 'nid': 1615324937644, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 3, 'type': 3, 'usn': -1}
+[1615377195] schedv2.py:answerCard(): 
+[1615377256] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967E26D0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 1950, 'flags': 0, 'id': 1613989023232, 'ivl': 7, 'lapses': 2, 'left': 1001, 'mod': 1614778430, 'nid': 1613989023232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 21, 'type': 2, 'usn': 962}
+[1615377305] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814CD0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2350, 'flags': 0, 'id': 1615129633762, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1615239082, 'nid': 1615129633762, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 1058}
+[1615377309] schedv2.py:answerCard(): 
+[1615377309] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967E26D0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2350, 'flags': 0, 'id': 1615129542011, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1615239107, 'nid': 1615129542011, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 1058}
+[1615377316] schedv2.py:answerCard(): 
+[1615377316] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814A00> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 1850, 'flags': 0, 'id': 1613944005799, 'ivl': 6, 'lapses': 1, 'left': 1001, 'mod': 1614884873, 'nid': 1613944005799, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 14, 'type': 2, 'usn': 973}
+[1615377322] schedv2.py:answerCard(): 
+[1615377322] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814DF0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2350, 'flags': 0, 'id': 1613745371461, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1614540862, 'nid': 1613745371460, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 941}
+[1615377331] schedv2.py:answerCard(): 
+[1615377331] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967A9EE0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2350, 'flags': 0, 'id': 1615130060594, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1615239034, 'nid': 1615130060594, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 1058}
+[1615377340] schedv2.py:answerCard(): 
+[1615377340] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967FABE0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2350, 'flags': 0, 'id': 1615134124421, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1615239031, 'nid': 1615134124421, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 1058}
+[1615377361] schedv2.py:answerCard(): 
+[1615377361] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814CD0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2300, 'flags': 0, 'id': 1614951912563, 'ivl': 3, 'lapses': 1, 'left': 1001, 'mod': 1615152829, 'nid': 1614951912563, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': 1040}
+[1615377365] schedv2.py:answerCard(): 
+[1615377365] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967E26D0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615314703587, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615316493, 'nid': 1615314703587, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1061}
+[1615377374] schedv2.py:answerCard(): 
+[1615377374] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814CD0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615314081095, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615316505, 'nid': 1615314081095, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 1061}
+[1615377395] schedv2.py:answerCard(): 
+[1615377395] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814E20> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2350, 'flags': 0, 'id': 1614708524365, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615043382, 'nid': 1614708524365, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 1025}
+[1615377412] schedv2.py:answerCard(): 
+[1615377412] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96821100> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615311991572, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615316467, 'nid': 1615311991572, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': 1061}
+[1615377415] schedv2.py:answerCard(): 
+[1615377415] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96821C10> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 1650, 'flags': 0, 'id': 1610403677842, 'ivl': 10, 'lapses': 2, 'left': 1001, 'mod': 1614540694, 'nid': 1610403677842, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 18, 'type': 2, 'usn': 941}
+[1615377418] schedv2.py:answerCard(): 
+[1615377418] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814E80> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615294010855, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615316468, 'nid': 1615294010854, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1061}
+[1615377420] schedv2.py:answerCard(): 
+[1615377420] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814940> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 1950, 'flags': 0, 'id': 1610827374646, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1615316482, 'nid': 1610827374646, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 14, 'type': 2, 'usn': 1061}
+[1615377424] schedv2.py:answerCard(): 
+[1615377424] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814F40> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2300, 'flags': 0, 'id': 1614975111335, 'ivl': 3, 'lapses': 1, 'left': 1001, 'mod': 1615152908, 'nid': 1614975111334, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': 1040}
+[1615377433] schedv2.py:answerCard(): 
+[1615377433] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814A60> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1614288964491, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1614706176, 'nid': 1614288964491, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': 955}
+[1615377468] schedv2.py:answerCard(): 
+[1615377468] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967DB7C0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2200, 'flags': 0, 'id': 1614201440554, 'ivl': 7, 'lapses': 0, 'left': 1001, 'mod': 1614778416, 'nid': 1614201440554, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': 962}
+[1615377471] schedv2.py:answerCard(): 
+[1615377471] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814970> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2050, 'flags': 0, 'id': 1613761543151, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1614885307, 'nid': 1613761543151, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': 973}
+[1615377479] schedv2.py:answerCard(): 
+[1615377479] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E968146D0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1614192699869, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1614609425, 'nid': 1614192699869, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 943}
+[1615377481] schedv2.py:answerCard(): 
+[1615377481] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E8B9988B0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615314688978, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615316475, 'nid': 1615314688978, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': 1061}
+[1615377486] schedv2.py:answerCard(): 
+[1615377486] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814DC0> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 2500, 'flags': 0, 'id': 1615314739396, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1615316472, 'nid': 1615314739396, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': 1061}
+[1615377493] schedv2.py:answerCard(): 
+[1615377493] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814B50> {'data': '', 'did': 1589393235069, 'due': 925, 'factor': 1950, 'flags': 0, 'id': 1613989023232, 'ivl': 7, 'lapses': 2, 'left': 1001, 'mod': 1614778430, 'nid': 1613989023232, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 21, 'type': 2, 'usn': 962}
+[1615377499] schedv2.py:answerCard(): 
+[1615377499] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96814A60> {'data': '', 'did': 1589393235069, 'due': 1615378075, 'factor': 2300, 'flags': 0, 'id': 1615314081095, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615377395, 'nid': 1615314081095, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 7, 'type': 3, 'usn': -1}
+[1615377505] schedv2.py:answerCard(): 
+[1615377505] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E8B998D00> {'data': '', 'did': 1589393235069, 'due': 1615378578, 'factor': 2300, 'flags': 0, 'id': 1615314081095, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615377505, 'nid': 1615314081095, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 8, 'type': 3, 'usn': -1}
+[1615377506] schedv2.py:answerCard(): 
+[1615377583] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92251F70> {'data': '', 'did': 1615377540419, 'due': -100000, 'factor': 2500, 'flags': 0, 'id': 1613677062036, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613677062036, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615377591] schedv2.py:answerCard(): 
+[1615377591] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96821D90> {'data': '', 'did': 1615377540419, 'due': -99999, 'factor': 2350, 'flags': 0, 'id': 1613850167166, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613850167166, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615377597] schedv2.py:answerCard(): 
+[1615377597] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967C8460> {'data': '', 'did': 1615377540419, 'due': -99998, 'factor': 2350, 'flags': 0, 'id': 1613813022517, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613813022517, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615377610] schedv2.py:answerCard(): 
+[1615377610] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E968214C0> {'data': '', 'did': 1615377540419, 'due': -99997, 'factor': 2350, 'flags': 0, 'id': 1613830129850, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830129850, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615377613] schedv2.py:answerCard(): 
+[1615377613] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E967E26D0> {'data': '', 'did': 1615377540419, 'due': -99996, 'factor': 2350, 'flags': 0, 'id': 1613901222413, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613901222412, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615377618] schedv2.py:answerCard(): 
+[1615377618] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92276BE0> {'data': '', 'did': 1615377540419, 'due': -99995, 'factor': 2350, 'flags': 0, 'id': 1613938353249, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613938353249, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615377620] schedv2.py:answerCard(): 
+[1615377620] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923E6190> {'data': '', 'did': 1615377540419, 'due': -99994, 'factor': 2350, 'flags': 0, 'id': 1613997025042, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613997025042, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615377636] schedv2.py:answerCard(): 
+[1615377636] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923E62E0> {'data': '', 'did': 1615377540419, 'due': -99993, 'factor': 2350, 'flags': 0, 'id': 1613677025414, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613677025414, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615377646] schedv2.py:answerCard(): 
+[1615377646] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923E6250> {'data': '', 'did': 1615377540419, 'due': -99992, 'factor': 2350, 'flags': 0, 'id': 1613990128986, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613990128986, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615377649] schedv2.py:answerCard(): 
+[1615377649] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923E6F70> {'data': '', 'did': 1615377540419, 'due': -99991, 'factor': 2500, 'flags': 0, 'id': 1613769010640, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613769010640, 'odid': 1589393235069, 'odue': 934, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615377653] schedv2.py:answerCard(): 
+[1615377653] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923E6970> {'data': '', 'did': 1615377540419, 'due': -99990, 'factor': 2500, 'flags': 0, 'id': 1613938365303, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613938365303, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615377667] schedv2.py:answerCard(): 
+[1615377667] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923E6D30> {'data': '', 'did': 1615377540419, 'due': -99989, 'factor': 2350, 'flags': 0, 'id': 1613988194960, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613988194960, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615377669] schedv2.py:answerCard(): 
+[1615377669] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92254760> {'data': '', 'did': 1615377540419, 'due': -99988, 'factor': 2500, 'flags': 0, 'id': 1614282727149, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614282727149, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615377673] schedv2.py:answerCard(): 
+[1615377673] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E922412E0> {'data': '', 'did': 1615377540419, 'due': -99987, 'factor': 2500, 'flags': 0, 'id': 1613845876612, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613845876612, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615377675] schedv2.py:answerCard(): 
+[1615377675] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92254AF0> {'data': '', 'did': 1615377540419, 'due': -99986, 'factor': 2000, 'flags': 0, 'id': 1613937920792, 'ivl': 9, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613937920792, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615377677] schedv2.py:answerCard(): 
+[1615377677] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92254A30> {'data': '', 'did': 1615377540419, 'due': -99985, 'factor': 2050, 'flags': 0, 'id': 1613844644488, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613844644488, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615377682] schedv2.py:answerCard(): 
+[1615377682] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E922546A0> {'data': '', 'did': 1615377540419, 'due': -99984, 'factor': 2050, 'flags': 0, 'id': 1613901067392, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613901067392, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615377691] schedv2.py:answerCard(): 
+[1615377691] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E922548E0> {'data': '', 'did': 1615377540419, 'due': -99983, 'factor': 2500, 'flags': 0, 'id': 1614428030336, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614428030335, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615377727] schedv2.py:answerCard(): 
+[1615377727] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92254CA0> {'data': '', 'did': 1615377540419, 'due': -99982, 'factor': 2350, 'flags': 0, 'id': 1613677084731, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613677084731, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615377750] schedv2.py:answerCard(): 
+[1615377750] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92254A90> {'data': '', 'did': 1615377540419, 'due': -99981, 'factor': 2350, 'flags': 0, 'id': 1613676884762, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613676884762, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615377756] schedv2.py:answerCard(): 
+[1615377756] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923E6220> {'data': '', 'did': 1615377540419, 'due': -99980, 'factor': 2350, 'flags': 0, 'id': 1613830109579, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830109579, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615377759] schedv2.py:answerCard(): 
+[1615377759] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E968210A0> {'data': '', 'did': 1615377540419, 'due': -99979, 'factor': 2150, 'flags': 0, 'id': 1613769179555, 'ivl': 12, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613769179555, 'odid': 1589393235069, 'odue': 931, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615377763] schedv2.py:answerCard(): 
+[1615377763] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92254A90> {'data': '', 'did': 1615377540419, 'due': -99978, 'factor': 2050, 'flags': 0, 'id': 1613761496532, 'ivl': 7, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613761496532, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615377767] schedv2.py:answerCard(): 
+[1615377767] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9683E6D0> {'data': '', 'did': 1615377540419, 'due': -99977, 'factor': 1850, 'flags': 0, 'id': 1613943901931, 'ivl': 7, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613943901931, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 15, 'type': 2, 'usn': -1}
+[1615377770] schedv2.py:answerCard(): 
+[1615377770] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9683E970> {'data': '', 'did': 1615377540419, 'due': -99976, 'factor': 2500, 'flags': 0, 'id': 1613994762549, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613994762549, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615377774] schedv2.py:answerCard(): 
+[1615377774] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9683E310> {'data': '', 'did': 1615377540419, 'due': -99975, 'factor': 2050, 'flags': 0, 'id': 1613768728719, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613768728719, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615377778] schedv2.py:answerCard(): 
+[1615377778] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9683E6D0> {'data': '', 'did': 1615377540419, 'due': -99974, 'factor': 2150, 'flags': 0, 'id': 1613676929790, 'ivl': 9, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613676929790, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615377781] schedv2.py:answerCard(): 
+[1615377781] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9683E100> {'data': '', 'did': 1615377540419, 'due': -99973, 'factor': 2350, 'flags': 0, 'id': 1614187347828, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614187347828, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615377784] schedv2.py:answerCard(): 
+[1615377784] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923FE850> {'data': '', 'did': 1615377540419, 'due': -99972, 'factor': 2100, 'flags': 0, 'id': 1613832713696, 'ivl': 10, 'lapses': 2, 'left': 1001, 'mod': 1615377575, 'nid': 1613832713696, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 12, 'type': 2, 'usn': -1}
+[1615377789] schedv2.py:answerCard(): 
+[1615377789] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923FE0D0> {'data': '', 'did': 1615377540419, 'due': -99971, 'factor': 2150, 'flags': 0, 'id': 1614197131005, 'ivl': 6, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1614197131005, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615377834] schedv2.py:answerCard(): 
+[1615377834] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923E6DC0> {'data': '', 'did': 1615377540419, 'due': -99970, 'factor': 2200, 'flags': 0, 'id': 1613990190617, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613990190617, 'odid': 1589393235069, 'odue': 931, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615377972] schedv2.py:answerCard(): 
+[1615377972] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92276D00> {'data': '', 'did': 1615377540419, 'due': -99969, 'factor': 2200, 'flags': 0, 'id': 1614377145344, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614377145343, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615377985] schedv2.py:answerCard(): 
+[1615377985] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E922769D0> {'data': '', 'did': 1615377540419, 'due': -99968, 'factor': 2200, 'flags': 0, 'id': 1614456439770, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614456439769, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615377987] schedv2.py:answerCard(): 
+[1615377987] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96751850> {'data': '', 'did': 1615377540419, 'due': -99967, 'factor': 2000, 'flags': 0, 'id': 1613944794448, 'ivl': 9, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613944794448, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 14, 'type': 2, 'usn': -1}
+[1615378017] schedv2.py:answerCard(): 
+[1615378017] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96821D60> {'data': '', 'did': 1615377540419, 'due': -99967, 'factor': 2000, 'flags': 0, 'id': 1613944794448, 'ivl': 9, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613944794448, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 14, 'type': 2, 'usn': -1}
+[1615378021] schedv2.py:answerCard(): 
+[1615378021] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923E62E0> {'data': '', 'did': 1615377540419, 'due': -99966, 'factor': 2150, 'flags': 0, 'id': 1613846138070, 'ivl': 7, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613846138070, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378029] schedv2.py:answerCard(): 
+[1615378029] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923E6E50> {'data': '', 'did': 1615377540419, 'due': -99965, 'factor': 2050, 'flags': 0, 'id': 1613899855219, 'ivl': 7, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613899855219, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378033] schedv2.py:answerCard(): 
+[1615378033] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9683E310> {'data': '', 'did': 1615377540419, 'due': -99964, 'factor': 2000, 'flags': 0, 'id': 1613944748695, 'ivl': 12, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613944748695, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615378036] schedv2.py:answerCard(): 
+[1615378036] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9683E6D0> {'data': '', 'did': 1615377540419, 'due': -99963, 'factor': 2200, 'flags': 0, 'id': 1613849494954, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613849494954, 'odid': 1589393235069, 'odue': 931, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378041] schedv2.py:answerCard(): 
+[1615378041] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9683E250> {'data': '', 'did': 1615377540419, 'due': -99962, 'factor': 1700, 'flags': 0, 'id': 1613665056841, 'ivl': 6, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613665056841, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 13, 'type': 2, 'usn': -1}
+[1615378097] schedv2.py:answerCard(): 
+[1615378097] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92276940> {'data': '', 'did': 1615377540419, 'due': -99961, 'factor': 2500, 'flags': 0, 'id': 1614708018174, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614708018174, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378100] schedv2.py:answerCard(): 
+[1615378100] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9683E520> {'data': '', 'did': 1615377540419, 'due': -99960, 'factor': 2200, 'flags': 0, 'id': 1613830274777, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830274777, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378219] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E96821A30> {'data': '', 'did': 1615377540419, 'due': -99960, 'factor': 2200, 'flags': 0, 'id': 1613830274777, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830274777, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378266] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9304F220> {'data': '', 'did': 1615377540419, 'due': -99960, 'factor': 2200, 'flags': 0, 'id': 1613830274777, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830274777, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378317] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E934C1520> {'data': '', 'did': 1615377540419, 'due': -99960, 'factor': 2200, 'flags': 0, 'id': 1613830274777, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830274777, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378324] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929718B0> {'data': '', 'did': 1615377540419, 'due': -99960, 'factor': 2200, 'flags': 0, 'id': 1613830274777, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830274777, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378334] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9304F8E0> {'data': '', 'did': 1615377540419, 'due': -99960, 'factor': 2200, 'flags': 0, 'id': 1613830274777, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830274777, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378339] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E934C1520> {'data': '', 'did': 1615377540419, 'due': -99960, 'factor': 2200, 'flags': 0, 'id': 1613830274777, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830274777, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378379] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92999CD0> {'data': '', 'did': 1615377540419, 'due': 1615378356, 'factor': 2350, 'flags': 0, 'id': 1613676884762, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1615377756, 'nid': 1613676884762, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 4, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378383] schedv2.py:answerCard(): 
+[1615378383] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92999700> {'data': '', 'did': 1615377540419, 'due': -99960, 'factor': 2200, 'flags': 0, 'id': 1613830274777, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830274777, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378459] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92971040> {'data': '', 'did': 1615377540419, 'due': -99960, 'factor': 2200, 'flags': 0, 'id': 1613830274777, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613830274777, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378463] schedv2.py:answerCard(): 
+[1615378463] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93617940> {'data': '', 'did': 1615377540419, 'due': -99959, 'factor': 2200, 'flags': 0, 'id': 1613843323412, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613843323412, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615378466] schedv2.py:answerCard(): 
+[1615378466] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929CEE80> {'data': '', 'did': 1615377540419, 'due': -99958, 'factor': 2500, 'flags': 0, 'id': 1614708005908, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614708005908, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378468] schedv2.py:answerCard(): 
+[1615378468] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93615B50> {'data': '', 'did': 1615377540419, 'due': -99957, 'factor': 2200, 'flags': 0, 'id': 1613899799553, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613899799553, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615378472] schedv2.py:answerCard(): 
+[1615378472] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929CE040> {'data': '', 'did': 1615377540419, 'due': -99956, 'factor': 2500, 'flags': 0, 'id': 1614710644088, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614710644087, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378474] schedv2.py:answerCard(): 
+[1615378474] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D45E0> {'data': '', 'did': 1615377540419, 'due': -99955, 'factor': 2300, 'flags': 0, 'id': 1614117284250, 'ivl': 12, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1614117284250, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615378479] schedv2.py:answerCard(): 
+[1615378479] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929CE070> {'data': '', 'did': 1615377540419, 'due': -99954, 'factor': 2500, 'flags': 0, 'id': 1613995067957, 'ivl': 19, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613995067957, 'odid': 1589393235069, 'odue': 940, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615378483] schedv2.py:answerCard(): 
+[1615378483] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935F7DF0> {'data': '', 'did': 1615377540419, 'due': -99953, 'factor': 2500, 'flags': 0, 'id': 1614630664706, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614630664706, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378485] schedv2.py:answerCard(): 
+[1615378485] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929CEFA0> {'data': '', 'did': 1615377540419, 'due': -99952, 'factor': 2050, 'flags': 0, 'id': 1613943497697, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613943497697, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378487] schedv2.py:answerCard(): 
+[1615378487] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929CECA0> {'data': '', 'did': 1615377540419, 'due': -99951, 'factor': 2200, 'flags': 0, 'id': 1614456830646, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614456830645, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615378512] schedv2.py:answerCard(): 
+[1615378512] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D4520> {'data': '', 'did': 1615377540419, 'due': -99950, 'factor': 2500, 'flags': 0, 'id': 1614707504363, 'ivl': 7, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614707504363, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615378522] schedv2.py:answerCard(): 
+[1615378522] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D4070> {'data': '', 'did': 1615377540419, 'due': -99949, 'factor': 2500, 'flags': 0, 'id': 1614635898884, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614635898884, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615378526] schedv2.py:answerCard(): 
+[1615378526] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D4760> {'data': '', 'did': 1615377540419, 'due': -99948, 'factor': 2300, 'flags': 0, 'id': 1613832427391, 'ivl': 12, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613832427391, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 14, 'type': 2, 'usn': -1}
+[1615378529] schedv2.py:answerCard(): 
+[1615378529] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D42E0> {'data': '', 'did': 1615377540419, 'due': -99947, 'factor': 2500, 'flags': 0, 'id': 1614191660919, 'ivl': 14, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614191660919, 'odid': 1589393235069, 'odue': 935, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378531] schedv2.py:answerCard(): 
+[1615378531] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D41C0> {'data': '', 'did': 1615377540419, 'due': -99946, 'factor': 2050, 'flags': 0, 'id': 1613831227879, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613831227879, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378535] schedv2.py:answerCard(): 
+[1615378535] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D4940> {'data': '', 'did': 1615377540419, 'due': -99945, 'factor': 2350, 'flags': 0, 'id': 1614718961834, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614718961834, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615378551] schedv2.py:answerCard(): 
+[1615378551] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D45E0> {'data': '', 'did': 1615377540419, 'due': -99944, 'factor': 2350, 'flags': 0, 'id': 1614430739950, 'ivl': 7, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614430739950, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378555] schedv2.py:answerCard(): 
+[1615378555] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929CEDF0> {'data': '', 'did': 1615377540419, 'due': -99943, 'factor': 2200, 'flags': 0, 'id': 1614005898774, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614005898774, 'odid': 1589393235069, 'odue': 939, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378591] schedv2.py:answerCard(): 
+[1615378591] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D4910> {'data': '', 'did': 1615377540419, 'due': -99942, 'factor': 2500, 'flags': 0, 'id': 1614717015576, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614717015576, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615378593] schedv2.py:answerCard(): 
+[1615378593] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D4C40> {'data': '', 'did': 1615377540419, 'due': -99941, 'factor': 2500, 'flags': 0, 'id': 1614716918583, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614716918582, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378594] schedv2.py:answerCard(): 
+[1615378594] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E5DC0> {'data': '', 'did': 1615377540419, 'due': -99940, 'factor': 2350, 'flags': 0, 'id': 1614874022578, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614874022578, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378600] schedv2.py:answerCard(): 
+[1615378600] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E5130> {'data': '', 'did': 1615377540419, 'due': -99939, 'factor': 1550, 'flags': 0, 'id': 1613995655885, 'ivl': 5, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613995655885, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 19, 'type': 2, 'usn': -1}
+[1615378609] schedv2.py:answerCard(): 
+[1615378609] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92453520> {'data': '', 'did': 1615377540419, 'due': -99938, 'factor': 2350, 'flags': 0, 'id': 1614880664712, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614880664712, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615378645] schedv2.py:answerCard(): 
+[1615378645] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92453340> {'data': '', 'did': 1615377540419, 'due': -99937, 'factor': 2500, 'flags': 0, 'id': 1614722411097, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614722411097, 'odid': 1589393235069, 'odue': 931, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378648] schedv2.py:answerCard(): 
+[1615378648] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D46A0> {'data': '', 'did': 1615377540419, 'due': -99937, 'factor': 2500, 'flags': 0, 'id': 1614722411097, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614722411097, 'odid': 1589393235069, 'odue': 931, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378653] schedv2.py:answerCard(): 
+[1615378653] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D4700> {'data': '', 'did': 1615377540419, 'due': -99936, 'factor': 1800, 'flags': 0, 'id': 1613844716043, 'ivl': 6, 'lapses': 2, 'left': 1001, 'mod': 1615377575, 'nid': 1613844716043, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 17, 'type': 2, 'usn': -1}
+[1615378655] schedv2.py:answerCard(): 
+[1615378655] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D46A0> {'data': '', 'did': 1615377540419, 'due': -99935, 'factor': 2350, 'flags': 0, 'id': 1614892979979, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614892979979, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378666] schedv2.py:answerCard(): 
+[1615378666] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E924534F0> {'data': '', 'did': 1615377540419, 'due': -99934, 'factor': 1750, 'flags': 0, 'id': 1613683750678, 'ivl': 9, 'lapses': 3, 'left': 1001, 'mod': 1615377575, 'nid': 1613683750678, 'odid': 1589393235069, 'odue': 931, 'ord': 0, 'queue': 2, 'reps': 19, 'type': 2, 'usn': -1}
+[1615378670] schedv2.py:answerCard(): 
+[1615378670] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E924538E0> {'data': '', 'did': 1615377540419, 'due': -99933, 'factor': 1850, 'flags': 0, 'id': 1613769228589, 'ivl': 7, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613769228589, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378678] schedv2.py:answerCard(): 
+[1615378678] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D4700> {'data': '', 'did': 1615377540419, 'due': -99932, 'factor': 1650, 'flags': 0, 'id': 1614466025153, 'ivl': 4, 'lapses': 2, 'left': 1001, 'mod': 1615377575, 'nid': 1614466025153, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 13, 'type': 2, 'usn': -1}
+[1615378685] schedv2.py:answerCard(): 
+[1615378685] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D4100> {'data': '', 'did': 1615377540419, 'due': -99931, 'factor': 2350, 'flags': 0, 'id': 1614784463117, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614784463117, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615378693] schedv2.py:answerCard(): 
+[1615378693] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E5E20> {'data': '', 'did': 1615377540419, 'due': -99930, 'factor': 2350, 'flags': 0, 'id': 1614712614985, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614712614985, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378700] schedv2.py:answerCard(): 
+[1615378700] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E5D60> {'data': '', 'did': 1615377540419, 'due': -99929, 'factor': 2150, 'flags': 0, 'id': 1614710919534, 'ivl': 4, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1614710919534, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615378708] schedv2.py:answerCard(): 
+[1615378708] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D43A0> {'data': '', 'did': 1615377540419, 'due': -99928, 'factor': 2200, 'flags': 0, 'id': 1614708587730, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614708587730, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378713] schedv2.py:answerCard(): 
+[1615378713] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E5E80> {'data': '', 'did': 1615377540419, 'due': -99927, 'factor': 2000, 'flags': 0, 'id': 1613814453421, 'ivl': 9, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613814453421, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615378715] schedv2.py:answerCard(): 
+[1615378715] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E0A00> {'data': '', 'did': 1615377540419, 'due': -99926, 'factor': 2500, 'flags': 0, 'id': 1614783405572, 'ivl': 7, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614783405572, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378717] schedv2.py:answerCard(): 
+[1615378717] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E5F10> {'data': '', 'did': 1615377540419, 'due': -99925, 'factor': 2000, 'flags': 0, 'id': 1614465110346, 'ivl': 5, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1614465110345, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615378721] schedv2.py:answerCard(): 
+[1615378721] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F12E0> {'data': '', 'did': 1615377540419, 'due': -99924, 'factor': 2500, 'flags': 0, 'id': 1614795259230, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614795259230, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615378868] schedv2.py:answerCard(): 
+[1615378868] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92453190> {'data': '', 'did': 1615377540419, 'due': -99923, 'factor': 2350, 'flags': 0, 'id': 1614889779920, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614889779920, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615378886] schedv2.py:answerCard(): 
+[1615378886] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E5790> {'data': '', 'did': 1615377540419, 'due': -99922, 'factor': 2500, 'flags': 0, 'id': 1614882403619, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614882403619, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378888] schedv2.py:answerCard(): 
+[1615378888] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E5D60> {'data': '', 'did': 1615377540419, 'due': -99921, 'factor': 2350, 'flags': 0, 'id': 1613988466151, 'ivl': 14, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613988466151, 'odid': 1589393235069, 'odue': 937, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615378889] schedv2.py:answerCard(): 
+[1615378889] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1130> {'data': '', 'did': 1615377540419, 'due': -99920, 'factor': 2500, 'flags': 0, 'id': 1614875540105, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614875540105, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378892] schedv2.py:answerCard(): 
+[1615378892] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F17F0> {'data': '', 'did': 1615377540419, 'due': -99919, 'factor': 2350, 'flags': 0, 'id': 1614873937206, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614873937206, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378897] schedv2.py:answerCard(): 
+[1615378897] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F13A0> {'data': '', 'did': 1615377540419, 'due': -99918, 'factor': 2500, 'flags': 0, 'id': 1614875521878, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614875521878, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615378898] schedv2.py:answerCard(): 
+[1615378898] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F19D0> {'data': '', 'did': 1615377540419, 'due': -99917, 'factor': 2500, 'flags': 0, 'id': 1614780750746, 'ivl': 7, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614780750746, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615378901] schedv2.py:answerCard(): 
+[1615378901] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1970> {'data': '', 'did': 1615377540419, 'due': -99916, 'factor': 2150, 'flags': 0, 'id': 1614892480236, 'ivl': 3, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1614892480236, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615378903] schedv2.py:answerCard(): 
+[1615378903] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1AF0> {'data': '', 'did': 1615377540419, 'due': -99915, 'factor': 2500, 'flags': 0, 'id': 1615129838639, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615129838639, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1}
+[1615378905] schedv2.py:answerCard(): 
+[1615378905] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1E80> {'data': '', 'did': 1615377540419, 'due': -99914, 'factor': 2500, 'flags': 0, 'id': 1614874497976, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614874497976, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615378992] schedv2.py:answerCard(): 
+[1615378992] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E5220> {'data': '', 'did': 1615377540419, 'due': -99913, 'factor': 2500, 'flags': 0, 'id': 1615136374919, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615136374919, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379009] schedv2.py:answerCard(): 
+[1615379009] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1520> {'data': '', 'did': 1615377540419, 'due': -99912, 'factor': 2200, 'flags': 0, 'id': 1614201357293, 'ivl': 12, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614201357293, 'odid': 1589393235069, 'odue': 935, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615379011] schedv2.py:answerCard(): 
+[1615379011] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1F10> {'data': '', 'did': 1615377540419, 'due': -99911, 'factor': 2500, 'flags': 0, 'id': 1614793980777, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614793980777, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615379013] schedv2.py:answerCard(): 
+[1615379013] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1820> {'data': '', 'did': 1615377540419, 'due': -99910, 'factor': 2350, 'flags': 0, 'id': 1614876684652, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614876684652, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615379018] schedv2.py:answerCard(): 
+[1615379018] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1400> {'data': '', 'did': 1615377540419, 'due': -99909, 'factor': 2500, 'flags': 0, 'id': 1614796289786, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614796289786, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615379020] schedv2.py:answerCard(): 
+[1615379020] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1CA0> {'data': '', 'did': 1615377540419, 'due': -99908, 'factor': 2500, 'flags': 0, 'id': 1615151218518, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615151218518, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615379032] schedv2.py:answerCard(): 
+[1615379032] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1E20> {'data': '', 'did': 1615377540419, 'due': -99907, 'factor': 2500, 'flags': 0, 'id': 1614783742317, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614783742317, 'odid': 1589393235069, 'odue': 931, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615379037] schedv2.py:answerCard(): 
+[1615379037] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1310> {'data': '', 'did': 1615377540419, 'due': -99906, 'factor': 2350, 'flags': 0, 'id': 1613989061752, 'ivl': 15, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613989061752, 'odid': 1589393235069, 'odue': 939, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379039] schedv2.py:answerCard(): 
+[1615379039] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F12B0> {'data': '', 'did': 1615377540419, 'due': -99905, 'factor': 2050, 'flags': 0, 'id': 1613764409688, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613764409688, 'odid': 1589393235069, 'odue': 937, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615379044] schedv2.py:answerCard(): 
+[1615379044] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1160> {'data': '', 'did': 1615377540419, 'due': -99904, 'factor': 2500, 'flags': 0, 'id': 1614196798618, 'ivl': 20, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614196798618, 'odid': 1589393235069, 'odue': 944, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615379048] schedv2.py:answerCard(): 
+[1615379048] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F94F0> {'data': '', 'did': 1615377540419, 'due': -99903, 'factor': 2350, 'flags': 0, 'id': 1614710197413, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614710197413, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615379071] schedv2.py:answerCard(): 
+[1615379071] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1730> {'data': '', 'did': 1615377540419, 'due': -99902, 'factor': 1650, 'flags': 0, 'id': 1613995191085, 'ivl': 5, 'lapses': 2, 'left': 1001, 'mod': 1615377575, 'nid': 1613995191085, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 16, 'type': 2, 'usn': -1}
+[1615379125] schedv2.py:answerCard(): 
+[1615379125] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1250> {'data': '', 'did': 1615377540419, 'due': -99901, 'factor': 2350, 'flags': 0, 'id': 1614597228015, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614597228015, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615379132] schedv2.py:answerCard(): 
+[1615379132] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1D60> {'data': '', 'did': 1615377540419, 'due': -99900, 'factor': 1900, 'flags': 0, 'id': 1613982464179, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613982464179, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615379278] schedv2.py:answerCard(): 
+[1615379278] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F10A0> {'data': '', 'did': 1615377540419, 'due': 1615379248, 'factor': 2350, 'flags': 0, 'id': 1614880664712, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615378648, 'nid': 1614880664712, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 4, 'reps': 5, 'type': 2, 'usn': -1}
+[1615379281] schedv2.py:answerCard(): 
+[1615379281] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1670> {'data': '', 'did': 1615377540419, 'due': 1615379266, 'factor': 2350, 'flags': 0, 'id': 1614892979979, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615378666, 'nid': 1614892979979, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 4, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379291] schedv2.py:answerCard(): 
+[1615379291] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F1490> {'data': '', 'did': 1615377540419, 'due': -99899, 'factor': 2500, 'flags': 0, 'id': 1615229184353, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615229184352, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615379297] schedv2.py:answerCard(): 
+[1615379297] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F98B0> {'data': '', 'did': 1615377540419, 'due': -99898, 'factor': 2350, 'flags': 0, 'id': 1615057006665, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615057006665, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379317] schedv2.py:answerCard(): 
+[1615379317] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9DF0> {'data': '', 'did': 1615377540419, 'due': -99897, 'factor': 2300, 'flags': 0, 'id': 1614883985470, 'ivl': 3, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1614883985470, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615379320] schedv2.py:answerCard(): 
+[1615379320] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9100> {'data': '', 'did': 1615377540419, 'due': -99896, 'factor': 2350, 'flags': 0, 'id': 1613761503506, 'ivl': 23, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613761503506, 'odid': 1589393235069, 'odue': 947, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615379344] schedv2.py:answerCard(): 
+[1615379344] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9580> {'data': '', 'did': 1615377540419, 'due': -99895, 'factor': 2350, 'flags': 0, 'id': 1614961899185, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614961899185, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615379346] schedv2.py:answerCard(): 
+[1615379346] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9820> {'data': '', 'did': 1615377540419, 'due': -99894, 'factor': 1900, 'flags': 0, 'id': 1614427741025, 'ivl': 5, 'lapses': 3, 'left': 1001, 'mod': 1615377575, 'nid': 1614427741025, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 18, 'type': 2, 'usn': -1}
+[1615379350] schedv2.py:answerCard(): 
+[1615379350] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9BB0> {'data': '', 'did': 1615377540419, 'due': -99893, 'factor': 2300, 'flags': 0, 'id': 1614883149930, 'ivl': 5, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1614883149929, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615379419] schedv2.py:answerCard(): 
+[1615379419] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9A60> {'data': '', 'did': 1615377540419, 'due': -99892, 'factor': 2500, 'flags': 0, 'id': 1614961870048, 'ivl': 6, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614961870048, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379421] schedv2.py:answerCard(): 
+[1615379421] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9F10> {'data': '', 'did': 1615377540419, 'due': -99891, 'factor': 2350, 'flags': 0, 'id': 1615129633762, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615129633762, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379436] schedv2.py:answerCard(): 
+[1615379436] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9640> {'data': '', 'did': 1615377540419, 'due': -99890, 'factor': 2200, 'flags': 0, 'id': 1615129542011, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615129542011, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379440] schedv2.py:answerCard(): 
+[1615379440] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9940> {'data': '', 'did': 1615377540419, 'due': -99889, 'factor': 1850, 'flags': 0, 'id': 1613944005799, 'ivl': 12, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1613944005799, 'odid': 1589393235069, 'odue': 937, 'ord': 0, 'queue': 2, 'reps': 15, 'type': 2, 'usn': -1}
+[1615379448] schedv2.py:answerCard(): 
+[1615379448] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9E20> {'data': '', 'did': 1615377540419, 'due': -99888, 'factor': 2350, 'flags': 0, 'id': 1613745371461, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613745371460, 'odid': 1589393235069, 'odue': 949, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379452] schedv2.py:answerCard(): 
+[1615379452] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9CA0> {'data': '', 'did': 1615377540419, 'due': -99887, 'factor': 2350, 'flags': 0, 'id': 1615130060594, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615130060594, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615379457] schedv2.py:answerCard(): 
+[1615379457] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9910> {'data': '', 'did': 1615377540419, 'due': -99886, 'factor': 2350, 'flags': 0, 'id': 1615134124421, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615134124421, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615379460] schedv2.py:answerCard(): 
+[1615379460] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9550> {'data': '', 'did': 1615377540419, 'due': -99885, 'factor': 2300, 'flags': 0, 'id': 1614951912563, 'ivl': 5, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1614951912563, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615379463] schedv2.py:answerCard(): 
+[1615379463] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2310> {'data': '', 'did': 1615377540419, 'due': -99884, 'factor': 2350, 'flags': 0, 'id': 1615314703587, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615314703587, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615379465] schedv2.py:answerCard(): 
+[1615379465] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2370> {'data': '', 'did': 1615377540419, 'due': -99883, 'factor': 2200, 'flags': 0, 'id': 1614708524365, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614708524365, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615379469] schedv2.py:answerCard(): 
+[1615379469] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2640> {'data': '', 'did': 1615377540419, 'due': -99882, 'factor': 2500, 'flags': 0, 'id': 1615311991572, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615311991572, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1}
+[1615379471] schedv2.py:answerCard(): 
+[1615379471] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2760> {'data': '', 'did': 1615377540419, 'due': -99881, 'factor': 2650, 'flags': 0, 'id': 1615294010855, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615294010854, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615379473] schedv2.py:answerCard(): 
+[1615379473] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E27C0> {'data': '', 'did': 1615377540419, 'due': -99880, 'factor': 2300, 'flags': 0, 'id': 1614975111335, 'ivl': 6, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1614975111334, 'odid': 1589393235069, 'odue': 931, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615379476] schedv2.py:answerCard(): 
+[1615379476] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2550> {'data': '', 'did': 1615377540419, 'due': -99879, 'factor': 2350, 'flags': 0, 'id': 1614288964491, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614288964491, 'odid': 1589393235069, 'odue': 934, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379480] schedv2.py:answerCard(): 
+[1615379480] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9520> {'data': '', 'did': 1615377540419, 'due': -99878, 'factor': 2350, 'flags': 0, 'id': 1614201440554, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614201440554, 'odid': 1589393235069, 'odue': 947, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615379482] schedv2.py:answerCard(): 
+[1615379482] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F99D0> {'data': '', 'did': 1615377540419, 'due': -99877, 'factor': 2050, 'flags': 0, 'id': 1613761543151, 'ivl': 14, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1613761543151, 'odid': 1589393235069, 'odue': 939, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615379485] schedv2.py:answerCard(): 
+[1615379485] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F9460> {'data': '', 'did': 1615377540419, 'due': -99876, 'factor': 2650, 'flags': 0, 'id': 1614192699869, 'ivl': 25, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1614192699869, 'odid': 1589393235069, 'odue': 950, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615379487] schedv2.py:answerCard(): 
+[1615379487] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2C10> {'data': '', 'did': 1615377540419, 'due': -99875, 'factor': 2500, 'flags': 0, 'id': 1615314688978, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615314688978, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615379489] schedv2.py:answerCard(): 
+[1615379489] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2FA0> {'data': '', 'did': 1615377540419, 'due': -99874, 'factor': 2500, 'flags': 0, 'id': 1615314739396, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615377575, 'nid': 1615314739396, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615379494] schedv2.py:answerCard(): 
+[1615379494] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2850> {'data': '', 'did': 1615377540419, 'due': -99873, 'factor': 1950, 'flags': 0, 'id': 1613989023232, 'ivl': 11, 'lapses': 2, 'left': 1001, 'mod': 1615377575, 'nid': 1613989023232, 'odid': 1589393235069, 'odue': 936, 'ord': 0, 'queue': 2, 'reps': 22, 'type': 2, 'usn': -1}
+[1615379497] schedv2.py:answerCard(): 
+[1615379497] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2220> {'data': '', 'did': 1615377540419, 'due': -99872, 'factor': 2300, 'flags': 0, 'id': 1615314081095, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615377575, 'nid': 1615314081095, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615379507] schedv2.py:answerCard(): 
+[1615379507] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2430> {'data': '', 'did': 1615377540419, 'due': 1615379671, 'factor': 2350, 'flags': 0, 'id': 1614710197413, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615379071, 'nid': 1614710197413, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 4, 'reps': 9, 'type': 2, 'usn': -1}
+[1615379509] schedv2.py:answerCard(): 
+[1615379509] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2CD0> {'data': '', 'did': 1615377540419, 'due': 1615379891, 'factor': 2350, 'flags': 0, 'id': 1614892979979, 'ivl': 4, 'lapses': 0, 'left': 1001, 'mod': 1615379291, 'nid': 1614892979979, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 4, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379513] schedv2.py:answerCard(): 
+[1615379513] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E28E0> {'data': '', 'did': 1615377540419, 'due': 1615380107, 'factor': 2300, 'flags': 0, 'id': 1615314081095, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615379507, 'nid': 1615314081095, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 4, 'reps': 9, 'type': 2, 'usn': -1}
+[1615379515] schedv2.py:answerCard(): 
+[1615379644] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929993D0> {'data': '', 'did': 1615379636140, 'due': -100000, 'factor': 2500, 'flags': 0, 'id': 1615323198045, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615379642, 'nid': 1615323198045, 'odid': 1600844981553, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1}
+[1615379646] schedv2.py:answerCard(): 
+[1615379646] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929D40A0> {'data': '', 'did': 1615379636140, 'due': -99999, 'factor': 2500, 'flags': 0, 'id': 1615324257828, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615379642, 'nid': 1615324257828, 'odid': 1600844981553, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1}
+[1615379647] schedv2.py:answerCard(): 
+[1615379647] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93801490> {'data': '', 'did': 1615379636140, 'due': -99998, 'factor': 2500, 'flags': 0, 'id': 1615323417242, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615379642, 'nid': 1615323417242, 'odid': 1600844981553, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 3, 'type': 2, 'usn': -1}
+[1615379649] schedv2.py:answerCard(): 
+[1615379649] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92453340> {'data': '', 'did': 1615379636140, 'due': -99997, 'factor': 2350, 'flags': 0, 'id': 1615324239204, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1615379642, 'nid': 1615324239204, 'odid': 1600844981553, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615379655] schedv2.py:answerCard(): 
+[1615379655] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937F98B0> {'data': '', 'did': 1615379636140, 'due': -99996, 'factor': 2350, 'flags': 0, 'id': 1615325589693, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1615379642, 'nid': 1615325589693, 'odid': 1600844981553, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615379658] schedv2.py:answerCard(): 
+[1615379658] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937F97F0> {'data': '', 'did': 1615379636140, 'due': -99995, 'factor': 2350, 'flags': 0, 'id': 1615324019610, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1615379642, 'nid': 1615324019610, 'odid': 1600844981553, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615379661] schedv2.py:answerCard(): 
+[1615379661] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E924534F0> {'data': '', 'did': 1615379636140, 'due': -99994, 'factor': 2350, 'flags': 0, 'id': 1615324899914, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1615379642, 'nid': 1615324899914, 'odid': 1600844981553, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615379664] schedv2.py:answerCard(): 
+[1615379664] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F92E0> {'data': '', 'did': 1615379636140, 'due': -99993, 'factor': 2300, 'flags': 0, 'id': 1615324937644, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615379642, 'nid': 1615324937644, 'odid': 1600844981553, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615379666] schedv2.py:answerCard(): 
+[1615379666] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929F96A0> {'data': '', 'did': 1615379636140, 'due': 1615380264, 'factor': 2350, 'flags': 0, 'id': 1615324899914, 'ivl': 2, 'lapses': 0, 'left': 1001, 'mod': 1615379664, 'nid': 1615324899914, 'odid': 1600844981553, 'odue': 927, 'ord': 0, 'queue': 4, 'reps': 4, 'type': 2, 'usn': -1}
+[1615379668] schedv2.py:answerCard(): 
+[1615381367] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E924534F0> {'data': '', 'did': 1615381351367, 'due': -100000, 'factor': 2500, 'flags': 0, 'id': 1610474879564, 'ivl': 36, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610474879564, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381373] schedv2.py:answerCard(): 
+[1615381373] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930700D0> {'data': '', 'did': 1615381351367, 'due': -99999, 'factor': 2500, 'flags': 0, 'id': 1610396678469, 'ivl': 34, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610396678469, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381376] schedv2.py:answerCard(): 
+[1615381376] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92453130> {'data': '', 'did': 1615381351367, 'due': -99998, 'factor': 2500, 'flags': 0, 'id': 1610398711828, 'ivl': 38, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610398711828, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615381381] schedv2.py:answerCard(): 
+[1615381381] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93617940> {'data': '', 'did': 1615381351367, 'due': -99997, 'factor': 2500, 'flags': 0, 'id': 1610570019889, 'ivl': 35, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610570019889, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615381436] schedv2.py:answerCard(): 
+[1615381436] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2F70> {'data': '', 'did': 1615381351367, 'due': -99996, 'factor': 2500, 'flags': 0, 'id': 1610473715889, 'ivl': 37, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610473715889, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381443] schedv2.py:answerCard(): 
+[1615381443] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930740A0> {'data': '', 'did': 1615381351367, 'due': -99995, 'factor': 2500, 'flags': 0, 'id': 1610553234321, 'ivl': 38, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610553234321, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615381462] schedv2.py:answerCard(): 
+[1615381462] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93074CA0> {'data': '', 'did': 1615381351367, 'due': -99994, 'factor': 2500, 'flags': 0, 'id': 1610569980078, 'ivl': 40, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610569980078, 'odid': 1589393235069, 'odue': 935, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381466] schedv2.py:answerCard(): 
+[1615381466] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93070700> {'data': '', 'did': 1615381351367, 'due': -99993, 'factor': 2650, 'flags': 0, 'id': 1610400013862, 'ivl': 57, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610400013861, 'odid': 1589393235069, 'odue': 953, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381473] schedv2.py:answerCard(): 
+[1615381473] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937E2100> {'data': '', 'did': 1615381351367, 'due': -99992, 'factor': 2500, 'flags': 0, 'id': 1611007956283, 'ivl': 35, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611007956283, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381514] schedv2.py:answerCard(): 
+[1615381514] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9380F9D0> {'data': '', 'did': 1615381351367, 'due': -99991, 'factor': 2500, 'flags': 0, 'id': 1610403607252, 'ivl': 50, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610403607252, 'odid': 1589393235069, 'odue': 948, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381521] schedv2.py:answerCard(): 
+[1615381521] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92453190> {'data': '', 'did': 1615381351367, 'due': -99990, 'factor': 2350, 'flags': 0, 'id': 1610568244362, 'ivl': 32, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610568244362, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615381542] schedv2.py:answerCard(): 
+[1615381542] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9380FE50> {'data': '', 'did': 1615381351367, 'due': -99989, 'factor': 2300, 'flags': 0, 'id': 1611162381347, 'ivl': 27, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1611162381347, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 12, 'type': 2, 'usn': -1}
+[1615381545] schedv2.py:answerCard(): 
+[1615381545] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93070370> {'data': '', 'did': 1615381351367, 'due': -99988, 'factor': 2350, 'flags': 0, 'id': 1610488894733, 'ivl': 38, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610488894733, 'odid': 1589393235069, 'odue': 940, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615381560] schedv2.py:answerCard(): 
+[1615381560] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93074940> {'data': '', 'did': 1615381351367, 'due': -99987, 'factor': 2500, 'flags': 0, 'id': 1610397891688, 'ivl': 54, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610397891688, 'odid': 1589393235069, 'odue': 956, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381562] schedv2.py:answerCard(): 
+[1615381562] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930744C0> {'data': '', 'did': 1615381351367, 'due': -99986, 'factor': 2300, 'flags': 0, 'id': 1611085961191, 'ivl': 30, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1611085961191, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615381564] schedv2.py:answerCard(): 
+[1615381564] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93074C70> {'data': '', 'did': 1615381351367, 'due': -99985, 'factor': 2350, 'flags': 0, 'id': 1610570109362, 'ivl': 33, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610570109362, 'odid': 1589393235069, 'odue': 936, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615381604] schedv2.py:answerCard(): 
+[1615381605] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929CEDF0> {'data': '', 'did': 1615381351367, 'due': -99984, 'factor': 2350, 'flags': 0, 'id': 1610552656673, 'ivl': 40, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610552656673, 'odid': 1589393235069, 'odue': 943, 'ord': 0, 'queue': 2, 'reps': 14, 'type': 2, 'usn': -1}
+[1615381645] schedv2.py:answerCard(): 
+[1615381645] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E929E5A60> {'data': '', 'did': 1615381351367, 'due': -99983, 'factor': 2300, 'flags': 0, 'id': 1611519745063, 'ivl': 32, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1611519745063, 'odid': 1589393235069, 'odue': 937, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615381652] schedv2.py:answerCard(): 
+[1615381652] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930743A0> {'data': '', 'did': 1615381351367, 'due': -99982, 'factor': 2150, 'flags': 0, 'id': 1610485454295, 'ivl': 30, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1610485454294, 'odid': 1589393235069, 'odue': 935, 'ord': 0, 'queue': 2, 'reps': 13, 'type': 2, 'usn': -1}
+[1615381689] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93070190> {'data': '', 'did': 1615381351367, 'due': -99982, 'factor': 2150, 'flags': 0, 'id': 1610485454295, 'ivl': 30, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1610485454294, 'odid': 1589393235069, 'odue': 935, 'ord': 0, 'queue': 2, 'reps': 13, 'type': 2, 'usn': -1}
+[1615381693] schedv2.py:answerCard(): 
+[1615381693] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937ED2E0> {'data': '', 'did': 1615381351367, 'due': -99981, 'factor': 2350, 'flags': 0, 'id': 1610397855547, 'ivl': 25, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610397855547, 'odid': 1589393235069, 'odue': 930, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381698] schedv2.py:answerCard(): 
+[1615381698] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937ED670> {'data': '', 'did': 1615381351367, 'due': -99980, 'factor': 2500, 'flags': 0, 'id': 1611091962848, 'ivl': 45, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611091962848, 'odid': 1589393235069, 'odue': 950, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615381704] schedv2.py:answerCard(): 
+[1615381704] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9381AEE0> {'data': '', 'did': 1615381351367, 'due': -99979, 'factor': 2050, 'flags': 0, 'id': 1611163411628, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611163411628, 'odid': 1589393235069, 'odue': 929, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615381709] schedv2.py:answerCard(): 
+[1615381709] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93073670> {'data': '', 'did': 1615381351367, 'due': -99978, 'factor': 2500, 'flags': 0, 'id': 1611762873335, 'ivl': 31, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611762873335, 'odid': 1589393235069, 'odue': 937, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381711] schedv2.py:answerCard(): 
+[1615381711] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93099100> {'data': '', 'did': 1615381351367, 'due': -99977, 'factor': 2500, 'flags': 0, 'id': 1611246901564, 'ivl': 46, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611246901564, 'odid': 1589393235069, 'odue': 952, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381725] schedv2.py:answerCard(): 
+[1615381725] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9309DF40> {'data': '', 'did': 1615381351367, 'due': -99976, 'factor': 2500, 'flags': 0, 'id': 1611518949266, 'ivl': 37, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611518949266, 'odid': 1589393235069, 'odue': 943, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615381730] schedv2.py:answerCard(): 
+[1615381730] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9381AEE0> {'data': '', 'did': 1615381351367, 'due': -99975, 'factor': 2500, 'flags': 0, 'id': 1610565159059, 'ivl': 56, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610565159059, 'odid': 1589393235069, 'odue': 962, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615381735] schedv2.py:answerCard(): 
+[1615381735] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9309DEE0> {'data': '', 'did': 1615381351367, 'due': -99974, 'factor': 2500, 'flags': 0, 'id': 1611519409313, 'ivl': 36, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611519409313, 'odid': 1589393235069, 'odue': 943, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381739] schedv2.py:answerCard(): 
+[1615381739] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9381AD30> {'data': '', 'did': 1615381351367, 'due': -99973, 'factor': 2500, 'flags': 0, 'id': 1611605798790, 'ivl': 35, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611605798790, 'odid': 1589393235069, 'odue': 942, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381743] schedv2.py:answerCard(): 
+[1615381743] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9309D190> {'data': '', 'did': 1615381351367, 'due': -99973, 'factor': 2500, 'flags': 0, 'id': 1611605798790, 'ivl': 35, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611605798790, 'odid': 1589393235069, 'odue': 942, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381753] schedv2.py:answerCard(): 
+[1615381753] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9307EC40> {'data': '', 'did': 1615381351367, 'due': -99972, 'factor': 2350, 'flags': 0, 'id': 1610566528048, 'ivl': 47, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610566528047, 'odid': 1589393235069, 'odue': 954, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615381802] schedv2.py:answerCard(): 
+[1615381802] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9307CE20> {'data': '', 'did': 1615381351367, 'due': -99971, 'factor': 2000, 'flags': 0, 'id': 1610834080001, 'ivl': 33, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1610834080001, 'odid': 1589393235069, 'odue': 940, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615381828] schedv2.py:answerCard(): 
+[1615381828] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930991C0> {'data': '', 'did': 1615381351367, 'due': -99970, 'factor': 2500, 'flags': 0, 'id': 1611608144378, 'ivl': 39, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611608144378, 'odid': 1589393235069, 'odue': 946, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381833] schedv2.py:answerCard(): 
+[1615381833] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93070340> {'data': '', 'did': 1615381351367, 'due': -99969, 'factor': 2200, 'flags': 0, 'id': 1610474629298, 'ivl': 38, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610474629298, 'odid': 1589393235069, 'odue': 946, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615381839] schedv2.py:answerCard(): 
+[1615381839] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9309D8B0> {'data': '', 'did': 1615381351367, 'due': -99968, 'factor': 2150, 'flags': 0, 'id': 1610402581857, 'ivl': 46, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1610402581857, 'odid': 1589393235069, 'odue': 954, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615381876] schedv2.py:answerCard(): 
+[1615381876] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93070070> {'data': '', 'did': 1615381351367, 'due': -99968, 'factor': 2150, 'flags': 0, 'id': 1610402581857, 'ivl': 46, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1610402581857, 'odid': 1589393235069, 'odue': 954, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615381878] schedv2.py:answerCard(): 
+[1615381878] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9309DFD0> {'data': '', 'did': 1615381351367, 'due': -99967, 'factor': 2500, 'flags': 0, 'id': 1611767773107, 'ivl': 38, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611767773107, 'odid': 1589393235069, 'odue': 947, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615381881] schedv2.py:answerCard(): 
+[1615381881] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9309D910> {'data': '', 'did': 1615381351367, 'due': -99966, 'factor': 2200, 'flags': 0, 'id': 1610646972433, 'ivl': 34, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610646972433, 'odid': 1589393235069, 'odue': 943, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615381886] schedv2.py:answerCard(): 
+[1615381886] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9307CC40> {'data': '', 'did': 1615381351367, 'due': -99965, 'factor': 2350, 'flags': 0, 'id': 1610473000580, 'ivl': 57, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610473000580, 'odid': 1589393235069, 'odue': 966, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615381890] schedv2.py:answerCard(): 
+[1615381890] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93818E80> {'data': '', 'did': 1615381351367, 'due': -99964, 'factor': 2500, 'flags': 0, 'id': 1611161283539, 'ivl': 49, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611161283538, 'odid': 1589393235069, 'odue': 958, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615381892] schedv2.py:answerCard(): 
+[1615381892] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9307C790> {'data': '', 'did': 1615381351367, 'due': -99963, 'factor': 2500, 'flags': 0, 'id': 1611519784064, 'ivl': 49, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611519784064, 'odid': 1589393235069, 'odue': 958, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615381933] schedv2.py:answerCard(): 
+[1615381933] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9307CC10> {'data': '', 'did': 1615381351367, 'due': -99962, 'factor': 2500, 'flags': 0, 'id': 1611519510329, 'ivl': 44, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611519510329, 'odid': 1589393235069, 'odue': 953, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382014] schedv2.py:answerCard(): 
+[1615382014] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937F95E0> {'data': '', 'did': 1615381351367, 'due': -99961, 'factor': 2350, 'flags': 0, 'id': 1610915913239, 'ivl': 40, 'lapses': 0, 'left': 2002, 'mod': 1615381364, 'nid': 1610915913239, 'odid': 1589393235069, 'odue': 950, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615382022] schedv2.py:answerCard(): 
+[1615382022] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93099DF0> {'data': '', 'did': 1615381351367, 'due': -99960, 'factor': 2300, 'flags': 0, 'id': 1611756094959, 'ivl': 31, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1611756094959, 'odid': 1589393235069, 'odue': 941, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615382030] schedv2.py:answerCard(): 
+[1615382030] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0130> {'data': '', 'did': 1615381351367, 'due': -99959, 'factor': 2500, 'flags': 0, 'id': 1611162227468, 'ivl': 59, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611162227468, 'odid': 1589393235069, 'odue': 970, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382033] schedv2.py:answerCard(): 
+[1615382033] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0B80> {'data': '', 'did': 1615381351367, 'due': -99958, 'factor': 2200, 'flags': 0, 'id': 1611094398938, 'ivl': 30, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611094398938, 'odid': 1589393235069, 'odue': 941, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615382037] schedv2.py:answerCard(): 
+[1615382037] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0340> {'data': '', 'did': 1615381351367, 'due': -99958, 'factor': 2200, 'flags': 0, 'id': 1611094398938, 'ivl': 30, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611094398938, 'odid': 1589393235069, 'odue': 941, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615382072] schedv2.py:answerCard(): 
+[1615382072] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0A00> {'data': '', 'did': 1615381351367, 'due': -99957, 'factor': 2500, 'flags': 0, 'id': 1610399969734, 'ivl': 56, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610399969734, 'odid': 1589393235069, 'odue': 967, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382090] schedv2.py:answerCard(): 
+[1615382090] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A02B0> {'data': '', 'did': 1615381351367, 'due': -99956, 'factor': 2350, 'flags': 0, 'id': 1610569600436, 'ivl': 57, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610569600436, 'odid': 1589393235069, 'odue': 969, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615382110] schedv2.py:answerCard(): 
+[1615382110] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A06D0> {'data': '', 'did': 1615381351367, 'due': -99955, 'factor': 2200, 'flags': 0, 'id': 1610552445425, 'ivl': 33, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610552445425, 'odid': 1589393235069, 'odue': 945, 'ord': 0, 'queue': 2, 'reps': 12, 'type': 2, 'usn': -1}
+[1615382129] schedv2.py:answerCard(): 
+[1615382129] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0100> {'data': '', 'did': 1615381351367, 'due': -99954, 'factor': 2350, 'flags': 0, 'id': 1610565921455, 'ivl': 48, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610565921455, 'odid': 1589393235069, 'odue': 960, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382156] schedv2.py:answerCard(): 
+[1615382156] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E937F9D00> {'data': '', 'did': 1615381351367, 'due': -99953, 'factor': 2500, 'flags': 0, 'id': 1611528014282, 'ivl': 45, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611528014282, 'odid': 1589393235069, 'odue': 958, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382164] schedv2.py:answerCard(): 
+[1615382164] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0B20> {'data': '', 'did': 1615381351367, 'due': -99952, 'factor': 2350, 'flags': 0, 'id': 1611519291300, 'ivl': 35, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611519291300, 'odid': 1589393235069, 'odue': 948, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615382168] schedv2.py:answerCard(): 
+[1615382168] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0790> {'data': '', 'did': 1615381351367, 'due': -99951, 'factor': 2350, 'flags': 0, 'id': 1612518593976, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1612518593976, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382185] schedv2.py:answerCard(): 
+[1615382185] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0AF0> {'data': '', 'did': 1615381351367, 'due': 1615382170, 'factor': 2150, 'flags': 0, 'id': 1610488894733, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615381560, 'nid': 1610488894733, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 9, 'type': 3, 'usn': -1}
+[1615382192] schedv2.py:answerCard(): 
+[1615382192] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0700> {'data': '', 'did': 1615381351367, 'due': 1615382175, 'factor': 2300, 'flags': 0, 'id': 1611007956283, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615381514, 'nid': 1611007956283, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 7, 'type': 3, 'usn': -1}
+[1615382200] schedv2.py:answerCard(): 
+[1615382200] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0D30> {'data': '', 'did': 1615381351367, 'due': -99950, 'factor': 2200, 'flags': 0, 'id': 1610397776999, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610397776999, 'odid': 1589393235069, 'odue': 938, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382203] schedv2.py:answerCard(): 
+[1615382203] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0A30> {'data': '', 'did': 1615381351367, 'due': -99949, 'factor': 2350, 'flags': 0, 'id': 1611750206195, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611750206195, 'odid': 1589393235069, 'odue': 938, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615382218] schedv2.py:answerCard(): 
+[1615382218] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0EE0> {'data': '', 'did': 1615381351367, 'due': -99948, 'factor': 2150, 'flags': 0, 'id': 1611751333982, 'ivl': 21, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1611751333982, 'odid': 1589393235069, 'odue': 936, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615382237] schedv2.py:answerCard(): 
+[1615382237] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9E20> {'data': '', 'did': 1615381351367, 'due': -99947, 'factor': 2350, 'flags': 0, 'id': 1611087406549, 'ivl': 53, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611087406549, 'odid': 1589393235069, 'odue': 968, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615382243] schedv2.py:answerCard(): 
+[1615382243] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0BB0> {'data': '', 'did': 1615381351367, 'due': -99946, 'factor': 2500, 'flags': 0, 'id': 1611519555375, 'ivl': 55, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611519555375, 'odid': 1589393235069, 'odue': 970, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382246] schedv2.py:answerCard(): 
+[1615382246] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A04F0> {'data': '', 'did': 1615381351367, 'due': -99945, 'factor': 1700, 'flags': 0, 'id': 1610398078854, 'ivl': 17, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1610398078853, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 2, 'reps': 14, 'type': 2, 'usn': -1}
+[1615382275] schedv2.py:answerCard(): 
+[1615382275] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A98E0> {'data': '', 'did': 1615381351367, 'due': -99944, 'factor': 2500, 'flags': 0, 'id': 1611518887149, 'ivl': 55, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611518887148, 'odid': 1589393235069, 'odue': 970, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382277] schedv2.py:answerCard(): 
+[1615382277] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9700> {'data': '', 'did': 1615381351367, 'due': -99943, 'factor': 2350, 'flags': 0, 'id': 1613075182130, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1613075182130, 'odid': 1589393235069, 'odue': 937, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615382281] schedv2.py:answerCard(): 
+[1615382281] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0040> {'data': '', 'did': 1615381351367, 'due': -99942, 'factor': 2350, 'flags': 0, 'id': 1610569668109, 'ivl': 67, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610569668109, 'odid': 1589393235069, 'odue': 983, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615382288] schedv2.py:answerCard(): 
+[1615382288] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9FD0> {'data': '', 'did': 1615381351367, 'due': -99941, 'factor': 2350, 'flags': 0, 'id': 1611570682826, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611570682826, 'odid': 1589393235069, 'odue': 940, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382294] schedv2.py:answerCard(): 
+[1615382294] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9AF0> {'data': '', 'did': 1615381351367, 'due': -99940, 'factor': 2500, 'flags': 0, 'id': 1610563223313, 'ivl': 68, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610563223313, 'odid': 1589393235069, 'odue': 984, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615382296] schedv2.py:answerCard(): 
+[1615382296] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9310> {'data': '', 'did': 1615381351367, 'due': -99939, 'factor': 1850, 'flags': 0, 'id': 1610404449315, 'ivl': 23, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1610404449315, 'odid': 1589393235069, 'odue': 940, 'ord': 0, 'queue': 2, 'reps': 12, 'type': 2, 'usn': -1}
+[1615382300] schedv2.py:answerCard(): 
+[1615382300] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9A60> {'data': '', 'did': 1615381351367, 'due': -99938, 'factor': 2350, 'flags': 0, 'id': 1610563669485, 'ivl': 61, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610563669485, 'odid': 1589393235069, 'odue': 978, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382302] schedv2.py:answerCard(): 
+[1615382302] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9910> {'data': '', 'did': 1615381351367, 'due': -99937, 'factor': 2350, 'flags': 0, 'id': 1610488048391, 'ivl': 64, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610488048391, 'odid': 1589393235069, 'odue': 981, 'ord': 0, 'queue': 2, 'reps': 13, 'type': 2, 'usn': -1}
+[1615382347] schedv2.py:answerCard(): 
+[1615382347] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9520> {'data': '', 'did': 1615381351367, 'due': -99936, 'factor': 1800, 'flags': 0, 'id': 1611751343250, 'ivl': 10, 'lapses': 2, 'left': 1001, 'mod': 1615381364, 'nid': 1611751343250, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 16, 'type': 2, 'usn': -1}
+[1615382350] schedv2.py:answerCard(): 
+[1615382350] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A97F0> {'data': '', 'did': 1615381351367, 'due': -99935, 'factor': 2200, 'flags': 0, 'id': 1611161694270, 'ivl': 20, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611161694269, 'odid': 1589393235069, 'odue': 937, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615382353] schedv2.py:answerCard(): 
+[1615382353] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9F40> {'data': '', 'did': 1615381351367, 'due': -99934, 'factor': 2350, 'flags': 0, 'id': 1613159754193, 'ivl': 15, 'lapses': 0, 'left': 2002, 'mod': 1615381364, 'nid': 1613159754193, 'odid': 1589393235069, 'odue': 933, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615382359] schedv2.py:answerCard(): 
+[1615382359] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9910> {'data': '', 'did': 1615381351367, 'due': -99933, 'factor': 2350, 'flags': 0, 'id': 1611764280313, 'ivl': 38, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611764280313, 'odid': 1589393235069, 'odue': 956, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615382362] schedv2.py:answerCard(): 
+[1615382362] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331A90> {'data': '', 'did': 1615381351367, 'due': 1615382362, 'factor': 2300, 'flags': 0, 'id': 1611605798790, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615381753, 'nid': 1611605798790, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 7, 'type': 3, 'usn': -1}
+[1615382364] schedv2.py:answerCard(): 
+[1615382364] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331970> {'data': '', 'did': 1615381351367, 'due': -99932, 'factor': 2500, 'flags': 0, 'id': 1611519135300, 'ivl': 66, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611519135298, 'odid': 1589393235069, 'odue': 984, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382367] schedv2.py:answerCard(): 
+[1615382367] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331A60> {'data': '', 'did': 1615381351367, 'due': -99931, 'factor': 2350, 'flags': 0, 'id': 1611007921928, 'ivl': 34, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611007921928, 'odid': 1589393235069, 'odue': 952, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382369] schedv2.py:answerCard(): 
+[1615382369] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331B80> {'data': '', 'did': 1615381351367, 'due': -99930, 'factor': 2200, 'flags': 0, 'id': 1610747043335, 'ivl': 47, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610747043335, 'odid': 1589393235069, 'odue': 966, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615382371] schedv2.py:answerCard(): 
+[1615382371] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331C40> {'data': '', 'did': 1615381351367, 'due': -99929, 'factor': 2500, 'flags': 0, 'id': 1611527997426, 'ivl': 57, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611527997426, 'odid': 1589393235069, 'odue': 976, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382374] schedv2.py:answerCard(): 
+[1615382374] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331D00> {'data': '', 'did': 1615381351367, 'due': -99928, 'factor': 2350, 'flags': 0, 'id': 1611518925017, 'ivl': 54, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611518925017, 'odid': 1589393235069, 'odue': 973, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615382375] schedv2.py:answerCard(): 
+[1615382375] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331DC0> {'data': '', 'did': 1615381351367, 'due': -99927, 'factor': 2350, 'flags': 0, 'id': 1613324480143, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1613324480143, 'odid': 1589393235069, 'odue': 936, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615382376] schedv2.py:answerCard(): 
+[1615382376] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331EE0> {'data': '', 'did': 1615381351367, 'due': -99926, 'factor': 2350, 'flags': 0, 'id': 1613297452755, 'ivl': 16, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1613297452754, 'odid': 1589393235069, 'odue': 936, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382379] schedv2.py:answerCard(): 
+[1615382379] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331AF0> {'data': '', 'did': 1615381351367, 'due': -99925, 'factor': 2500, 'flags': 0, 'id': 1610397953162, 'ivl': 74, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610397953162, 'odid': 1589393235069, 'odue': 994, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382381] schedv2.py:answerCard(): 
+[1615382381] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331CA0> {'data': '', 'did': 1615381351367, 'due': -99924, 'factor': 2350, 'flags': 0, 'id': 1611087475699, 'ivl': 43, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611087475699, 'odid': 1589393235069, 'odue': 963, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615382382] schedv2.py:answerCard(): 
+[1615382382] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331D60> {'data': '', 'did': 1615381351367, 'due': -99923, 'factor': 2150, 'flags': 0, 'id': 1611605947052, 'ivl': 24, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1611605947052, 'odid': 1589393235069, 'odue': 944, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615382385] schedv2.py:answerCard(): 
+[1615382385] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331D30> {'data': '', 'did': 1615381351367, 'due': -99922, 'factor': 1950, 'flags': 0, 'id': 1611577309688, 'ivl': 16, 'lapses': 2, 'left': 1001, 'mod': 1615381364, 'nid': 1611577309687, 'odid': 1589393235069, 'odue': 937, 'ord': 0, 'queue': 2, 'reps': 13, 'type': 2, 'usn': -1}
+[1615382389] schedv2.py:answerCard(): 
+[1615382389] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331DF0> {'data': '', 'did': 1615381351367, 'due': -99921, 'factor': 2500, 'flags': 0, 'id': 1610473785344, 'ivl': 79, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610473785344, 'odid': 1589393235069, 'odue': 1000, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382393] schedv2.py:answerCard(): 
+[1615382393] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923319D0> {'data': '', 'did': 1615381351367, 'due': -99920, 'factor': 2300, 'flags': 0, 'id': 1610563430148, 'ivl': 55, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1610563430148, 'odid': 1589393235069, 'odue': 976, 'ord': 0, 'queue': 2, 'reps': 13, 'type': 2, 'usn': -1}
+[1615382394] schedv2.py:answerCard(): 
+[1615382394] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331B50> {'data': '', 'did': 1615381351367, 'due': -99919, 'factor': 1850, 'flags': 0, 'id': 1611006366943, 'ivl': 5, 'lapses': 1, 'left': 1001, 'mod': 1615381364, 'nid': 1611006366943, 'odid': 1589393235069, 'odue': 927, 'ord': 0, 'queue': 2, 'reps': 12, 'type': 2, 'usn': -1}
+[1615382399] schedv2.py:answerCard(): 
+[1615382399] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331E20> {'data': '', 'did': 1615381351367, 'due': -99918, 'factor': 2350, 'flags': 0, 'id': 1613157882363, 'ivl': 32, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1613157882363, 'odid': 1589393235069, 'odue': 954, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615382406] schedv2.py:answerCard(): 
+[1615382406] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331310> {'data': '', 'did': 1615381351367, 'due': -99917, 'factor': 2200, 'flags': 0, 'id': 1611766139385, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611766139385, 'odid': 1589393235069, 'odue': 946, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615382410] schedv2.py:answerCard(): 
+[1615382410] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923315E0> {'data': '', 'did': 1615381351367, 'due': -99916, 'factor': 1800, 'flags': 0, 'id': 1613330920954, 'ivl': 10, 'lapses': 2, 'left': 1001, 'mod': 1615381364, 'nid': 1613330920953, 'odid': 1589393235069, 'odue': 932, 'ord': 0, 'queue': 2, 'reps': 14, 'type': 2, 'usn': -1}
+[1615382422] schedv2.py:answerCard(): 
+[1615382422] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331D90> {'data': '', 'did': 1615381351367, 'due': -99915, 'factor': 1800, 'flags': 0, 'id': 1611527688840, 'ivl': 4, 'lapses': 2, 'left': 1001, 'mod': 1615381364, 'nid': 1611527688840, 'odid': 1589393235069, 'odue': 926, 'ord': 0, 'queue': 2, 'reps': 15, 'type': 2, 'usn': -1}
+[1615382426] schedv2.py:answerCard(): 
+[1615382426] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A9A00> {'data': '', 'did': 1615381351367, 'due': -99914, 'factor': 1300, 'flags': 0, 'id': 1610399808165, 'ivl': 12, 'lapses': 5, 'left': 1001, 'mod': 1615381364, 'nid': 1610399808165, 'odid': 1589393235069, 'odue': 934, 'ord': 0, 'queue': 2, 'reps': 34, 'type': 2, 'usn': -1}
+[1615382432] schedv2.py:answerCard(): 
+[1615382432] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92331CD0> {'data': '', 'did': 1615381351367, 'due': -99913, 'factor': 2500, 'flags': 0, 'id': 1611519676906, 'ivl': 78, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611519676906, 'odid': 1589393235069, 'odue': 1001, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382433] schedv2.py:answerCard(): 
+[1615382433] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92338880> {'data': '', 'did': 1615381351367, 'due': -99912, 'factor': 2500, 'flags': 0, 'id': 1611743607601, 'ivl': 52, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1611743607601, 'odid': 1589393235069, 'odue': 976, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382434] schedv2.py:answerCard(): 
+[1615382434] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92338070> {'data': '', 'did': 1615381351367, 'due': -99911, 'factor': 2500, 'flags': 0, 'id': 1610404489799, 'ivl': 80, 'lapses': 0, 'left': 1001, 'mod': 1615381364, 'nid': 1610404489799, 'odid': 1589393235069, 'odue': 1004, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382436] schedv2.py:answerCard(): 
+[1615382436] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92338940> {'data': '', 'did': 1615381351367, 'due': -99910, 'factor': 1650, 'flags': 0, 'id': 1610403677842, 'ivl': 18, 'lapses': 2, 'left': 1001, 'mod': 1615381364, 'nid': 1610403677842, 'odid': 1589393235069, 'odue': 943, 'ord': 0, 'queue': 2, 'reps': 19, 'type': 2, 'usn': -1}
+[1615382442] schedv2.py:answerCard(): 
+[1615382442] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92338AC0> {'data': '', 'did': 1615381351367, 'due': -99910, 'factor': 1650, 'flags': 0, 'id': 1610403677842, 'ivl': 18, 'lapses': 2, 'left': 1001, 'mod': 1615381364, 'nid': 1610403677842, 'odid': 1589393235069, 'odue': 943, 'ord': 0, 'queue': 2, 'reps': 19, 'type': 2, 'usn': -1}
+[1615382447] schedv2.py:answerCard(): 
+[1615382447] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92338550> {'data': '', 'did': 1615381351367, 'due': -99909, 'factor': 1950, 'flags': 0, 'id': 1610827374646, 'ivl': 3, 'lapses': 2, 'left': 1001, 'mod': 1615381364, 'nid': 1610827374646, 'odid': 1589393235069, 'odue': 928, 'ord': 0, 'queue': 2, 'reps': 15, 'type': 2, 'usn': -1}
+[1615382486] schedv2.py:answerCard(): 
+[1615382486] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E93074370> {'data': '', 'did': 1615381351367, 'due': 1615382477, 'factor': 2150, 'flags': 0, 'id': 1610566528048, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615381802, 'nid': 1610566528047, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 8, 'type': 3, 'usn': -1}
+[1615382497] schedv2.py:answerCard(): 
+[1615382497] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923384C0> {'data': '', 'did': 1615381351367, 'due': 1615382525, 'factor': 1800, 'flags': 0, 'id': 1610834080001, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1615381828, 'nid': 1610834080001, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 12, 'type': 3, 'usn': -1}
+[1615382504] schedv2.py:answerCard(): 
+[1615382504] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A95B0> {'data': '', 'did': 1615381351367, 'due': 1615382875, 'factor': 1950, 'flags': 0, 'id': 1611751333982, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1615382237, 'nid': 1611751333982, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 10, 'type': 3, 'usn': -1}
+[1615382508] schedv2.py:answerCard(): 
+[1615382508] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92338490> {'data': '', 'did': 1615381351367, 'due': 1615383603, 'factor': 1800, 'flags': 0, 'id': 1610834080001, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1615382504, 'nid': 1610834080001, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 13, 'type': 3, 'usn': -1}
+[1615382510] schedv2.py:answerCard(): 
+[1615382510] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923389A0> {'data': '', 'did': 1615381351367, 'due': 1615383604, 'factor': 1950, 'flags': 0, 'id': 1611751333982, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1615382508, 'nid': 1611751333982, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 11, 'type': 3, 'usn': -1}
+[1615382513] schedv2.py:answerCard(): 
+[1615382630] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9236C7C0> {'data': '', 'did': 1615382621621, 'due': -100000, 'factor': 2350, 'flags': 0, 'id': 1601924364556, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1601924364556, 'odid': 1589393235069, 'odue': 809, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382683] schedv2.py:answerCard(): 
+[1615382683] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9236CC10> {'data': '', 'did': 1615382621621, 'due': -99999, 'factor': 2500, 'flags': 0, 'id': 1602965266147, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602965266147, 'odid': 1589393235069, 'odue': 810, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615382791] schedv2.py:answerCard(): 
+[1615382791] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9236CA00> {'data': '', 'did': 1615382621621, 'due': -99998, 'factor': 2350, 'flags': 0, 'id': 1602016687705, 'ivl': 20, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602016687705, 'odid': 1589393235069, 'odue': 813, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382802] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9236CDF0> {'data': '', 'did': 1615382621621, 'due': -99997, 'factor': 2500, 'flags': 0, 'id': 1602970842227, 'ivl': 16, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602970842227, 'odid': 1589393235069, 'odue': 809, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382837] schedv2.py:answerCard(): 
+[1615382837] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0A30> {'data': '', 'did': 1615382621621, 'due': -99996, 'factor': 2350, 'flags': 0, 'id': 1601925100159, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1601925100159, 'odid': 1589393235069, 'odue': 810, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615382842] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A01F0> {'data': '', 'did': 1615382621621, 'due': -99995, 'factor': 2150, 'flags': 0, 'id': 1601924465267, 'ivl': 17, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1601924465267, 'odid': 1589393235069, 'odue': 810, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615382856] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F203A0> {'data': '', 'did': 1615382621621, 'due': -99994, 'factor': 2500, 'flags': 0, 'id': 1602968737662, 'ivl': 16, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602968737662, 'odid': 1589393235069, 'odue': 809, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382860] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92EF7460> {'data': '', 'did': 1615382621621, 'due': -99993, 'factor': 2350, 'flags': 0, 'id': 1602012323756, 'ivl': 19, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602012323756, 'odid': 1589393235069, 'odue': 813, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382871] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92EF7C70> {'data': '', 'did': 1615382621621, 'due': -99992, 'factor': 2500, 'flags': 0, 'id': 1602964414116, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602964414116, 'odid': 1589393235069, 'odue': 811, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615382901] schedv2.py:answerCard(): 
+[1615382901] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F20700> {'data': '', 'did': 1615382621621, 'due': -99991, 'factor': 2500, 'flags': 0, 'id': 1602950309873, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602950309873, 'odid': 1589393235069, 'odue': 811, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615382997] schedv2.py:answerCard(): 
+[1615382997] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F205E0> {'data': '', 'did': 1615382621621, 'due': -99990, 'factor': 2500, 'flags': 0, 'id': 1602950211377, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602950211377, 'odid': 1589393235069, 'odue': 811, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615383006] schedv2.py:answerCard(): 
+[1615383006] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F2B2E0> {'data': '', 'did': 1615382621621, 'due': -99989, 'factor': 2500, 'flags': 0, 'id': 1602925618329, 'ivl': 18, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602925618328, 'odid': 1589393235069, 'odue': 812, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383054] schedv2.py:answerCard(): 
+[1615383054] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935AE1C0> {'data': '', 'did': 1615382621621, 'due': -99988, 'factor': 2350, 'flags': 0, 'id': 1602101776658, 'ivl': 20, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602101776658, 'odid': 1589393235069, 'odue': 814, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383065] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92EF76A0> {'data': '', 'did': 1615382621621, 'due': -99987, 'factor': 2150, 'flags': 0, 'id': 1602104591029, 'ivl': 18, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602104591029, 'odid': 1589393235069, 'odue': 812, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615383136] schedv2.py:answerCard(): 
+[1615383136] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935AE1C0> {'data': '', 'did': 1615382621621, 'due': -99986, 'factor': 2500, 'flags': 0, 'id': 1602966354304, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602966354304, 'odid': 1589393235069, 'odue': 811, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383139] schedv2.py:answerCard(): 
+[1615383139] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A0100> {'data': '', 'did': 1615382621621, 'due': -99985, 'factor': 2500, 'flags': 0, 'id': 1602966808489, 'ivl': 15, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602966808489, 'odid': 1589393235069, 'odue': 809, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383153] schedv2.py:answerCard(): 
+[1615383153] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A07C0> {'data': '', 'did': 1615382621621, 'due': -99984, 'factor': 2500, 'flags': 0, 'id': 1602964423570, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602964423570, 'odid': 1589393235069, 'odue': 817, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383160] schedv2.py:answerCard(): 
+[1615383160] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E930A01F0> {'data': '', 'did': 1615382621621, 'due': -99983, 'factor': 2350, 'flags': 0, 'id': 1602015652284, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602015652284, 'odid': 1589393235069, 'odue': 819, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383172] schedv2.py:answerCard(): 
+[1615383172] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F12490> {'data': '', 'did': 1615382621621, 'due': -99982, 'factor': 2500, 'flags': 0, 'id': 1603009089488, 'ivl': 20, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603009089488, 'odid': 1589393235069, 'odue': 815, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383179] schedv2.py:answerCard(): 
+[1615383179] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935B0C70> {'data': '', 'did': 1615382621621, 'due': -99981, 'factor': 2500, 'flags': 0, 'id': 1602926418479, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602926418479, 'odid': 1589393235069, 'odue': 812, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615383201] schedv2.py:answerCard(): 
+[1615383201] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F20460> {'data': '', 'did': 1615382621621, 'due': -99980, 'factor': 2500, 'flags': 0, 'id': 1603006560538, 'ivl': 21, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603006560538, 'odid': 1589393235069, 'odue': 816, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383208] schedv2.py:answerCard(): 
+[1615383208] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9235CC40> {'data': '', 'did': 1615382621621, 'due': -99980, 'factor': 2500, 'flags': 0, 'id': 1603006560538, 'ivl': 21, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603006560538, 'odid': 1589393235069, 'odue': 816, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383231] schedv2.py:answerCard(): 
+[1615383231] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9235CC70> {'data': '', 'did': 1615382621621, 'due': -99979, 'factor': 2150, 'flags': 0, 'id': 1601924437907, 'ivl': 23, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1601924437907, 'odid': 1589393235069, 'odue': 818, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615383250] schedv2.py:answerCard(): 
+[1615383250] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F04160> {'data': '', 'did': 1615382621621, 'due': -99978, 'factor': 1950, 'flags': 0, 'id': 1602090219722, 'ivl': 19, 'lapses': 2, 'left': 1001, 'mod': 1615382626, 'nid': 1602090219722, 'odid': 1589393235069, 'odue': 815, 'ord': 0, 'queue': 2, 'reps': 16, 'type': 2, 'usn': -1}
+[1615383254] schedv2.py:answerCard(): 
+[1615383254] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9235C040> {'data': '', 'did': 1615382621621, 'due': -99977, 'factor': 2500, 'flags': 0, 'id': 1602926584939, 'ivl': 23, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602926584939, 'odid': 1589393235069, 'odue': 819, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615383260] schedv2.py:answerCard(): 
+[1615383260] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923441C0> {'data': '', 'did': 1615382621621, 'due': -99976, 'factor': 2200, 'flags': 0, 'id': 1602012224657, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602012224657, 'odid': 1589393235069, 'odue': 809, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383270] schedv2.py:answerCard(): 
+[1615383271] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9236C7C0> {'data': '', 'did': 1615382621621, 'due': -99975, 'factor': 2350, 'flags': 0, 'id': 1602100322225, 'ivl': 25, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602100322225, 'odid': 1589393235069, 'odue': 821, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615383273] schedv2.py:answerCard(): 
+[1615383273] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935B0040> {'data': '', 'did': 1615382621621, 'due': -99974, 'factor': 2350, 'flags': 0, 'id': 1602012120002, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602012120002, 'odid': 1589393235069, 'odue': 820, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383332] schedv2.py:answerCard(): 
+[1615383332] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92EF7100> {'data': '', 'did': 1615382621621, 'due': -99973, 'factor': 2500, 'flags': 0, 'id': 1603009147494, 'ivl': 20, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603009147494, 'odid': 1589393235069, 'odue': 816, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383341] schedv2.py:answerCard(): 
+[1615383341] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F12730> {'data': '', 'did': 1615382621621, 'due': -99972, 'factor': 2500, 'flags': 0, 'id': 1602926266536, 'ivl': 19, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602926266536, 'odid': 1589393235069, 'odue': 815, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383344] schedv2.py:answerCard(): 
+[1615383344] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F12910> {'data': '', 'did': 1615382621621, 'due': -99971, 'factor': 2500, 'flags': 0, 'id': 1602927466766, 'ivl': 21, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602927466766, 'odid': 1589393235069, 'odue': 817, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383348] schedv2.py:answerCard(): 
+[1615383348] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F16610> {'data': '', 'did': 1615382621621, 'due': -99970, 'factor': 2500, 'flags': 0, 'id': 1602949982808, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602949982808, 'odid': 1589393235069, 'odue': 818, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383365] schedv2.py:answerCard(): 
+[1615383365] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F16BE0> {'data': '', 'did': 1615382621621, 'due': -99969, 'factor': 2350, 'flags': 0, 'id': 1602103172937, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602103172937, 'odid': 1589393235069, 'odue': 818, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615383416] schedv2.py:answerCard(): 
+[1615383416] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F12520> {'data': '', 'did': 1615382621621, 'due': -99968, 'factor': 2350, 'flags': 0, 'id': 1602183556033, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602183556033, 'odid': 1589393235069, 'odue': 820, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615383512] schedv2.py:answerCard(): 
+[1615383512] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E923445B0> {'data': '', 'did': 1615382621621, 'due': 1615383482, 'factor': 2300, 'flags': 0, 'id': 1602965266147, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615382791, 'nid': 1602965266147, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 9, 'type': 3, 'usn': -1}
+[1615383520] schedv2.py:answerCard(): 
+[1615383520] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935AEA90> {'data': '', 'did': 1615382621621, 'due': -99967, 'factor': 2500, 'flags': 0, 'id': 1602926968344, 'ivl': 19, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602926968344, 'odid': 1589393235069, 'odue': 815, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615383543] schedv2.py:answerCard(): 
+[1615383543] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F128E0> {'data': '', 'did': 1615382621621, 'due': -99966, 'factor': 2350, 'flags': 0, 'id': 1602089912860, 'ivl': 28, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602089912860, 'odid': 1589393235069, 'odue': 824, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383590] schedv2.py:answerCard(): 
+[1615383590] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F164C0> {'data': '', 'did': 1615382621621, 'due': 1615383554, 'factor': 2300, 'flags': 0, 'id': 1602970842227, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615382837, 'nid': 1602970842227, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 8, 'type': 3, 'usn': -1}
+[1615383601] schedv2.py:answerCard(): 
+[1615383601] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F16E50> {'data': '', 'did': 1615382621621, 'due': -99965, 'factor': 2350, 'flags': 0, 'id': 1602967060077, 'ivl': 16, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602967060077, 'odid': 1589393235069, 'odue': 814, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615383622] schedv2.py:answerCard(): 
+[1615383622] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F16550> {'data': '', 'did': 1615382621621, 'due': -99964, 'factor': 2300, 'flags': 0, 'id': 1603106785212, 'ivl': 14, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1603106785212, 'odid': 1589393235069, 'odue': 812, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383641] schedv2.py:answerCard(): 
+[1615383641] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F16070> {'data': '', 'did': 1615382621621, 'due': -99963, 'factor': 2300, 'flags': 0, 'id': 1603106767762, 'ivl': 16, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1603106767762, 'odid': 1589393235069, 'odue': 814, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615383650] schedv2.py:answerCard(): 
+[1615383650] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F16640> {'data': '', 'did': 1615382621621, 'due': -99962, 'factor': 2350, 'flags': 0, 'id': 1602947246953, 'ivl': 18, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602947246953, 'odid': 1589393235069, 'odue': 816, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615383667] schedv2.py:answerCard(): 
+[1615383667] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F168E0> {'data': '', 'did': 1615382621621, 'due': -99961, 'factor': 2350, 'flags': 0, 'id': 1602176978574, 'ivl': 25, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602176978574, 'odid': 1589393235069, 'odue': 823, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383681] schedv2.py:answerCard(): 
+[1615383681] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935B7340> {'data': '', 'did': 1615382621621, 'due': -99960, 'factor': 2150, 'flags': 0, 'id': 1602966607482, 'ivl': 14, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602966607482, 'odid': 1589393235069, 'odue': 812, 'ord': 0, 'queue': 2, 'reps': 12, 'type': 2, 'usn': -1}
+[1615383710] schedv2.py:answerCard(): 
+[1615383710] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F161F0> {'data': '', 'did': 1615382621621, 'due': -99959, 'factor': 2350, 'flags': 0, 'id': 1602181356376, 'ivl': 30, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602181356376, 'odid': 1589393235069, 'odue': 829, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383714] schedv2.py:answerCard(): 
+[1615383714] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F16AF0> {'data': '', 'did': 1615382621621, 'due': -99958, 'factor': 2200, 'flags': 0, 'id': 1602102262516, 'ivl': 19, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602102262516, 'odid': 1589393235069, 'odue': 818, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383722] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F20700> {'data': '', 'did': 1615382621621, 'due': -99957, 'factor': 2350, 'flags': 0, 'id': 1602965313757, 'ivl': 18, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602965313757, 'odid': 1589393235069, 'odue': 817, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383727] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F205E0> {'data': '', 'did': 1615382621621, 'due': -99956, 'factor': 2350, 'flags': 0, 'id': 1602184196792, 'ivl': 27, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602184196792, 'odid': 1589393235069, 'odue': 826, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383854] schedv2.py:answerCard(): 
+[1615383854] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F045E0> {'data': '', 'did': 1615382621621, 'due': -99955, 'factor': 2350, 'flags': 0, 'id': 1602965043478, 'ivl': 20, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602965043478, 'odid': 1589393235069, 'odue': 819, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615383879] schedv2.py:answerCard(): 
+[1615383879] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F04610> {'data': '', 'did': 1615382621621, 'due': -99954, 'factor': 2050, 'flags': 0, 'id': 1602948041843, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602948041843, 'odid': 1589393235069, 'odue': 810, 'ord': 0, 'queue': 2, 'reps': 12, 'type': 2, 'usn': -1}
+[1615383888] schedv2.py:answerCard(): 
+[1615383888] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9235C040> {'data': '', 'did': 1615382621621, 'due': -99953, 'factor': 2350, 'flags': 0, 'id': 1602928382048, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602928382048, 'odid': 1589393235069, 'odue': 822, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615383919] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F04D60> {'data': '', 'did': 1615382621621, 'due': 1615383910, 'factor': 2300, 'flags': 0, 'id': 1603006560538, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615383231, 'nid': 1603006560538, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 8, 'type': 3, 'usn': -1}
+[1615383927] schedv2.py:answerCard(): 
+[1615383927] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92338640> {'data': '', 'did': 1615382621621, 'due': -99952, 'factor': 2350, 'flags': 0, 'id': 1603033422369, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603033422369, 'odid': 1589393235069, 'odue': 824, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383937] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9235C880> {'data': '', 'did': 1615382621621, 'due': -99951, 'factor': 2350, 'flags': 0, 'id': 1602175687154, 'ivl': 34, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602175687154, 'odid': 1589393235069, 'odue': 834, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615383970] schedv2.py:answerCard(): 
+[1615383970] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935B09D0> {'data': '', 'did': 1615382621621, 'due': -99950, 'factor': 2500, 'flags': 0, 'id': 1602177257494, 'ivl': 35, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602177257494, 'odid': 1589393235069, 'odue': 836, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615383972] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F12910> {'data': '', 'did': 1615382621621, 'due': -99949, 'factor': 2150, 'flags': 0, 'id': 1602968612585, 'ivl': 17, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602968612585, 'odid': 1589393235069, 'odue': 819, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615383979] schedv2.py:answerCard(): 
+[1615383979] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935B0FA0> {'data': '', 'did': 1615382621621, 'due': -99948, 'factor': 2050, 'flags': 0, 'id': 1603009587964, 'ivl': 16, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603009587964, 'odid': 1589393235069, 'odue': 818, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384003] schedv2.py:answerCard(): 
+[1615384003] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E9235C940> {'data': '', 'did': 1615382621621, 'due': -99947, 'factor': 2500, 'flags': 0, 'id': 1602964522970, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602964522970, 'odid': 1589393235069, 'odue': 824, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384041] schedv2.py:answerCard(): 
+[1615384041] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935C2520> {'data': '', 'did': 1615382621621, 'due': -99947, 'factor': 2500, 'flags': 0, 'id': 1602964522970, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602964522970, 'odid': 1589393235069, 'odue': 824, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384096] schedv2.py:answerCard(): 
+[1615384096] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935C2790> {'data': '', 'did': 1615382621621, 'due': -99946, 'factor': 2200, 'flags': 0, 'id': 1602014660357, 'ivl': 25, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602014660357, 'odid': 1589393235069, 'odue': 827, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384106] schedv2.py:answerCard(): 
+[1615384106] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F12940> {'data': '', 'did': 1615382621621, 'due': -99945, 'factor': 2200, 'flags': 0, 'id': 1602103709110, 'ivl': 29, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602103709110, 'odid': 1589393235069, 'odue': 831, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384109] schedv2.py:answerCard(): 
+[1615384109] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F12640> {'data': '', 'did': 1615382621621, 'due': -99944, 'factor': 2050, 'flags': 0, 'id': 1602927988674, 'ivl': 16, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602927988674, 'odid': 1589393235069, 'odue': 818, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615384117] schedv2.py:answerCard(): 
+[1615384117] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935C2250> {'data': '', 'did': 1615382621621, 'due': -99943, 'factor': 2200, 'flags': 0, 'id': 1601924309794, 'ivl': 35, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1601924309794, 'odid': 1589393235069, 'odue': 837, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615384122] schedv2.py:answerCard(): 
+[1615384122] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935D8070> {'data': '', 'did': 1615382621621, 'due': -99942, 'factor': 2500, 'flags': 0, 'id': 1604351778060, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604351778060, 'odid': 1589393235069, 'odue': 811, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615384133] schedv2.py:answerCard(): 
+[1615384133] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935D0970> {'data': '', 'did': 1615382621621, 'due': -99941, 'factor': 2150, 'flags': 0, 'id': 1602090583032, 'ivl': 22, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602090583032, 'odid': 1589393235069, 'odue': 824, 'ord': 0, 'queue': 2, 'reps': 13, 'type': 2, 'usn': -1}
+[1615384135] schedv2.py:answerCard(): 
+[1615384135] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935D0CA0> {'data': '', 'did': 1615382621621, 'due': -99940, 'factor': 2150, 'flags': 0, 'id': 1602964644868, 'ivl': 20, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602964644868, 'odid': 1589393235069, 'odue': 823, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615384160] schedv2.py:answerCard(): 
+[1615384160] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935D0A00> {'data': '', 'did': 1615382621621, 'due': -99939, 'factor': 2200, 'flags': 0, 'id': 1602183931613, 'ivl': 25, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602183931613, 'odid': 1589393235069, 'odue': 828, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384163] schedv2.py:answerCard(): 
+[1615384163] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935DF9A0> {'data': '', 'did': 1615382621621, 'due': -99938, 'factor': 2500, 'flags': 0, 'id': 1602949704845, 'ivl': 23, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602949704845, 'odid': 1589393235069, 'odue': 826, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615384172] schedv2.py:answerCard(): 
+[1615384172] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935DA6D0> {'data': '', 'did': 1615382621621, 'due': -99937, 'factor': 2500, 'flags': 0, 'id': 1603731882933, 'ivl': 18, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603731882933, 'odid': 1589393235069, 'odue': 821, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615384176] schedv2.py:answerCard(): 
+[1615384176] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935DF4C0> {'data': '', 'did': 1615382621621, 'due': -99936, 'factor': 2200, 'flags': 0, 'id': 1602968697766, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602968697766, 'odid': 1589393235069, 'odue': 820, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384183] schedv2.py:answerCard(): 
+[1615384183] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935DF310> {'data': '', 'did': 1615382621621, 'due': -99935, 'factor': 2500, 'flags': 0, 'id': 1604005438618, 'ivl': 11, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604005438618, 'odid': 1589393235069, 'odue': 814, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615384200] schedv2.py:answerCard(): 
+[1615384200] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935DF3A0> {'data': '', 'did': 1615382621621, 'due': -99934, 'factor': 2500, 'flags': 0, 'id': 1602927239947, 'ivl': 30, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602927239947, 'odid': 1589393235069, 'odue': 833, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384204] schedv2.py:answerCard(): 
+[1615384204] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935DF9A0> {'data': '', 'did': 1615382621621, 'due': -99933, 'factor': 2500, 'flags': 0, 'id': 1602968645414, 'ivl': 23, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602968645414, 'odid': 1589393235069, 'odue': 826, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615384208] schedv2.py:answerCard(): 
+[1615384208] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935DFAC0> {'data': '', 'did': 1615382621621, 'due': -99932, 'factor': 2500, 'flags': 0, 'id': 1602964590738, 'ivl': 27, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602964590737, 'odid': 1589393235069, 'odue': 831, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615384211] schedv2.py:answerCard(): 
+[1615384211] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CC460> {'data': '', 'did': 1615382621621, 'due': -99931, 'factor': 2200, 'flags': 0, 'id': 1602183578298, 'ivl': 29, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602183578298, 'odid': 1589393235069, 'odue': 833, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384214] schedv2.py:answerCard(): 
+[1615384214] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CCFA0> {'data': '', 'did': 1615382621621, 'due': -99930, 'factor': 2150, 'flags': 0, 'id': 1602089557429, 'ivl': 25, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602089557429, 'odid': 1589393235069, 'odue': 829, 'ord': 0, 'queue': 2, 'reps': 12, 'type': 2, 'usn': -1}
+[1615384236] schedv2.py:answerCard(): 
+[1615384236] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935DFEB0> {'data': '', 'did': 1615382621621, 'due': -99929, 'factor': 2500, 'flags': 0, 'id': 1604096170023, 'ivl': 13, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604096170023, 'odid': 1589393235069, 'odue': 817, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384239] schedv2.py:answerCard(): 
+[1615384239] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CC370> {'data': '', 'did': 1615382621621, 'due': -99928, 'factor': 2200, 'flags': 0, 'id': 1602179681956, 'ivl': 27, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602179681956, 'odid': 1589393235069, 'odue': 831, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384242] schedv2.py:answerCard(): 
+[1615384242] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935D05B0> {'data': '', 'did': 1615382621621, 'due': -99927, 'factor': 2500, 'flags': 0, 'id': 1604094998275, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604094998275, 'odid': 1589393235069, 'odue': 814, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384246] schedv2.py:answerCard(): 
+[1615384246] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CC040> {'data': '', 'did': 1615382621621, 'due': -99926, 'factor': 2500, 'flags': 0, 'id': 1602965427008, 'ivl': 33, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602965427008, 'odid': 1589393235069, 'odue': 837, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615384252] schedv2.py:answerCard(): 
+[1615384252] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CD040> {'data': '', 'did': 1615382621621, 'due': -99925, 'factor': 2500, 'flags': 0, 'id': 1604515292946, 'ivl': 5, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604515292946, 'odid': 1589393235069, 'odue': 809, 'ord': 0, 'queue': 2, 'reps': 4, 'type': 2, 'usn': -1}
+[1615384262] schedv2.py:answerCard(): 
+[1615384262] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CDB50> {'data': '', 'did': 1615382621621, 'due': -99924, 'factor': 1900, 'flags': 0, 'id': 1602183529396, 'ivl': 21, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602183529396, 'odid': 1589393235069, 'odue': 828, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384267] schedv2.py:answerCard(): 
+[1615384267] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CDFD0> {'data': '', 'did': 1615382621621, 'due': -99923, 'factor': 2200, 'flags': 0, 'id': 1602178506497, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602178506497, 'odid': 1589393235069, 'odue': 831, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615384275] schedv2.py:answerCard(): 
+[1615384275] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CD4F0> {'data': '', 'did': 1615382621621, 'due': -99922, 'factor': 2200, 'flags': 0, 'id': 1602015634047, 'ivl': 29, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602015634047, 'odid': 1589393235069, 'odue': 836, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384321] schedv2.py:answerCard(): 
+[1615384321] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CC820> {'data': '', 'did': 1615382621621, 'due': -99921, 'factor': 2300, 'flags': 0, 'id': 1604086550321, 'ivl': 10, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1604086550321, 'odid': 1589393235069, 'odue': 817, 'ord': 0, 'queue': 2, 'reps': 9, 'type': 2, 'usn': -1}
+[1615384325] schedv2.py:answerCard(): 
+[1615384325] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CD8E0> {'data': '', 'did': 1615382621621, 'due': -99920, 'factor': 2500, 'flags': 0, 'id': 1603009249659, 'ivl': 38, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603009249659, 'odid': 1589393235069, 'odue': 845, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384336] schedv2.py:answerCard(): 
+[1615384336] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972CC430> {'data': '', 'did': 1615382621621, 'due': -99919, 'factor': 2200, 'flags': 0, 'id': 1604786639769, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604786639769, 'odid': 1589393235069, 'odue': 810, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615384437] schedv2.py:answerCard(): 
+[1615384437] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972D2760> {'data': '', 'did': 1615382621621, 'due': 1615384374, 'factor': 2150, 'flags': 0, 'id': 1602176978574, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615383681, 'nid': 1602176978574, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 8, 'type': 3, 'usn': -1}
+[1615384441] schedv2.py:answerCard(): 
+[1615384441] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E29A0> {'data': '', 'did': 1615382621621, 'due': 1615384402, 'factor': 2150, 'flags': 0, 'id': 1602947246953, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615383667, 'nid': 1602947246953, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 9, 'type': 3, 'usn': -1}
+[1615384443] schedv2.py:answerCard(): 
+[1615384443] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E935B0910> {'data': '', 'did': 1615382621621, 'due': -99919, 'factor': 2200, 'flags': 0, 'id': 1604786639769, 'ivl': 3, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604786639769, 'odid': 1589393235069, 'odue': 810, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615384451] schedv2.py:answerCard(): 
+[1615384451] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972DF1F0> {'data': '', 'did': 1615382621621, 'due': -99918, 'factor': 2350, 'flags': 0, 'id': 1603143953699, 'ivl': 24, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603143953698, 'odid': 1589393235069, 'odue': 831, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384465] schedv2.py:answerCard(): 
+[1615384465] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972DF280> {'data': '', 'did': 1615382621621, 'due': -99917, 'factor': 2500, 'flags': 0, 'id': 1602964389891, 'ivl': 38, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602964389891, 'odid': 1589393235069, 'odue': 845, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615384469] schedv2.py:answerCard(): 
+[1615384469] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EC970> {'data': '', 'did': 1615382621621, 'due': -99916, 'factor': 2300, 'flags': 0, 'id': 1603743646080, 'ivl': 15, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1603743646080, 'odid': 1589393235069, 'odue': 822, 'ord': 0, 'queue': 2, 'reps': 10, 'type': 2, 'usn': -1}
+[1615384472] schedv2.py:answerCard(): 
+[1615384473] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972ECEE0> {'data': '', 'did': 1615382621621, 'due': -99915, 'factor': 2350, 'flags': 0, 'id': 1604745370398, 'ivl': 9, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604745370398, 'odid': 1589393235069, 'odue': 816, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615384476] schedv2.py:answerCard(): 
+[1615384476] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972ECD00> {'data': '', 'did': 1615382621621, 'due': -99914, 'factor': 2500, 'flags': 0, 'id': 1602961738103, 'ivl': 36, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602961738103, 'odid': 1589393235069, 'odue': 843, 'ord': 0, 'queue': 2, 'reps': 12, 'type': 2, 'usn': -1}
+[1615384491] schedv2.py:answerCard(): 
+[1615384491] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EB040> {'data': '', 'did': 1615382621621, 'due': -99913, 'factor': 2500, 'flags': 0, 'id': 1604785436335, 'ivl': 7, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604785436335, 'odid': 1589393235069, 'odue': 814, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615384493] schedv2.py:answerCard(): 
+[1615384493] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EC160> {'data': '', 'did': 1615382621621, 'due': -99912, 'factor': 2500, 'flags': 0, 'id': 1603908184562, 'ivl': 20, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603908184562, 'odid': 1589393235069, 'odue': 827, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615384563] schedv2.py:answerCard(): 
+[1615384563] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EC820> {'data': '', 'did': 1615382621621, 'due': 1615384504, 'factor': 2300, 'flags': 0, 'id': 1602970842227, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615383601, 'nid': 1602970842227, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 9, 'type': 3, 'usn': -1}
+[1615384569] schedv2.py:answerCard(): 
+[1615384569] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EC160> {'data': '', 'did': 1615382621621, 'due': -99911, 'factor': 2000, 'flags': 0, 'id': 1602090465987, 'ivl': 17, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602090465987, 'odid': 1589393235069, 'odue': 824, 'ord': 0, 'queue': 2, 'reps': 13, 'type': 2, 'usn': -1}
+[1615384572] schedv2.py:answerCard(): 
+[1615384572] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E2F70> {'data': '', 'did': 1615382621621, 'due': -99910, 'factor': 2500, 'flags': 0, 'id': 1604081632788, 'ivl': 18, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604081632787, 'odid': 1589393235069, 'odue': 825, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384579] schedv2.py:answerCard(): 
+[1615384579] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EB9A0> {'data': '', 'did': 1615382621621, 'due': -99909, 'factor': 2500, 'flags': 0, 'id': 1603006543872, 'ivl': 31, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1603006543872, 'odid': 1589393235069, 'odue': 838, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384591] schedv2.py:answerCard(): 
+[1615384591] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EBA90> {'data': '', 'did': 1615382621621, 'due': 1615384580, 'factor': 1850, 'flags': 0, 'id': 1602948041843, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615383888, 'nid': 1602948041843, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 13, 'type': 3, 'usn': -1}
+[1615384597] schedv2.py:answerCard(): 
+[1615384597] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EBD90> {'data': '', 'did': 1615382621621, 'due': -99908, 'factor': 2200, 'flags': 0, 'id': 1602016455281, 'ivl': 26, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602016455281, 'odid': 1589393235069, 'odue': 833, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615384606] schedv2.py:answerCard(): 
+[1615384606] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EB850> {'data': '', 'did': 1615382621621, 'due': -99907, 'factor': 2500, 'flags': 0, 'id': 1602950077093, 'ivl': 33, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602950077093, 'odid': 1589393235069, 'odue': 840, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384610] schedv2.py:answerCard(): 
+[1615384610] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EBFA0> {'data': '', 'did': 1615382621621, 'due': -99906, 'factor': 2500, 'flags': 0, 'id': 1602968804305, 'ivl': 35, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602968804305, 'odid': 1589393235069, 'odue': 842, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384616] schedv2.py:answerCard(): 
+[1615384616] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EB250> {'data': '', 'did': 1615382621621, 'due': -99905, 'factor': 2150, 'flags': 0, 'id': 1602965148820, 'ivl': 21, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602965148820, 'odid': 1589393235069, 'odue': 828, 'ord': 0, 'queue': 2, 'reps': 14, 'type': 2, 'usn': -1}
+[1615384658] schedv2.py:answerCard(): 
+[1615384658] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EC7C0> {'data': '', 'did': 1615382621621, 'due': -99904, 'factor': 2150, 'flags': 0, 'id': 1602969047867, 'ivl': 20, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602969047867, 'odid': 1589393235069, 'odue': 827, 'ord': 0, 'queue': 2, 'reps': 16, 'type': 2, 'usn': -1}
+[1615384665] schedv2.py:answerCard(): 
+[1615384665] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972F64F0> {'data': '', 'did': 1615382621621, 'due': 1615384661, 'factor': 2150, 'flags': 0, 'id': 1602175687154, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615383970, 'nid': 1602175687154, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 8, 'type': 3, 'usn': -1}
+[1615384686] schedv2.py:answerCard(): 
+[1615384686] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972EC130> {'data': '', 'did': 1615382621621, 'due': -99903, 'factor': 2500, 'flags': 0, 'id': 1604095871213, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604095871213, 'odid': 1589393235069, 'odue': 824, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615384689] schedv2.py:answerCard(): 
+[1615384689] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972F69D0> {'data': '', 'did': 1615382621621, 'due': -99902, 'factor': 2150, 'flags': 0, 'id': 1602967307408, 'ivl': 23, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602967307408, 'odid': 1589393235069, 'odue': 830, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615384727] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F16A30> {'data': '', 'did': 1615382621621, 'due': 1615384721, 'factor': 2300, 'flags': 0, 'id': 1602964522970, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615384096, 'nid': 1602964522970, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 8, 'type': 3, 'usn': -1}
+[1615384732] schedv2.py:answerCard(): 
+[1615384732] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972D2DF0> {'data': '', 'did': 1615382621621, 'due': -99902, 'factor': 2150, 'flags': 0, 'id': 1602967307408, 'ivl': 23, 'lapses': 1, 'left': 1001, 'mod': 1615382626, 'nid': 1602967307408, 'odid': 1589393235069, 'odue': 830, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615384742] schedv2.py:answerCard(): 
+[1615384742] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F04430> {'data': '', 'did': 1615382621621, 'due': -99901, 'factor': 2200, 'flags': 0, 'id': 1602104533966, 'ivl': 26, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602104533966, 'odid': 1589393235069, 'odue': 833, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384749] schedv2.py:answerCard(): 
+[1615384749] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E2CD0> {'data': '', 'did': 1615382621621, 'due': -99900, 'factor': 2350, 'flags': 0, 'id': 1604514803413, 'ivl': 8, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604514803413, 'odid': 1589393235069, 'odue': 815, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615384758] schedv2.py:answerCard(): 
+[1615384758] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E92F16A30> {'data': '', 'did': 1615382621621, 'due': -99899, 'factor': 2200, 'flags': 0, 'id': 1602179343437, 'ivl': 34, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602179343437, 'odid': 1589393235069, 'odue': 841, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384761] schedv2.py:answerCard(): 
+[1615384761] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E2160> {'data': '', 'did': 1615382621621, 'due': -99898, 'factor': 2500, 'flags': 0, 'id': 1604356080514, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604356080514, 'odid': 1589393235069, 'odue': 817, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615384783] schedv2.py:answerCard(): 
+[1615384783] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E2F40> {'data': '', 'did': 1615382621621, 'due': -99897, 'factor': 2500, 'flags': 0, 'id': 1602950014715, 'ivl': 39, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602950014715, 'odid': 1589393235069, 'odue': 846, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615384806] schedv2.py:answerCard(): 
+[1615384806] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972D89A0> {'data': '', 'did': 1615382621621, 'due': -99896, 'factor': 2200, 'flags': 0, 'id': 1602014459235, 'ivl': 38, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602014459235, 'odid': 1589393235069, 'odue': 845, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384835] schedv2.py:answerCard(): 
+[1615384835] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E2160> {'data': '', 'did': 1615382621621, 'due': 1615384812, 'factor': 2300, 'flags': 0, 'id': 1602949704845, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615384172, 'nid': 1602949704845, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 10, 'type': 3, 'usn': -1}
+[1615384845] schedv2.py:answerCard(): 
+[1615384845] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972D2C40> {'data': '', 'did': 1615382621621, 'due': 1615384833, 'factor': 2000, 'flags': 0, 'id': 1602968697766, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615384183, 'nid': 1602968697766, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 9, 'type': 3, 'usn': -1}
+[1615384849] schedv2.py:answerCard(): 
+[1615384849] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E2CD0> {'data': '', 'did': 1615382621621, 'due': -99895, 'factor': 2500, 'flags': 0, 'id': 1602950102485, 'ivl': 33, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602950102485, 'odid': 1589393235069, 'odue': 840, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384858] schedv2.py:answerCard(): 
+[1615384858] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E2160> {'data': '', 'did': 1615382621621, 'due': -99894, 'factor': 2200, 'flags': 0, 'id': 1602966417822, 'ivl': 28, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602966417822, 'odid': 1589393235069, 'odue': 835, 'ord': 0, 'queue': 2, 'reps': 15, 'type': 2, 'usn': -1}
+[1615384861] schedv2.py:answerCard(): 
+[1615384861] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972D86A0> {'data': '', 'did': 1615382621621, 'due': -99893, 'factor': 2500, 'flags': 0, 'id': 1604093232069, 'ivl': 17, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604093232069, 'odid': 1589393235069, 'odue': 824, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384868] schedv2.py:answerCard(): 
+[1615384868] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972D88B0> {'data': '', 'did': 1615382621621, 'due': -99892, 'factor': 2500, 'flags': 0, 'id': 1604093286386, 'ivl': 22, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604093286386, 'odid': 1589393235069, 'odue': 830, 'ord': 0, 'queue': 2, 'reps': 5, 'type': 2, 'usn': -1}
+[1615384870] schedv2.py:answerCard(): 
+[1615384870] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E2DC0> {'data': '', 'did': 1615382621621, 'due': -99891, 'factor': 2200, 'flags': 0, 'id': 1602175728907, 'ivl': 37, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602175728907, 'odid': 1589393235069, 'odue': 845, 'ord': 0, 'queue': 2, 'reps': 8, 'type': 2, 'usn': -1}
+[1615384878] schedv2.py:answerCard(): 
+[1615384878] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E2FA0> {'data': '', 'did': 1615382621621, 'due': -99890, 'factor': 2200, 'flags': 0, 'id': 1602183951909, 'ivl': 25, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602183951909, 'odid': 1589393235069, 'odue': 833, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384883] schedv2.py:answerCard(): 
+[1615384883] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972F6FA0> {'data': '', 'did': 1615382621621, 'due': -99889, 'factor': 1900, 'flags': 0, 'id': 1602970955804, 'ivl': 16, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602970955804, 'odid': 1589393235069, 'odue': 824, 'ord': 0, 'queue': 2, 'reps': 11, 'type': 2, 'usn': -1}
+[1615384911] schedv2.py:answerCard(): 
+[1615384911] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972D2EE0> {'data': '', 'did': 1615382621621, 'due': -99888, 'factor': 2350, 'flags': 0, 'id': 1604093154916, 'ivl': 10, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1604093154916, 'odid': 1589393235069, 'odue': 818, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615384939] schedv2.py:answerCard(): 
+[1615384939] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972E2AF0> {'data': '', 'did': 1615382621621, 'due': -99887, 'factor': 2500, 'flags': 0, 'id': 1602965399443, 'ivl': 41, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602965399443, 'odid': 1589393235069, 'odue': 849, 'ord': 0, 'queue': 2, 'reps': 6, 'type': 2, 'usn': -1}
+[1615384954] schedv2.py:answerCard(): 
+[1615384954] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972F6AF0> {'data': '', 'did': 1615382621621, 'due': -99886, 'factor': 2500, 'flags': 0, 'id': 1602179869656, 'ivl': 40, 'lapses': 0, 'left': 1001, 'mod': 1615382626, 'nid': 1602179869656, 'odid': 1589393235069, 'odue': 848, 'ord': 0, 'queue': 2, 'reps': 7, 'type': 2, 'usn': -1}
+[1615384956] schedv2.py:answerCard(): 
+[1615384956] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972F6FD0> {'data': '', 'did': 1615382621621, 'due': 1615384956, 'factor': 1950, 'flags': 0, 'id': 1602089557429, 'ivl': 1, 'lapses': 2, 'left': 1001, 'mod': 1615384236, 'nid': 1602089557429, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 13, 'type': 3, 'usn': -1}
+[1615384962] schedv2.py:answerCard(): 
+[1615384962] schedv2.py:getCard(): <anki.cards.Card object at 0x0000019E972F6F70> {'data': '', 'did': 1615382621621, 'due': 1615385168, 'factor': 2300, 'flags': 0, 'id': 1603908184562, 'ivl': 1, 'lapses': 1, 'left': 1001, 'mod': 1615384563, 'nid': 1603908184562, 'odid': 1589393235069, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 6, 'type': 3, 'usn': -1}

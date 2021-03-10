@@ -4,7 +4,7 @@ import anki.schedv2
 import aqt
 config = aqt.mw.addonManager.getConfig(__name__)
 # config["burypoint"] #    5: automatically buries learning/relearning queue cards if you fail them this many times in a single day. does not add any tags.
-# config["killpoint"] #  140: suspends cards if you review them successfully and the resulting interval is at least this value in days. adds a "suspended" tag.
+# config["killpoint"] #  140: suspends cards if you review them successfully and the resulting interval is at least this value in days. adds a "auto-suspended" tag.
 
 # burying and killing can be disabled for specific cards by adding special tags
 # "no_burry" to disable burying
@@ -21,9 +21,9 @@ def checkKill(self, card, ease, early, _old):
     
     if card.ivl >= config["killpoint"]:
         self.suspendCards([card.id])
-        note.addTag("suspended")
+        note.addTag("auto-suspended")
         note.flush()
-        tooltip(_("Card automatically suspended and tagged due to high maturity - DA KILL Z0NE"))
+        tooltip(_("Card automatically auto-suspended and tagged due to high maturity - DA KILL Z0NE"))
     return ret
 
 to_bury = []
