@@ -1,5 +1,5 @@
-Anki 2.1.42 nefunguje:
-QuickFilter
+Anki 2.1.42 not working addons:
+Advanced Browser - still bugged after recent updates
+Keep model of add cards
 Opening the same window multiple time
-Highlight Search Results in the Browser
-Advanced Browser
+QuickFilter
