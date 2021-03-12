@@ -59,15 +59,15 @@ button[onclick*="ease4"]:not(#defease) {
 button[onclick*="edit"] {
 	padding: 1px 0;
 	margin-bottom: 2px;
-	margin-left: 10px;
 	margin-right: 10px;
-	margin-top: 0;
+	margin-left: 10px;
+	
 }
 
 /* the "More" button */
 button[onclick*="more"] {
 	padding: 1px 0;
 	margin-top: 2px;
-	margin-left: 10px;
 	margin-right: 10px;
+	margin-left: 10px;
 }

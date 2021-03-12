@@ -1,7 +1,6 @@
 from aqt.qt import *
 from aqt.browser import Browser
 from anki.hooks import wrap, addHook
-from aqt.utils import showInfo
 import unicodedata
 
 def onSetupSearch(self):
