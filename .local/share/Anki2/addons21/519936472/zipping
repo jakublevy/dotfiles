@@ -1,1 +1,0 @@
-zip readableAddons.zip *py README.md LICENSE config* zipping ankiweb --exclude \*~
