@@ -52413,3 +52413,2260 @@ Mar 12 15:33:28.129 DEBG fetching meta...
 Mar 12 15:33:28.251 DEBG server usn was 7924
 Mar 12 15:33:28.251 DEBG media sync complete
 Mar 12 15:33:28.327 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1160), latest_usn: Usn(1160), pending_usn: Usn(-1), new_usn: Some(Usn(1160)), server_message: "", host_number: 4 }
+Mar 12 15:34:48.709 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:34:48.710 DEBG skip check
+Mar 12 15:34:48.710 DEBG begin media sync
+Mar 12 15:34:48.710 DEBG fetching meta...
+Mar 12 15:34:48.836 DEBG server usn was 7924
+Mar 12 15:34:48.836 DEBG media sync complete
+Mar 12 15:34:48.934 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1160), latest_usn: Usn(1160), pending_usn: Usn(-1), new_usn: Some(Usn(1160)), server_message: "", host_number: 4 }
+Mar 12 15:35:10.653 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:35:10.653 DEBG skip check
+Mar 12 15:35:10.653 DEBG begin media sync
+Mar 12 15:35:10.653 DEBG fetching meta...
+Mar 12 15:35:10.759 DEBG server usn was 7924
+Mar 12 15:35:10.759 DEBG media sync complete
+Mar 12 15:35:10.829 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1160), latest_usn: Usn(1160), pending_usn: Usn(-1), new_usn: Some(Usn(1160)), server_message: "", host_number: 4 }
+Mar 12 15:36:27.171 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:36:27.171 DEBG skip check
+Mar 12 15:36:27.171 DEBG begin media sync
+Mar 12 15:36:27.172 DEBG fetching meta...
+Mar 12 15:36:27.303 DEBG server usn was 7924
+Mar 12 15:36:27.304 DEBG media sync complete
+Mar 12 15:36:27.387 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1160), latest_usn: Usn(1160), pending_usn: Usn(-1), new_usn: Some(Usn(1160)), server_message: "", host_number: 4 }
+Mar 12 15:37:00.779 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:37:00.779 DEBG skip check
+Mar 12 15:37:00.779 DEBG begin media sync
+Mar 12 15:37:00.784 DEBG fetching meta...
+Mar 12 15:37:00.903 DEBG server usn was 7924
+Mar 12 15:37:00.903 DEBG media sync complete
+Mar 12 15:37:00.969 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1160), latest_usn: Usn(1160), pending_usn: Usn(-1), new_usn: Some(Usn(1160)), server_message: "", host_number: 4 }
+Mar 12 15:37:00.969 DEBG start
+Mar 12 15:37:01.023 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 15:37:01.023 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 15:37:01.023 DEBG applied server graves
+Mar 12 15:37:01.023 DEBG unchunked changes
+Mar 12 15:37:01.023 DEBG gathering local changes
+Mar 12 15:37:01.023 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 15:37:01.069 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 15:37:01.069 DEBG begin stream from server
+Mar 12 15:37:01.101 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 15:37:01.101 DEBG begin stream to server
+Mar 12 15:37:01.101 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 15:37:01.144 DEBG sanity check
+Mar 12 15:37:01.145 DEBG gathered local counts; waiting for server reply
+Mar 12 15:37:01.179 DEBG got server reply
+Mar 12 15:37:01.179 DEBG finalize
+Mar 12 15:37:09.026 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:37:09.026 DEBG skip check
+Mar 12 15:37:09.026 DEBG begin media sync
+Mar 12 15:37:09.027 DEBG fetching meta...
+Mar 12 15:37:09.214 DEBG server usn was 7924
+Mar 12 15:37:09.214 DEBG media sync complete
+Mar 12 15:37:09.299 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:37:22.091 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:37:22.091 DEBG skip check
+Mar 12 15:37:22.091 DEBG begin media sync
+Mar 12 15:37:22.092 DEBG fetching meta...
+Mar 12 15:37:22.245 DEBG server usn was 7924
+Mar 12 15:37:22.245 DEBG media sync complete
+Mar 12 15:37:22.325 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:38:09.636 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:38:09.637 DEBG skip check
+Mar 12 15:38:09.637 DEBG begin media sync
+Mar 12 15:38:09.637 DEBG fetching meta...
+Mar 12 15:38:09.753 DEBG server usn was 7924
+Mar 12 15:38:09.753 DEBG media sync complete
+Mar 12 15:38:09.843 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:38:26.343 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:38:26.343 DEBG skip check
+Mar 12 15:38:26.343 DEBG begin media sync
+Mar 12 15:38:26.343 DEBG fetching meta...
+Mar 12 15:38:26.502 DEBG server usn was 7924
+Mar 12 15:38:26.502 DEBG media sync complete
+Mar 12 15:38:26.598 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:38:55.241 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:38:55.241 DEBG skip check
+Mar 12 15:38:55.241 DEBG begin media sync
+Mar 12 15:38:55.241 DEBG fetching meta...
+Mar 12 15:38:55.380 DEBG server usn was 7924
+Mar 12 15:38:55.380 DEBG media sync complete
+Mar 12 15:38:55.436 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:39:10.774 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:39:10.774 DEBG skip check
+Mar 12 15:39:10.774 DEBG begin media sync
+Mar 12 15:39:10.774 DEBG fetching meta...
+Mar 12 15:39:10.887 DEBG server usn was 7924
+Mar 12 15:39:10.887 DEBG media sync complete
+Mar 12 15:39:10.973 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:39:19.557 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:39:19.557 DEBG skip check
+Mar 12 15:39:19.557 DEBG begin media sync
+Mar 12 15:39:19.558 DEBG fetching meta...
+Mar 12 15:39:19.689 DEBG server usn was 7924
+Mar 12 15:39:19.689 DEBG media sync complete
+Mar 12 15:39:19.783 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:39:38.831 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:39:38.831 DEBG skip check
+Mar 12 15:39:38.831 DEBG begin media sync
+Mar 12 15:39:38.831 DEBG fetching meta...
+Mar 12 15:39:38.958 DEBG server usn was 7924
+Mar 12 15:39:38.958 DEBG media sync complete
+Mar 12 15:39:39.077 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:39:57.910 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:39:57.911 DEBG skip check
+Mar 12 15:39:57.911 DEBG begin media sync
+Mar 12 15:39:57.911 DEBG fetching meta...
+Mar 12 15:39:58.042 DEBG server usn was 7924
+Mar 12 15:39:58.042 DEBG media sync complete
+Mar 12 15:39:58.116 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:40:29.601 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:40:29.601 DEBG skip check
+Mar 12 15:40:29.601 DEBG begin media sync
+Mar 12 15:40:29.601 DEBG fetching meta...
+Mar 12 15:40:29.762 DEBG server usn was 7924
+Mar 12 15:40:29.762 DEBG media sync complete
+Mar 12 15:40:29.843 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:43:43.527 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:43:43.527 DEBG skip check
+Mar 12 15:43:43.527 DEBG begin media sync
+Mar 12 15:43:43.528 DEBG fetching meta...
+Mar 12 15:43:43.647 DEBG server usn was 7924
+Mar 12 15:43:43.647 DEBG media sync complete
+Mar 12 15:43:43.736 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 15:44:14.700 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 15:44:14.700 DEBG skip check
+Mar 12 15:44:14.700 DEBG begin media sync
+Mar 12 15:44:14.700 DEBG fetching meta...
+Mar 12 15:44:14.833 DEBG server usn was 7924
+Mar 12 15:44:14.833 DEBG media sync complete
+Mar 12 15:44:14.906 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:17:19.228 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:17:19.228 DEBG skip check
+Mar 12 16:17:19.228 DEBG begin media sync
+Mar 12 16:17:19.229 DEBG fetching meta...
+Mar 12 16:17:19.362 DEBG server usn was 7924
+Mar 12 16:17:19.362 DEBG media sync complete
+Mar 12 16:17:19.430 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:18:37.421 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:18:37.421 DEBG skip check
+Mar 12 16:18:37.421 DEBG begin media sync
+Mar 12 16:18:37.422 DEBG fetching meta...
+Mar 12 16:18:37.557 DEBG server usn was 7924
+Mar 12 16:18:37.557 DEBG media sync complete
+Mar 12 16:18:37.671 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:18:56.292 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:18:56.292 DEBG skip check
+Mar 12 16:18:56.292 DEBG begin media sync
+Mar 12 16:18:56.293 DEBG fetching meta...
+Mar 12 16:18:56.411 DEBG server usn was 7924
+Mar 12 16:18:56.411 DEBG media sync complete
+Mar 12 16:18:56.512 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:23:02.338 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:23:02.339 DEBG skip check
+Mar 12 16:23:02.339 DEBG begin media sync
+Mar 12 16:23:02.339 DEBG fetching meta...
+Mar 12 16:23:02.601 DEBG server usn was 7924
+Mar 12 16:23:02.601 DEBG media sync complete
+Mar 12 16:23:02.746 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:23:15.268 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:23:15.268 DEBG skip check
+Mar 12 16:23:15.268 DEBG begin media sync
+Mar 12 16:23:15.268 DEBG fetching meta...
+Mar 12 16:23:15.410 DEBG server usn was 7924
+Mar 12 16:23:15.410 DEBG media sync complete
+Mar 12 16:23:15.549 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:23:21.013 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:23:21.013 DEBG skip check
+Mar 12 16:23:21.013 DEBG begin media sync
+Mar 12 16:23:21.013 DEBG fetching meta...
+Mar 12 16:23:21.167 DEBG server usn was 7924
+Mar 12 16:23:21.167 DEBG media sync complete
+Mar 12 16:23:21.227 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:23:36.450 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:23:36.450 DEBG skip check
+Mar 12 16:23:36.450 DEBG begin media sync
+Mar 12 16:23:36.451 DEBG fetching meta...
+Mar 12 16:23:36.575 DEBG server usn was 7924
+Mar 12 16:23:36.575 DEBG media sync complete
+Mar 12 16:23:36.672 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:23:40.368 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:23:40.368 DEBG skip check
+Mar 12 16:23:40.368 DEBG begin media sync
+Mar 12 16:23:40.369 DEBG fetching meta...
+Mar 12 16:23:40.504 DEBG server usn was 7924
+Mar 12 16:23:40.504 DEBG media sync complete
+Mar 12 16:23:40.629 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:23:59.579 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:23:59.579 DEBG skip check
+Mar 12 16:23:59.579 DEBG begin media sync
+Mar 12 16:23:59.579 DEBG fetching meta...
+Mar 12 16:23:59.694 DEBG server usn was 7924
+Mar 12 16:23:59.694 DEBG media sync complete
+Mar 12 16:23:59.787 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:24:00.528 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:24:00.528 DEBG skip check
+Mar 12 16:24:00.528 DEBG begin media sync
+Mar 12 16:24:00.529 DEBG fetching meta...
+Mar 12 16:24:00.677 DEBG server usn was 7924
+Mar 12 16:24:00.677 DEBG media sync complete
+Mar 12 16:24:00.742 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:24:25.503 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:24:25.503 DEBG skip check
+Mar 12 16:24:25.503 DEBG begin media sync
+Mar 12 16:24:25.503 DEBG fetching meta...
+Mar 12 16:24:25.624 DEBG server usn was 7924
+Mar 12 16:24:25.624 DEBG media sync complete
+Mar 12 16:24:25.701 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:39:43.115 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:39:43.115 DEBG skip check
+Mar 12 16:39:43.115 DEBG begin media sync
+Mar 12 16:39:43.116 DEBG fetching meta...
+Mar 12 16:39:43.256 DEBG server usn was 7924
+Mar 12 16:39:43.256 DEBG media sync complete
+Mar 12 16:39:43.311 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1161), latest_usn: Usn(1161), pending_usn: Usn(-1), new_usn: Some(Usn(1161)), server_message: "", host_number: 4 }
+Mar 12 16:39:43.311 DEBG start
+Mar 12 16:39:43.356 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 16:39:43.356 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 16:39:43.356 DEBG applied server graves
+Mar 12 16:39:43.356 DEBG unchunked changes
+Mar 12 16:39:43.356 DEBG gathering local changes
+Mar 12 16:39:43.356 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 16:39:43.413 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 16:39:43.413 DEBG begin stream from server
+Mar 12 16:39:43.450 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 16:39:43.450 DEBG begin stream to server
+Mar 12 16:39:43.450 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 16:39:43.483 DEBG sanity check
+Mar 12 16:39:43.484 DEBG gathered local counts; waiting for server reply
+Mar 12 16:39:43.518 DEBG got server reply
+Mar 12 16:39:43.518 DEBG finalize
+Mar 12 16:39:46.853 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:39:46.853 DEBG skip check
+Mar 12 16:39:46.853 DEBG begin media sync
+Mar 12 16:39:46.854 DEBG fetching meta...
+Mar 12 16:39:46.989 DEBG server usn was 7924
+Mar 12 16:39:46.990 DEBG media sync complete
+Mar 12 16:39:47.152 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1162), latest_usn: Usn(1162), pending_usn: Usn(-1), new_usn: Some(Usn(1162)), server_message: "", host_number: 4 }
+Mar 12 16:39:53.692 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:39:53.692 DEBG skip check
+Mar 12 16:39:53.692 DEBG begin media sync
+Mar 12 16:39:53.696 DEBG fetching meta...
+Mar 12 16:39:53.858 DEBG server usn was 7924
+Mar 12 16:39:53.858 DEBG media sync complete
+Mar 12 16:39:53.957 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1162), latest_usn: Usn(1162), pending_usn: Usn(-1), new_usn: Some(Usn(1162)), server_message: "", host_number: 4 }
+Mar 12 16:39:53.957 DEBG start
+Mar 12 16:39:54.013 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 16:39:54.013 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 16:39:54.013 DEBG applied server graves
+Mar 12 16:39:54.013 DEBG unchunked changes
+Mar 12 16:39:54.013 DEBG gathering local changes
+Mar 12 16:39:54.013 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 16:39:54.100 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 16:39:54.100 DEBG begin stream from server
+Mar 12 16:39:54.156 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 16:39:54.156 DEBG begin stream to server
+Mar 12 16:39:54.156 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 16:39:54.197 DEBG sanity check
+Mar 12 16:39:54.198 DEBG gathered local counts; waiting for server reply
+Mar 12 16:39:54.250 DEBG got server reply
+Mar 12 16:39:54.250 DEBG finalize
+Mar 12 16:41:28.458 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:41:28.459 DEBG skip check
+Mar 12 16:41:28.459 DEBG begin media sync
+Mar 12 16:41:28.459 DEBG fetching meta...
+Mar 12 16:41:28.583 DEBG server usn was 7924
+Mar 12 16:41:28.583 DEBG media sync complete
+Mar 12 16:41:28.666 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1163), latest_usn: Usn(1163), pending_usn: Usn(-1), new_usn: Some(Usn(1163)), server_message: "", host_number: 4 }
+Mar 12 16:41:34.457 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:41:34.458 DEBG skip check
+Mar 12 16:41:34.458 DEBG begin media sync
+Mar 12 16:41:34.458 DEBG fetching meta...
+Mar 12 16:41:34.627 DEBG server usn was 7924
+Mar 12 16:41:34.627 DEBG media sync complete
+Mar 12 16:41:34.740 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1163), latest_usn: Usn(1163), pending_usn: Usn(-1), new_usn: Some(Usn(1163)), server_message: "", host_number: 4 }
+Mar 12 16:42:36.861 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:42:36.861 DEBG skip check
+Mar 12 16:42:36.861 DEBG begin media sync
+Mar 12 16:42:36.862 DEBG fetching meta...
+Mar 12 16:42:37.016 DEBG server usn was 7924
+Mar 12 16:42:37.017 DEBG media sync complete
+Mar 12 16:42:37.113 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1163), latest_usn: Usn(1163), pending_usn: Usn(-1), new_usn: Some(Usn(1163)), server_message: "", host_number: 4 }
+Mar 12 16:43:44.372 DEBG quick check
+Mar 12 16:43:44.380 DEBG optimize
+Mar 12 16:43:44.428 DEBG check cards
+Mar 12 16:43:44.429 DEBG check decks
+Mar 12 16:43:44.429 DEBG check notetypes
+Mar 12 16:43:44.430 DEBG check notetype: 1535540988107
+Mar 12 16:43:44.523 DEBG check review log
+Mar 12 16:43:44.531 DEBG missing decks
+Mar 12 16:43:44.531 DEBG db check finished: CheckDatabaseOutput {
+    card_properties_invalid: 0,
+    card_position_too_high: 0,
+    cards_missing_note: 0,
+    decks_missing: 0,
+    revlog_properties_invalid: 0,
+    templates_missing: 0,
+    card_ords_duplicated: 0,
+    field_count_mismatch: 0,
+    notetypes_recovered: 0,
+    invalid_utf8: 0,
+}
+Mar 12 16:58:55.594 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:58:55.594 DEBG skip check
+Mar 12 16:58:55.594 DEBG begin media sync
+Mar 12 16:58:55.595 DEBG fetching meta...
+Mar 12 16:58:55.791 DEBG server usn was 7924
+Mar 12 16:58:55.791 DEBG media sync complete
+Mar 12 16:58:55.880 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1163), latest_usn: Usn(1163), pending_usn: Usn(-1), new_usn: Some(Usn(1163)), server_message: "", host_number: 4 }
+Mar 12 16:58:55.880 DEBG start
+Mar 12 16:58:55.937 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 16:58:55.937 DEBG locally removed  , decks: 1, notes: 1, cards: 1
+Mar 12 16:58:55.937 DEBG sending graves chunk
+Mar 12 16:58:55.983 DEBG applied server graves
+Mar 12 16:58:55.983 DEBG unchunked changes
+Mar 12 16:58:55.983 DEBG gathering local changes
+Mar 12 16:58:55.984 DEBG sending, tags: 15, deck config: 0, decks: 2, notetypes: 1
+Mar 12 16:58:56.033 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 16:58:56.033 DEBG begin stream from server
+Mar 12 16:58:56.083 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 16:58:56.083 DEBG begin stream to server
+Mar 12 16:58:56.084 DEBG sending, revlog: 66, notes: 0, cards: 56, done: true
+Mar 12 16:58:56.132 DEBG sanity check
+Mar 12 16:58:56.132 DEBG gathered local counts; waiting for server reply
+Mar 12 16:58:56.171 DEBG got server reply
+Mar 12 16:58:56.171 DEBG finalize
+Mar 12 16:59:51.548 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 16:59:51.548 DEBG skip check
+Mar 12 16:59:51.548 DEBG begin media sync
+Mar 12 16:59:51.549 DEBG fetching meta...
+Mar 12 16:59:51.672 DEBG server usn was 7924
+Mar 12 16:59:51.672 DEBG media sync complete
+Mar 12 16:59:51.801 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1164), latest_usn: Usn(1164), pending_usn: Usn(-1), new_usn: Some(Usn(1164)), server_message: "", host_number: 4 }
+Mar 12 16:59:51.801 DEBG start
+Mar 12 16:59:51.844 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 16:59:51.844 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 16:59:51.844 DEBG applied server graves
+Mar 12 16:59:51.844 DEBG unchunked changes
+Mar 12 16:59:51.844 DEBG gathering local changes
+Mar 12 16:59:51.844 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 16:59:51.898 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 16:59:51.898 DEBG begin stream from server
+Mar 12 16:59:51.959 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 16:59:51.959 DEBG begin stream to server
+Mar 12 16:59:51.959 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 16:59:52.000 DEBG sanity check
+Mar 12 16:59:52.001 DEBG gathered local counts; waiting for server reply
+Mar 12 16:59:52.083 DEBG got server reply
+Mar 12 16:59:52.083 DEBG finalize
+Mar 12 23:08:15.775 DEBG fetching meta...
+Mar 12 23:08:15.776 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:08:15.776 DEBG skip check
+Mar 12 23:08:15.776 DEBG begin media sync
+Mar 12 23:08:15.951 DEBG server usn was 7924
+Mar 12 23:08:15.951 DEBG media sync complete
+Mar 12 23:08:16.025 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1165), latest_usn: Usn(1166), pending_usn: Usn(-1), new_usn: Some(Usn(1166)), server_message: "", host_number: 4 }
+Mar 12 23:08:16.025 DEBG start
+Mar 12 23:08:16.058 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:08:16.058 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:08:16.058 DEBG applied server graves
+Mar 12 23:08:16.059 DEBG unchunked changes
+Mar 12 23:08:16.059 DEBG gathering local changes
+Mar 12 23:08:16.059 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 1
+Mar 12 23:08:16.098 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:08:16.098 DEBG begin stream from server
+Mar 12 23:08:16.143 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:08:16.143 DEBG begin stream to server
+Mar 12 23:08:16.144 DEBG sending, revlog: 0, notes: 5, cards: 4, done: true
+Mar 12 23:08:16.176 DEBG sanity check
+Mar 12 23:08:16.177 DEBG gathered local counts; waiting for server reply
+Mar 12 23:08:16.211 DEBG got server reply
+Mar 12 23:08:16.211 DEBG finalize
+Mar 12 23:09:55.002 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:09:55.002 DEBG skip check
+Mar 12 23:09:55.002 DEBG begin media sync
+Mar 12 23:09:55.005 DEBG fetching meta...
+Mar 12 23:09:55.133 DEBG server usn was 7924
+Mar 12 23:09:55.133 DEBG media sync complete
+Mar 12 23:09:55.223 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1167), latest_usn: Usn(1167), pending_usn: Usn(-1), new_usn: Some(Usn(1167)), server_message: "", host_number: 4 }
+Mar 12 23:09:55.223 DEBG start
+Mar 12 23:09:55.267 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:09:55.267 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:09:55.267 DEBG applied server graves
+Mar 12 23:09:55.267 DEBG unchunked changes
+Mar 12 23:09:55.267 DEBG gathering local changes
+Mar 12 23:09:55.267 DEBG sending, tags: 0, deck config: 0, decks: 1, notetypes: 0
+Mar 12 23:09:55.314 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:09:55.314 DEBG begin stream from server
+Mar 12 23:09:55.352 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:09:55.352 DEBG begin stream to server
+Mar 12 23:09:55.352 DEBG sending, revlog: 8, notes: 0, cards: 2, done: true
+Mar 12 23:09:55.395 DEBG sanity check
+Mar 12 23:09:55.395 DEBG gathered local counts; waiting for server reply
+Mar 12 23:09:55.438 DEBG got server reply
+Mar 12 23:09:55.438 DEBG finalize
+Mar 12 23:11:28.362 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:11:28.362 DEBG skip check
+Mar 12 23:11:28.362 DEBG begin media sync
+Mar 12 23:11:28.363 DEBG fetching meta...
+Mar 12 23:11:28.553 DEBG server usn was 7924
+Mar 12 23:11:28.553 DEBG media sync complete
+Mar 12 23:11:28.667 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:11:38.266 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:11:38.266 DEBG skip check
+Mar 12 23:11:38.266 DEBG begin media sync
+Mar 12 23:11:38.266 DEBG fetching meta...
+Mar 12 23:11:38.397 DEBG server usn was 7924
+Mar 12 23:11:38.397 DEBG media sync complete
+Mar 12 23:11:38.474 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:11:45.969 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:11:45.970 DEBG skip check
+Mar 12 23:11:45.970 DEBG begin media sync
+Mar 12 23:11:45.970 DEBG fetching meta...
+Mar 12 23:11:46.164 DEBG server usn was 7924
+Mar 12 23:11:46.164 DEBG media sync complete
+Mar 12 23:11:46.219 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:13:26.623 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:13:26.623 DEBG skip check
+Mar 12 23:13:26.623 DEBG begin media sync
+Mar 12 23:13:26.624 DEBG fetching meta...
+Mar 12 23:13:26.753 DEBG server usn was 7924
+Mar 12 23:13:26.753 DEBG media sync complete
+Mar 12 23:13:26.818 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:13:34.005 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:13:34.006 DEBG skip check
+Mar 12 23:13:34.006 DEBG begin media sync
+Mar 12 23:13:34.006 DEBG fetching meta...
+Mar 12 23:13:34.162 DEBG server usn was 7924
+Mar 12 23:13:34.162 DEBG media sync complete
+Mar 12 23:13:34.275 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:13:52.444 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:13:52.444 DEBG skip check
+Mar 12 23:13:52.444 DEBG begin media sync
+Mar 12 23:13:52.445 DEBG fetching meta...
+Mar 12 23:13:52.574 DEBG server usn was 7924
+Mar 12 23:13:52.574 DEBG media sync complete
+Mar 12 23:13:52.671 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:13:56.011 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:13:56.012 DEBG skip check
+Mar 12 23:13:56.012 DEBG begin media sync
+Mar 12 23:13:56.012 DEBG fetching meta...
+Mar 12 23:13:56.145 DEBG server usn was 7924
+Mar 12 23:13:56.145 DEBG media sync complete
+Mar 12 23:13:56.269 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:13:57.260 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:13:57.260 DEBG skip check
+Mar 12 23:13:57.260 DEBG begin media sync
+Mar 12 23:13:57.261 DEBG fetching meta...
+Mar 12 23:13:57.472 DEBG server usn was 7924
+Mar 12 23:13:57.472 DEBG media sync complete
+Mar 12 23:13:57.565 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:14:21.918 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:14:21.919 DEBG skip check
+Mar 12 23:14:21.919 DEBG begin media sync
+Mar 12 23:14:21.919 DEBG fetching meta...
+Mar 12 23:14:22.058 DEBG server usn was 7924
+Mar 12 23:14:22.058 DEBG media sync complete
+Mar 12 23:14:22.146 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:15:01.783 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:15:01.783 DEBG skip check
+Mar 12 23:15:01.783 DEBG begin media sync
+Mar 12 23:15:01.783 DEBG fetching meta...
+Mar 12 23:15:01.893 DEBG server usn was 7924
+Mar 12 23:15:01.893 DEBG media sync complete
+Mar 12 23:15:01.994 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:15:15.370 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:15:15.370 DEBG skip check
+Mar 12 23:15:15.370 DEBG begin media sync
+Mar 12 23:15:15.371 DEBG fetching meta...
+Mar 12 23:15:15.559 DEBG server usn was 7924
+Mar 12 23:15:15.559 DEBG media sync complete
+Mar 12 23:15:15.639 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:15:32.403 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:15:32.403 DEBG skip check
+Mar 12 23:15:32.403 DEBG begin media sync
+Mar 12 23:15:32.403 DEBG fetching meta...
+Mar 12 23:15:32.526 DEBG server usn was 7924
+Mar 12 23:15:32.526 DEBG media sync complete
+Mar 12 23:15:32.599 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:15:38.162 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:15:38.162 DEBG skip check
+Mar 12 23:15:38.162 DEBG begin media sync
+Mar 12 23:15:38.163 DEBG fetching meta...
+Mar 12 23:15:38.356 DEBG server usn was 7924
+Mar 12 23:15:38.356 DEBG media sync complete
+Mar 12 23:15:38.481 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:15:41.096 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:15:41.096 DEBG skip check
+Mar 12 23:15:41.096 DEBG begin media sync
+Mar 12 23:15:41.096 DEBG fetching meta...
+Mar 12 23:15:41.211 DEBG server usn was 7924
+Mar 12 23:15:41.211 DEBG media sync complete
+Mar 12 23:15:41.287 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:23:09.226 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:23:09.226 DEBG skip check
+Mar 12 23:23:09.226 DEBG begin media sync
+Mar 12 23:23:09.226 DEBG fetching meta...
+Mar 12 23:23:09.390 DEBG server usn was 7924
+Mar 12 23:23:09.390 DEBG media sync complete
+Mar 12 23:23:09.470 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:23:11.328 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:23:11.328 DEBG skip check
+Mar 12 23:23:11.328 DEBG begin media sync
+Mar 12 23:23:11.329 DEBG fetching meta...
+Mar 12 23:23:11.474 DEBG server usn was 7924
+Mar 12 23:23:11.474 DEBG media sync complete
+Mar 12 23:23:11.575 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:23:17.087 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:23:17.087 DEBG skip check
+Mar 12 23:23:17.087 DEBG begin media sync
+Mar 12 23:23:17.087 DEBG fetching meta...
+Mar 12 23:23:17.205 DEBG server usn was 7924
+Mar 12 23:23:17.205 DEBG media sync complete
+Mar 12 23:23:17.278 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:23:52.600 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:23:52.600 DEBG skip check
+Mar 12 23:23:52.600 DEBG begin media sync
+Mar 12 23:23:52.604 DEBG fetching meta...
+Mar 12 23:23:52.725 DEBG server usn was 7924
+Mar 12 23:23:52.725 DEBG media sync complete
+Mar 12 23:23:52.828 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1168), latest_usn: Usn(1168), pending_usn: Usn(-1), new_usn: Some(Usn(1168)), server_message: "", host_number: 4 }
+Mar 12 23:23:52.828 DEBG start
+Mar 12 23:23:52.871 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:23:52.871 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:23:52.872 DEBG applied server graves
+Mar 12 23:23:52.872 DEBG unchunked changes
+Mar 12 23:23:52.872 DEBG gathering local changes
+Mar 12 23:23:52.872 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:23:52.910 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:23:52.910 DEBG begin stream from server
+Mar 12 23:23:52.951 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:23:52.951 DEBG begin stream to server
+Mar 12 23:23:52.951 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:23:52.992 DEBG sanity check
+Mar 12 23:23:52.993 DEBG gathered local counts; waiting for server reply
+Mar 12 23:23:53.084 DEBG got server reply
+Mar 12 23:23:53.084 DEBG finalize
+Mar 12 23:23:56.309 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:23:56.309 DEBG skip check
+Mar 12 23:23:56.309 DEBG begin media sync
+Mar 12 23:23:56.310 DEBG fetching meta...
+Mar 12 23:23:56.435 DEBG server usn was 7924
+Mar 12 23:23:56.435 DEBG media sync complete
+Mar 12 23:23:56.520 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1169), latest_usn: Usn(1169), pending_usn: Usn(-1), new_usn: Some(Usn(1169)), server_message: "", host_number: 4 }
+Mar 12 23:24:06.346 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:24:06.346 DEBG skip check
+Mar 12 23:24:06.346 DEBG begin media sync
+Mar 12 23:24:06.349 DEBG fetching meta...
+Mar 12 23:24:06.467 DEBG server usn was 7924
+Mar 12 23:24:06.468 DEBG media sync complete
+Mar 12 23:24:06.584 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1169), latest_usn: Usn(1169), pending_usn: Usn(-1), new_usn: Some(Usn(1169)), server_message: "", host_number: 4 }
+Mar 12 23:24:06.584 DEBG start
+Mar 12 23:24:06.631 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:24:06.631 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:24:06.631 DEBG applied server graves
+Mar 12 23:24:06.631 DEBG unchunked changes
+Mar 12 23:24:06.631 DEBG gathering local changes
+Mar 12 23:24:06.631 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:24:06.670 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:24:06.670 DEBG begin stream from server
+Mar 12 23:24:06.711 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:24:06.711 DEBG begin stream to server
+Mar 12 23:24:06.711 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:24:06.751 DEBG sanity check
+Mar 12 23:24:06.752 DEBG gathered local counts; waiting for server reply
+Mar 12 23:24:06.785 DEBG got server reply
+Mar 12 23:24:06.785 DEBG finalize
+Mar 12 23:25:10.123 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:25:10.123 DEBG skip check
+Mar 12 23:25:10.123 DEBG begin media sync
+Mar 12 23:25:10.123 DEBG fetching meta...
+Mar 12 23:25:10.270 DEBG server usn was 7924
+Mar 12 23:25:10.270 DEBG media sync complete
+Mar 12 23:25:10.331 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1170), latest_usn: Usn(1170), pending_usn: Usn(-1), new_usn: Some(Usn(1170)), server_message: "", host_number: 4 }
+Mar 12 23:25:51.507 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:25:51.507 DEBG skip check
+Mar 12 23:25:51.507 DEBG begin media sync
+Mar 12 23:25:51.512 DEBG fetching meta...
+Mar 12 23:25:51.616 DEBG server usn was 7924
+Mar 12 23:25:51.616 DEBG media sync complete
+Mar 12 23:25:51.691 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1170), latest_usn: Usn(1170), pending_usn: Usn(-1), new_usn: Some(Usn(1170)), server_message: "", host_number: 4 }
+Mar 12 23:25:51.691 DEBG start
+Mar 12 23:25:51.760 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:25:51.760 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:25:51.760 DEBG applied server graves
+Mar 12 23:25:51.760 DEBG unchunked changes
+Mar 12 23:25:51.760 DEBG gathering local changes
+Mar 12 23:25:51.761 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:25:51.800 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:25:51.800 DEBG begin stream from server
+Mar 12 23:25:51.835 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:25:51.835 DEBG begin stream to server
+Mar 12 23:25:51.835 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:25:51.866 DEBG sanity check
+Mar 12 23:25:51.868 DEBG gathered local counts; waiting for server reply
+Mar 12 23:25:51.903 DEBG got server reply
+Mar 12 23:25:51.903 DEBG finalize
+Mar 12 23:27:53.672 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:27:53.672 DEBG skip check
+Mar 12 23:27:53.672 DEBG begin media sync
+Mar 12 23:27:53.672 DEBG fetching meta...
+Mar 12 23:27:53.832 DEBG server usn was 7924
+Mar 12 23:27:53.832 DEBG media sync complete
+Mar 12 23:27:53.890 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1171), latest_usn: Usn(1171), pending_usn: Usn(-1), new_usn: Some(Usn(1171)), server_message: "", host_number: 4 }
+Mar 12 23:27:55.480 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:27:55.480 DEBG skip check
+Mar 12 23:27:55.480 DEBG begin media sync
+Mar 12 23:27:55.480 DEBG fetching meta...
+Mar 12 23:27:55.604 DEBG server usn was 7924
+Mar 12 23:27:55.604 DEBG media sync complete
+Mar 12 23:27:55.715 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1171), latest_usn: Usn(1171), pending_usn: Usn(-1), new_usn: Some(Usn(1171)), server_message: "", host_number: 4 }
+Mar 12 23:28:02.917 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:28:02.917 DEBG skip check
+Mar 12 23:28:02.917 DEBG begin media sync
+Mar 12 23:28:02.918 DEBG fetching meta...
+Mar 12 23:28:03.070 DEBG server usn was 7924
+Mar 12 23:28:03.070 DEBG media sync complete
+Mar 12 23:28:03.208 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1171), latest_usn: Usn(1171), pending_usn: Usn(-1), new_usn: Some(Usn(1171)), server_message: "", host_number: 4 }
+Mar 12 23:29:13.082 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:29:13.082 DEBG skip check
+Mar 12 23:29:13.082 DEBG begin media sync
+Mar 12 23:29:13.086 DEBG fetching meta...
+Mar 12 23:29:13.246 DEBG server usn was 7924
+Mar 12 23:29:13.246 DEBG media sync complete
+Mar 12 23:29:13.357 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1171), latest_usn: Usn(1171), pending_usn: Usn(-1), new_usn: Some(Usn(1171)), server_message: "", host_number: 4 }
+Mar 12 23:29:13.357 DEBG start
+Mar 12 23:29:13.414 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:29:13.414 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:29:13.414 DEBG applied server graves
+Mar 12 23:29:13.414 DEBG unchunked changes
+Mar 12 23:29:13.414 DEBG gathering local changes
+Mar 12 23:29:13.414 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:29:13.461 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:29:13.461 DEBG begin stream from server
+Mar 12 23:29:13.517 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:29:13.517 DEBG begin stream to server
+Mar 12 23:29:13.517 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:29:13.548 DEBG sanity check
+Mar 12 23:29:13.549 DEBG gathered local counts; waiting for server reply
+Mar 12 23:29:13.582 DEBG got server reply
+Mar 12 23:29:13.582 DEBG finalize
+Mar 12 23:29:17.341 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:29:17.341 DEBG skip check
+Mar 12 23:29:17.341 DEBG begin media sync
+Mar 12 23:29:17.342 DEBG fetching meta...
+Mar 12 23:29:17.464 DEBG server usn was 7924
+Mar 12 23:29:17.464 DEBG media sync complete
+Mar 12 23:29:17.530 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1172), latest_usn: Usn(1172), pending_usn: Usn(-1), new_usn: Some(Usn(1172)), server_message: "", host_number: 4 }
+Mar 12 23:29:40.413 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:29:40.413 DEBG skip check
+Mar 12 23:29:40.413 DEBG begin media sync
+Mar 12 23:29:40.416 DEBG fetching meta...
+Mar 12 23:29:40.517 DEBG server usn was 7924
+Mar 12 23:29:40.517 DEBG media sync complete
+Mar 12 23:29:40.626 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1172), latest_usn: Usn(1172), pending_usn: Usn(-1), new_usn: Some(Usn(1172)), server_message: "", host_number: 4 }
+Mar 12 23:29:40.627 DEBG start
+Mar 12 23:29:40.669 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:29:40.669 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:29:40.669 DEBG applied server graves
+Mar 12 23:29:40.669 DEBG unchunked changes
+Mar 12 23:29:40.669 DEBG gathering local changes
+Mar 12 23:29:40.669 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:29:40.715 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:29:40.715 DEBG begin stream from server
+Mar 12 23:29:40.752 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:29:40.752 DEBG begin stream to server
+Mar 12 23:29:40.752 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:29:40.785 DEBG sanity check
+Mar 12 23:29:40.786 DEBG gathered local counts; waiting for server reply
+Mar 12 23:29:40.823 DEBG got server reply
+Mar 12 23:29:40.823 DEBG finalize
+Mar 12 23:29:44.159 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:29:44.159 DEBG skip check
+Mar 12 23:29:44.159 DEBG begin media sync
+Mar 12 23:29:44.160 DEBG fetching meta...
+Mar 12 23:29:44.298 DEBG server usn was 7924
+Mar 12 23:29:44.298 DEBG media sync complete
+Mar 12 23:29:44.358 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1173), latest_usn: Usn(1173), pending_usn: Usn(-1), new_usn: Some(Usn(1173)), server_message: "", host_number: 4 }
+Mar 12 23:29:49.920 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:29:49.920 DEBG skip check
+Mar 12 23:29:49.920 DEBG begin media sync
+Mar 12 23:29:49.923 DEBG fetching meta...
+Mar 12 23:29:50.049 DEBG server usn was 7924
+Mar 12 23:29:50.049 DEBG media sync complete
+Mar 12 23:29:50.109 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1173), latest_usn: Usn(1173), pending_usn: Usn(-1), new_usn: Some(Usn(1173)), server_message: "", host_number: 4 }
+Mar 12 23:29:50.109 DEBG start
+Mar 12 23:29:50.141 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:29:50.141 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:29:50.141 DEBG applied server graves
+Mar 12 23:29:50.141 DEBG unchunked changes
+Mar 12 23:29:50.141 DEBG gathering local changes
+Mar 12 23:29:50.142 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:29:50.172 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:29:50.172 DEBG begin stream from server
+Mar 12 23:29:50.245 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:29:50.245 DEBG begin stream to server
+Mar 12 23:29:50.245 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:29:50.282 DEBG sanity check
+Mar 12 23:29:50.283 DEBG gathered local counts; waiting for server reply
+Mar 12 23:29:50.312 DEBG got server reply
+Mar 12 23:29:50.312 DEBG finalize
+Mar 12 23:30:09.466 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:30:09.466 DEBG skip check
+Mar 12 23:30:09.466 DEBG begin media sync
+Mar 12 23:30:09.466 DEBG fetching meta...
+Mar 12 23:30:09.576 DEBG server usn was 7924
+Mar 12 23:30:09.576 DEBG media sync complete
+Mar 12 23:30:09.675 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1174), latest_usn: Usn(1174), pending_usn: Usn(-1), new_usn: Some(Usn(1174)), server_message: "", host_number: 4 }
+Mar 12 23:30:15.771 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:30:15.771 DEBG skip check
+Mar 12 23:30:15.771 DEBG begin media sync
+Mar 12 23:30:15.775 DEBG fetching meta...
+Mar 12 23:30:15.906 DEBG server usn was 7924
+Mar 12 23:30:15.906 DEBG media sync complete
+Mar 12 23:30:15.992 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1174), latest_usn: Usn(1174), pending_usn: Usn(-1), new_usn: Some(Usn(1174)), server_message: "", host_number: 4 }
+Mar 12 23:30:15.992 DEBG start
+Mar 12 23:30:16.035 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:30:16.035 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:30:16.035 DEBG applied server graves
+Mar 12 23:30:16.035 DEBG unchunked changes
+Mar 12 23:30:16.035 DEBG gathering local changes
+Mar 12 23:30:16.036 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:30:16.068 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:30:16.068 DEBG begin stream from server
+Mar 12 23:30:16.103 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:30:16.103 DEBG begin stream to server
+Mar 12 23:30:16.103 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:30:16.137 DEBG sanity check
+Mar 12 23:30:16.138 DEBG gathered local counts; waiting for server reply
+Mar 12 23:30:16.225 DEBG got server reply
+Mar 12 23:30:16.225 DEBG finalize
+Mar 12 23:31:52.068 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:31:52.068 DEBG skip check
+Mar 12 23:31:52.068 DEBG begin media sync
+Mar 12 23:31:52.069 DEBG fetching meta...
+Mar 12 23:31:52.214 DEBG server usn was 7924
+Mar 12 23:31:52.214 DEBG media sync complete
+Mar 12 23:31:52.285 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1175), latest_usn: Usn(1175), pending_usn: Usn(-1), new_usn: Some(Usn(1175)), server_message: "", host_number: 4 }
+Mar 12 23:31:53.722 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:31:53.722 DEBG skip check
+Mar 12 23:31:53.722 DEBG begin media sync
+Mar 12 23:31:53.722 DEBG fetching meta...
+Mar 12 23:31:53.887 DEBG server usn was 7924
+Mar 12 23:31:53.887 DEBG media sync complete
+Mar 12 23:31:53.967 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1175), latest_usn: Usn(1175), pending_usn: Usn(-1), new_usn: Some(Usn(1175)), server_message: "", host_number: 4 }
+Mar 12 23:32:00.779 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:32:00.779 DEBG skip check
+Mar 12 23:32:00.779 DEBG begin media sync
+Mar 12 23:32:00.779 DEBG fetching meta...
+Mar 12 23:32:00.937 DEBG server usn was 7924
+Mar 12 23:32:00.937 DEBG media sync complete
+Mar 12 23:32:00.999 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1175), latest_usn: Usn(1175), pending_usn: Usn(-1), new_usn: Some(Usn(1175)), server_message: "", host_number: 4 }
+Mar 12 23:32:51.036 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:32:51.036 DEBG skip check
+Mar 12 23:32:51.036 DEBG begin media sync
+Mar 12 23:32:51.039 DEBG fetching meta...
+Mar 12 23:32:51.140 DEBG server usn was 7924
+Mar 12 23:32:51.140 DEBG media sync complete
+Mar 12 23:32:51.230 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1175), latest_usn: Usn(1175), pending_usn: Usn(-1), new_usn: Some(Usn(1175)), server_message: "", host_number: 4 }
+Mar 12 23:32:51.231 DEBG start
+Mar 12 23:32:51.273 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:32:51.273 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:32:51.273 DEBG applied server graves
+Mar 12 23:32:51.273 DEBG unchunked changes
+Mar 12 23:32:51.273 DEBG gathering local changes
+Mar 12 23:32:51.273 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:32:51.319 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:32:51.319 DEBG begin stream from server
+Mar 12 23:32:51.359 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:32:51.359 DEBG begin stream to server
+Mar 12 23:32:51.360 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:32:51.416 DEBG sanity check
+Mar 12 23:32:51.417 DEBG gathered local counts; waiting for server reply
+Mar 12 23:32:51.451 DEBG got server reply
+Mar 12 23:32:51.451 DEBG finalize
+Mar 12 23:32:54.679 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:32:54.679 DEBG skip check
+Mar 12 23:32:54.679 DEBG begin media sync
+Mar 12 23:32:54.679 DEBG fetching meta...
+Mar 12 23:32:54.830 DEBG server usn was 7924
+Mar 12 23:32:54.830 DEBG media sync complete
+Mar 12 23:32:54.906 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1176), latest_usn: Usn(1176), pending_usn: Usn(-1), new_usn: Some(Usn(1176)), server_message: "", host_number: 4 }
+Mar 12 23:34:47.494 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:34:47.494 DEBG skip check
+Mar 12 23:34:47.494 DEBG begin media sync
+Mar 12 23:34:47.497 DEBG fetching meta...
+Mar 12 23:34:47.653 DEBG server usn was 7924
+Mar 12 23:34:47.653 DEBG media sync complete
+Mar 12 23:34:48.096 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1176), latest_usn: Usn(1176), pending_usn: Usn(-1), new_usn: Some(Usn(1176)), server_message: "", host_number: 4 }
+Mar 12 23:34:48.097 DEBG start
+Mar 12 23:34:48.137 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:34:48.137 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:34:48.137 DEBG applied server graves
+Mar 12 23:34:48.137 DEBG unchunked changes
+Mar 12 23:34:48.137 DEBG gathering local changes
+Mar 12 23:34:48.137 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:34:48.180 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:34:48.180 DEBG begin stream from server
+Mar 12 23:34:48.229 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:34:48.229 DEBG begin stream to server
+Mar 12 23:34:48.229 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:34:48.274 DEBG sanity check
+Mar 12 23:34:48.275 DEBG gathered local counts; waiting for server reply
+Mar 12 23:34:48.323 DEBG got server reply
+Mar 12 23:34:48.324 DEBG finalize
+Mar 12 23:34:51.928 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:34:51.928 DEBG skip check
+Mar 12 23:34:51.928 DEBG begin media sync
+Mar 12 23:34:51.929 DEBG fetching meta...
+Mar 12 23:34:52.059 DEBG server usn was 7924
+Mar 12 23:34:52.060 DEBG media sync complete
+Mar 12 23:34:52.681 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1177), latest_usn: Usn(1177), pending_usn: Usn(-1), new_usn: Some(Usn(1177)), server_message: "", host_number: 4 }
+Mar 12 23:35:54.553 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:35:54.553 DEBG skip check
+Mar 12 23:35:54.553 DEBG begin media sync
+Mar 12 23:35:54.554 DEBG fetching meta...
+Mar 12 23:35:54.729 DEBG server usn was 7924
+Mar 12 23:35:54.729 DEBG media sync complete
+Mar 12 23:35:55.001 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1177), latest_usn: Usn(1177), pending_usn: Usn(-1), new_usn: Some(Usn(1177)), server_message: "", host_number: 4 }
+Mar 12 23:35:58.776 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:35:58.776 DEBG skip check
+Mar 12 23:35:58.776 DEBG begin media sync
+Mar 12 23:35:58.776 DEBG fetching meta...
+Mar 12 23:35:58.930 DEBG server usn was 7924
+Mar 12 23:35:58.930 DEBG media sync complete
+Mar 12 23:35:58.998 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1177), latest_usn: Usn(1177), pending_usn: Usn(-1), new_usn: Some(Usn(1177)), server_message: "", host_number: 4 }
+Mar 12 23:36:04.151 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:36:04.151 DEBG skip check
+Mar 12 23:36:04.151 DEBG begin media sync
+Mar 12 23:36:04.157 DEBG fetching meta...
+Mar 12 23:36:04.291 DEBG server usn was 7924
+Mar 12 23:36:04.291 DEBG media sync complete
+Mar 12 23:36:04.382 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1177), latest_usn: Usn(1177), pending_usn: Usn(-1), new_usn: Some(Usn(1177)), server_message: "", host_number: 4 }
+Mar 12 23:36:04.382 DEBG start
+Mar 12 23:36:04.424 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:36:04.424 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:36:04.424 DEBG applied server graves
+Mar 12 23:36:04.424 DEBG unchunked changes
+Mar 12 23:36:04.424 DEBG gathering local changes
+Mar 12 23:36:04.424 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:36:04.463 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:36:04.463 DEBG begin stream from server
+Mar 12 23:36:04.506 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:36:04.506 DEBG begin stream to server
+Mar 12 23:36:04.506 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:36:04.543 DEBG sanity check
+Mar 12 23:36:04.544 DEBG gathered local counts; waiting for server reply
+Mar 12 23:36:04.589 DEBG got server reply
+Mar 12 23:36:04.589 DEBG finalize
+Mar 12 23:37:33.957 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:37:33.957 DEBG skip check
+Mar 12 23:37:33.957 DEBG begin media sync
+Mar 12 23:37:33.957 DEBG fetching meta...
+Mar 12 23:37:34.130 DEBG server usn was 7924
+Mar 12 23:37:34.130 DEBG media sync complete
+Mar 12 23:37:34.469 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:37:57.632 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:37:57.632 DEBG skip check
+Mar 12 23:37:57.632 DEBG begin media sync
+Mar 12 23:37:57.632 DEBG fetching meta...
+Mar 12 23:37:57.921 DEBG server usn was 7924
+Mar 12 23:37:57.921 DEBG media sync complete
+Mar 12 23:37:58.657 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:38:01.794 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:38:01.794 DEBG skip check
+Mar 12 23:38:01.794 DEBG begin media sync
+Mar 12 23:38:01.795 DEBG fetching meta...
+Mar 12 23:38:01.921 DEBG server usn was 7924
+Mar 12 23:38:01.921 DEBG media sync complete
+Mar 12 23:38:02.441 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:38:23.184 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:38:23.184 DEBG skip check
+Mar 12 23:38:23.184 DEBG begin media sync
+Mar 12 23:38:23.184 DEBG fetching meta...
+Mar 12 23:38:23.714 DEBG server usn was 7924
+Mar 12 23:38:23.714 DEBG media sync complete
+Mar 12 23:38:23.882 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:38:36.862 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:38:36.862 DEBG skip check
+Mar 12 23:38:36.862 DEBG begin media sync
+Mar 12 23:38:36.862 DEBG fetching meta...
+Mar 12 23:38:36.969 DEBG server usn was 7924
+Mar 12 23:38:36.969 DEBG media sync complete
+Mar 12 23:38:37.041 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:38:48.192 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:38:48.192 DEBG skip check
+Mar 12 23:38:48.192 DEBG begin media sync
+Mar 12 23:38:48.192 DEBG fetching meta...
+Mar 12 23:38:48.308 DEBG server usn was 7924
+Mar 12 23:38:48.308 DEBG media sync complete
+Mar 12 23:38:48.388 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:39:00.734 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:39:00.734 DEBG skip check
+Mar 12 23:39:00.734 DEBG begin media sync
+Mar 12 23:39:00.734 DEBG fetching meta...
+Mar 12 23:39:00.862 DEBG server usn was 7924
+Mar 12 23:39:00.862 DEBG media sync complete
+Mar 12 23:39:01.385 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:39:08.352 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:39:08.352 DEBG skip check
+Mar 12 23:39:08.352 DEBG begin media sync
+Mar 12 23:39:08.353 DEBG fetching meta...
+Mar 12 23:39:08.455 DEBG server usn was 7924
+Mar 12 23:39:08.455 DEBG media sync complete
+Mar 12 23:39:08.859 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:39:23.336 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:39:23.337 DEBG skip check
+Mar 12 23:39:23.337 DEBG begin media sync
+Mar 12 23:39:23.337 DEBG fetching meta...
+Mar 12 23:39:23.484 DEBG server usn was 7924
+Mar 12 23:39:23.484 DEBG media sync complete
+Mar 12 23:39:23.701 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:39:47.619 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:39:47.619 DEBG skip check
+Mar 12 23:39:47.619 DEBG begin media sync
+Mar 12 23:39:47.620 DEBG fetching meta...
+Mar 12 23:39:47.724 DEBG server usn was 7924
+Mar 12 23:39:47.724 DEBG media sync complete
+Mar 12 23:39:47.793 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:40:07.732 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:40:07.732 DEBG skip check
+Mar 12 23:40:07.732 DEBG begin media sync
+Mar 12 23:40:07.733 DEBG fetching meta...
+Mar 12 23:40:07.840 DEBG server usn was 7924
+Mar 12 23:40:07.841 DEBG media sync complete
+Mar 12 23:40:07.999 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:40:35.024 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:40:35.024 DEBG skip check
+Mar 12 23:40:35.024 DEBG begin media sync
+Mar 12 23:40:35.024 DEBG fetching meta...
+Mar 12 23:40:35.137 DEBG server usn was 7924
+Mar 12 23:40:35.137 DEBG media sync complete
+Mar 12 23:40:35.189 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:41:00.432 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:41:00.432 DEBG skip check
+Mar 12 23:41:00.432 DEBG begin media sync
+Mar 12 23:41:00.432 DEBG fetching meta...
+Mar 12 23:41:00.522 DEBG server usn was 7924
+Mar 12 23:41:00.522 DEBG media sync complete
+Mar 12 23:41:00.977 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:41:09.259 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:41:09.259 DEBG skip check
+Mar 12 23:41:09.259 DEBG begin media sync
+Mar 12 23:41:09.259 DEBG fetching meta...
+Mar 12 23:41:09.364 DEBG server usn was 7924
+Mar 12 23:41:09.364 DEBG media sync complete
+Mar 12 23:41:09.431 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:41:13.098 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:41:13.098 DEBG skip check
+Mar 12 23:41:13.098 DEBG begin media sync
+Mar 12 23:41:13.098 DEBG fetching meta...
+Mar 12 23:41:13.223 DEBG server usn was 7924
+Mar 12 23:41:13.223 DEBG media sync complete
+Mar 12 23:41:13.352 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:41:27.382 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:41:27.382 DEBG skip check
+Mar 12 23:41:27.382 DEBG begin media sync
+Mar 12 23:41:27.382 DEBG fetching meta...
+Mar 12 23:41:27.482 DEBG server usn was 7924
+Mar 12 23:41:27.482 DEBG media sync complete
+Mar 12 23:41:27.924 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:41:33.041 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:41:33.041 DEBG skip check
+Mar 12 23:41:33.041 DEBG begin media sync
+Mar 12 23:41:33.042 DEBG fetching meta...
+Mar 12 23:41:33.228 DEBG server usn was 7924
+Mar 12 23:41:33.228 DEBG media sync complete
+Mar 12 23:41:33.505 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:41:50.825 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:41:50.825 DEBG skip check
+Mar 12 23:41:50.825 DEBG begin media sync
+Mar 12 23:41:50.826 DEBG fetching meta...
+Mar 12 23:41:50.934 DEBG server usn was 7924
+Mar 12 23:41:50.934 DEBG media sync complete
+Mar 12 23:41:51.108 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:42:13.749 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:42:13.749 DEBG skip check
+Mar 12 23:42:13.749 DEBG begin media sync
+Mar 12 23:42:13.749 DEBG fetching meta...
+Mar 12 23:42:13.898 DEBG server usn was 7924
+Mar 12 23:42:13.898 DEBG media sync complete
+Mar 12 23:42:14.390 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:43:06.056 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:43:06.056 DEBG skip check
+Mar 12 23:43:06.056 DEBG begin media sync
+Mar 12 23:43:06.056 DEBG fetching meta...
+Mar 12 23:43:06.158 DEBG server usn was 7924
+Mar 12 23:43:06.158 DEBG media sync complete
+Mar 12 23:43:06.415 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:43:30.228 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:43:30.228 DEBG skip check
+Mar 12 23:43:30.228 DEBG begin media sync
+Mar 12 23:43:30.228 DEBG fetching meta...
+Mar 12 23:43:30.341 DEBG server usn was 7924
+Mar 12 23:43:30.341 DEBG media sync complete
+Mar 12 23:43:30.447 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:43:40.349 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:43:40.349 DEBG skip check
+Mar 12 23:43:40.349 DEBG begin media sync
+Mar 12 23:43:40.349 DEBG fetching meta...
+Mar 12 23:43:40.470 DEBG server usn was 7924
+Mar 12 23:43:40.470 DEBG media sync complete
+Mar 12 23:43:40.659 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:43:48.562 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:43:48.563 DEBG skip check
+Mar 12 23:43:48.563 DEBG begin media sync
+Mar 12 23:43:48.563 DEBG fetching meta...
+Mar 12 23:43:48.661 DEBG server usn was 7924
+Mar 12 23:43:48.661 DEBG media sync complete
+Mar 12 23:43:49.031 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:44:11.336 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:44:11.336 DEBG skip check
+Mar 12 23:44:11.336 DEBG begin media sync
+Mar 12 23:44:11.336 DEBG fetching meta...
+Mar 12 23:44:11.547 DEBG server usn was 7924
+Mar 12 23:44:11.548 DEBG media sync complete
+Mar 12 23:44:11.627 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:44:27.572 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:44:27.572 DEBG skip check
+Mar 12 23:44:27.572 DEBG begin media sync
+Mar 12 23:44:27.572 DEBG fetching meta...
+Mar 12 23:44:28.137 DEBG server usn was 7924
+Mar 12 23:44:28.137 DEBG media sync complete
+Mar 12 23:44:28.232 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:44:32.103 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:44:32.103 DEBG skip check
+Mar 12 23:44:32.103 DEBG begin media sync
+Mar 12 23:44:32.103 DEBG fetching meta...
+Mar 12 23:44:32.278 DEBG server usn was 7924
+Mar 12 23:44:32.278 DEBG media sync complete
+Mar 12 23:44:32.370 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:44:43.507 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:44:43.507 DEBG skip check
+Mar 12 23:44:43.507 DEBG begin media sync
+Mar 12 23:44:43.508 DEBG fetching meta...
+Mar 12 23:44:43.742 DEBG server usn was 7924
+Mar 12 23:44:43.743 DEBG media sync complete
+Mar 12 23:44:43.828 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:45:15.524 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:45:15.524 DEBG skip check
+Mar 12 23:45:15.524 DEBG begin media sync
+Mar 12 23:45:15.524 DEBG fetching meta...
+Mar 12 23:45:15.832 DEBG server usn was 7924
+Mar 12 23:45:15.832 DEBG media sync complete
+Mar 12 23:45:15.936 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:45:26.604 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:45:26.604 DEBG skip check
+Mar 12 23:45:26.604 DEBG begin media sync
+Mar 12 23:45:26.604 DEBG fetching meta...
+Mar 12 23:45:26.762 DEBG server usn was 7924
+Mar 12 23:45:26.762 DEBG media sync complete
+Mar 12 23:45:26.845 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:45:48.751 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:45:48.751 DEBG skip check
+Mar 12 23:45:48.751 DEBG begin media sync
+Mar 12 23:45:48.752 DEBG fetching meta...
+Mar 12 23:45:48.863 DEBG server usn was 7924
+Mar 12 23:45:48.863 DEBG media sync complete
+Mar 12 23:45:48.968 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:46:29.552 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:46:29.552 DEBG skip check
+Mar 12 23:46:29.552 DEBG begin media sync
+Mar 12 23:46:29.552 DEBG fetching meta...
+Mar 12 23:46:29.663 DEBG server usn was 7924
+Mar 12 23:46:29.663 DEBG media sync complete
+Mar 12 23:46:29.730 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:46:41.743 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:46:41.743 DEBG skip check
+Mar 12 23:46:41.743 DEBG begin media sync
+Mar 12 23:46:41.744 DEBG fetching meta...
+Mar 12 23:46:41.853 DEBG server usn was 7924
+Mar 12 23:46:41.853 DEBG media sync complete
+Mar 12 23:46:41.935 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:47:05.915 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:47:05.915 DEBG skip check
+Mar 12 23:47:05.915 DEBG begin media sync
+Mar 12 23:47:05.915 DEBG fetching meta...
+Mar 12 23:47:06.052 DEBG server usn was 7924
+Mar 12 23:47:06.052 DEBG media sync complete
+Mar 12 23:47:06.125 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:47:22.090 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:47:22.090 DEBG skip check
+Mar 12 23:47:22.090 DEBG begin media sync
+Mar 12 23:47:22.091 DEBG fetching meta...
+Mar 12 23:47:22.223 DEBG server usn was 7924
+Mar 12 23:47:22.223 DEBG media sync complete
+Mar 12 23:47:22.360 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:47:38.159 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:47:38.159 DEBG skip check
+Mar 12 23:47:38.159 DEBG begin media sync
+Mar 12 23:47:38.159 DEBG fetching meta...
+Mar 12 23:47:38.268 DEBG server usn was 7924
+Mar 12 23:47:38.269 DEBG media sync complete
+Mar 12 23:47:38.354 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:48:27.486 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:48:27.486 DEBG skip check
+Mar 12 23:48:27.486 DEBG begin media sync
+Mar 12 23:48:27.486 DEBG fetching meta...
+Mar 12 23:48:28.073 DEBG server usn was 7924
+Mar 12 23:48:28.073 DEBG media sync complete
+Mar 12 23:48:28.239 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:48:34.108 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:48:34.108 DEBG skip check
+Mar 12 23:48:34.108 DEBG begin media sync
+Mar 12 23:48:34.108 DEBG fetching meta...
+Mar 12 23:48:34.681 DEBG server usn was 7924
+Mar 12 23:48:34.681 DEBG media sync complete
+Mar 12 23:48:34.806 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:48:58.490 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:48:58.490 DEBG skip check
+Mar 12 23:48:58.490 DEBG begin media sync
+Mar 12 23:48:58.490 DEBG fetching meta...
+Mar 12 23:48:58.584 DEBG server usn was 7924
+Mar 12 23:48:58.584 DEBG media sync complete
+Mar 12 23:48:58.703 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:49:16.509 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:49:16.510 DEBG skip check
+Mar 12 23:49:16.510 DEBG begin media sync
+Mar 12 23:49:16.510 DEBG fetching meta...
+Mar 12 23:49:16.629 DEBG server usn was 7924
+Mar 12 23:49:16.629 DEBG media sync complete
+Mar 12 23:49:16.689 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:49:37.950 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:49:37.950 DEBG skip check
+Mar 12 23:49:37.950 DEBG begin media sync
+Mar 12 23:49:37.950 DEBG fetching meta...
+Mar 12 23:49:38.053 DEBG server usn was 7924
+Mar 12 23:49:38.053 DEBG media sync complete
+Mar 12 23:49:38.126 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:50:11.270 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:50:11.270 DEBG skip check
+Mar 12 23:50:11.270 DEBG begin media sync
+Mar 12 23:50:11.270 DEBG fetching meta...
+Mar 12 23:50:11.396 DEBG server usn was 7924
+Mar 12 23:50:11.396 DEBG media sync complete
+Mar 12 23:50:11.475 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:51:16.667 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:51:16.667 DEBG skip check
+Mar 12 23:51:16.667 DEBG begin media sync
+Mar 12 23:51:16.667 DEBG fetching meta...
+Mar 12 23:51:16.776 DEBG server usn was 7924
+Mar 12 23:51:16.777 DEBG media sync complete
+Mar 12 23:51:16.881 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:51:23.543 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:51:23.543 DEBG skip check
+Mar 12 23:51:23.544 DEBG begin media sync
+Mar 12 23:51:23.544 DEBG fetching meta...
+Mar 12 23:51:23.657 DEBG server usn was 7924
+Mar 12 23:51:23.657 DEBG media sync complete
+Mar 12 23:51:23.729 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:52:55.358 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:52:55.359 DEBG skip check
+Mar 12 23:52:55.359 DEBG begin media sync
+Mar 12 23:52:55.359 DEBG fetching meta...
+Mar 12 23:52:55.576 DEBG server usn was 7924
+Mar 12 23:52:55.576 DEBG media sync complete
+Mar 12 23:52:55.689 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:53:56.642 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:53:56.642 DEBG skip check
+Mar 12 23:53:56.642 DEBG begin media sync
+Mar 12 23:53:56.645 DEBG fetching meta...
+Mar 12 23:53:56.836 DEBG server usn was 7924
+Mar 12 23:53:56.836 DEBG media sync complete
+Mar 12 23:53:56.947 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1178), latest_usn: Usn(1178), pending_usn: Usn(-1), new_usn: Some(Usn(1178)), server_message: "", host_number: 4 }
+Mar 12 23:53:56.947 DEBG start
+Mar 12 23:53:57.000 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:53:57.000 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:53:57.000 DEBG applied server graves
+Mar 12 23:53:57.000 DEBG unchunked changes
+Mar 12 23:53:57.000 DEBG gathering local changes
+Mar 12 23:53:57.000 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:53:57.044 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:53:57.044 DEBG begin stream from server
+Mar 12 23:53:57.099 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:53:57.099 DEBG begin stream to server
+Mar 12 23:53:57.099 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:53:57.146 DEBG sanity check
+Mar 12 23:53:57.147 DEBG gathered local counts; waiting for server reply
+Mar 12 23:53:57.195 DEBG got server reply
+Mar 12 23:53:57.195 DEBG finalize
+Mar 12 23:54:00.636 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:54:00.636 DEBG skip check
+Mar 12 23:54:00.636 DEBG begin media sync
+Mar 12 23:54:00.636 DEBG fetching meta...
+Mar 12 23:54:00.793 DEBG server usn was 7924
+Mar 12 23:54:00.793 DEBG media sync complete
+Mar 12 23:54:00.886 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1179), latest_usn: Usn(1179), pending_usn: Usn(-1), new_usn: Some(Usn(1179)), server_message: "", host_number: 4 }
+Mar 12 23:54:20.829 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:54:20.829 DEBG skip check
+Mar 12 23:54:20.829 DEBG begin media sync
+Mar 12 23:54:20.833 DEBG fetching meta...
+Mar 12 23:54:21.066 DEBG server usn was 7924
+Mar 12 23:54:21.066 DEBG media sync complete
+Mar 12 23:54:21.181 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1179), latest_usn: Usn(1179), pending_usn: Usn(-1), new_usn: Some(Usn(1179)), server_message: "", host_number: 4 }
+Mar 12 23:54:21.181 DEBG start
+Mar 12 23:54:21.295 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 12 23:54:21.295 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 12 23:54:21.295 DEBG applied server graves
+Mar 12 23:54:21.295 DEBG unchunked changes
+Mar 12 23:54:21.295 DEBG gathering local changes
+Mar 12 23:54:21.295 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:54:21.412 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 12 23:54:21.412 DEBG begin stream from server
+Mar 12 23:54:21.560 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:54:21.560 DEBG begin stream to server
+Mar 12 23:54:21.560 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 12 23:54:21.636 DEBG sanity check
+Mar 12 23:54:21.637 DEBG gathered local counts; waiting for server reply
+Mar 12 23:54:21.733 DEBG got server reply
+Mar 12 23:54:21.733 DEBG finalize
+Mar 12 23:54:25.080 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 12 23:54:25.080 DEBG skip check
+Mar 12 23:54:25.080 DEBG begin media sync
+Mar 12 23:54:25.080 DEBG fetching meta...
+Mar 12 23:54:25.269 DEBG server usn was 7924
+Mar 12 23:54:25.269 DEBG media sync complete
+Mar 12 23:54:25.353 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1180), latest_usn: Usn(1180), pending_usn: Usn(-1), new_usn: Some(Usn(1180)), server_message: "", host_number: 4 }
+Mar 13 08:48:17.422 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 08:48:17.422 DEBG skip check
+Mar 13 08:48:17.422 DEBG begin media sync
+Mar 13 08:48:17.422 DEBG fetching meta...
+Mar 13 08:48:17.622 DEBG server usn was 7924
+Mar 13 08:48:17.622 DEBG media sync complete
+Mar 13 08:48:17.707 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1180), latest_usn: Usn(1180), pending_usn: Usn(-1), new_usn: Some(Usn(1180)), server_message: "", host_number: 4 }
+Mar 13 08:48:17.707 DEBG start
+Mar 13 08:48:17.750 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 08:48:17.750 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 08:48:17.750 DEBG applied server graves
+Mar 13 08:48:17.750 DEBG unchunked changes
+Mar 13 08:48:17.750 DEBG gathering local changes
+Mar 13 08:48:17.750 DEBG sending, tags: 0, deck config: 0, decks: 2, notetypes: 0
+Mar 13 08:48:17.792 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 08:48:17.792 DEBG begin stream from server
+Mar 13 08:48:17.828 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 08:48:17.828 DEBG begin stream to server
+Mar 13 08:48:17.829 DEBG sending, revlog: 67, notes: 0, cards: 62, done: true
+Mar 13 08:48:17.871 DEBG sanity check
+Mar 13 08:48:17.872 DEBG gathered local counts; waiting for server reply
+Mar 13 08:48:17.910 DEBG got server reply
+Mar 13 08:48:17.910 DEBG finalize
+Mar 13 14:22:41.604 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 14:22:41.604 DEBG fetching meta...
+Mar 13 14:22:41.604 DEBG skip check
+Mar 13 14:22:41.604 DEBG begin media sync
+Mar 13 14:22:41.943 DEBG server usn was 7924
+Mar 13 14:22:41.943 DEBG media sync complete
+Mar 13 14:22:42.061 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1181), latest_usn: Usn(1181), pending_usn: Usn(-1), new_usn: Some(Usn(1181)), server_message: "", host_number: 4 }
+Mar 13 14:22:42.061 DEBG start
+Mar 13 14:22:42.114 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 14:22:42.114 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 14:22:42.114 DEBG applied server graves
+Mar 13 14:22:42.114 DEBG unchunked changes
+Mar 13 14:22:42.114 DEBG gathering local changes
+Mar 13 14:22:42.114 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 14:22:42.167 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 14:22:42.167 DEBG begin stream from server
+Mar 13 14:22:42.232 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 14:22:42.232 DEBG begin stream to server
+Mar 13 14:22:42.233 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 14:22:42.274 DEBG sanity check
+Mar 13 14:22:42.278 DEBG gathered local counts; waiting for server reply
+Mar 13 14:22:42.335 DEBG got server reply
+Mar 13 14:22:42.335 DEBG finalize
+Mar 13 14:28:50.471 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 14:28:50.471 DEBG skip check
+Mar 13 14:28:50.471 DEBG begin media sync
+Mar 13 14:28:50.472 DEBG fetching meta...
+Mar 13 14:28:50.827 DEBG server usn was 7924
+Mar 13 14:28:50.827 DEBG media sync complete
+Mar 13 14:28:50.965 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1182), latest_usn: Usn(1182), pending_usn: Usn(-1), new_usn: Some(Usn(1182)), server_message: "", host_number: 4 }
+Mar 13 14:35:57.532 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 14:35:57.532 DEBG skip check
+Mar 13 14:35:57.532 DEBG begin media sync
+Mar 13 14:35:57.533 DEBG fetching meta...
+Mar 13 14:35:57.691 DEBG server usn was 7924
+Mar 13 14:35:57.691 DEBG media sync complete
+Mar 13 14:35:57.811 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1182), latest_usn: Usn(1182), pending_usn: Usn(-1), new_usn: Some(Usn(1182)), server_message: "", host_number: 4 }
+Mar 13 17:07:39.393 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:07:39.393 DEBG skip check
+Mar 13 17:07:39.393 DEBG begin media sync
+Mar 13 17:07:39.393 DEBG fetching meta...
+Mar 13 17:07:39.530 DEBG server usn was 7924
+Mar 13 17:07:39.530 DEBG media sync complete
+Mar 13 17:07:39.604 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1182), latest_usn: Usn(1182), pending_usn: Usn(-1), new_usn: Some(Usn(1182)), server_message: "", host_number: 4 }
+Mar 13 17:07:39.604 DEBG start
+Mar 13 17:07:39.642 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:07:39.642 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:07:39.642 DEBG applied server graves
+Mar 13 17:07:39.642 DEBG unchunked changes
+Mar 13 17:07:39.642 DEBG gathering local changes
+Mar 13 17:07:39.642 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 1
+Mar 13 17:07:39.681 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:07:39.681 DEBG begin stream from server
+Mar 13 17:07:39.731 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:07:39.731 DEBG begin stream to server
+Mar 13 17:07:39.732 DEBG sending, revlog: 0, notes: 2, cards: 1, done: true
+Mar 13 17:07:39.780 DEBG sanity check
+Mar 13 17:07:39.781 DEBG gathered local counts; waiting for server reply
+Mar 13 17:07:39.814 DEBG got server reply
+Mar 13 17:07:39.814 DEBG finalize
+Mar 13 17:12:17.278 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:12:17.278 DEBG skip check
+Mar 13 17:12:17.278 DEBG begin media sync
+Mar 13 17:12:17.278 DEBG fetching meta...
+Mar 13 17:12:17.429 DEBG server usn was 7924
+Mar 13 17:12:17.429 DEBG media sync complete
+Mar 13 17:12:17.525 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1183), latest_usn: Usn(1183), pending_usn: Usn(-1), new_usn: Some(Usn(1183)), server_message: "", host_number: 4 }
+Mar 13 17:15:54.756 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:15:54.756 DEBG skip check
+Mar 13 17:15:54.756 DEBG begin media sync
+Mar 13 17:15:54.762 DEBG fetching meta...
+Mar 13 17:15:54.903 DEBG server usn was 7924
+Mar 13 17:15:54.903 DEBG media sync complete
+Mar 13 17:15:55.022 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1183), latest_usn: Usn(1183), pending_usn: Usn(-1), new_usn: Some(Usn(1183)), server_message: "", host_number: 4 }
+Mar 13 17:15:55.022 DEBG start
+Mar 13 17:15:55.061 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:15:55.061 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:15:55.061 DEBG applied server graves
+Mar 13 17:15:55.061 DEBG unchunked changes
+Mar 13 17:15:55.061 DEBG gathering local changes
+Mar 13 17:15:55.061 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:15:55.111 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:15:55.111 DEBG begin stream from server
+Mar 13 17:15:55.151 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:15:55.151 DEBG begin stream to server
+Mar 13 17:15:55.151 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:15:55.194 DEBG sanity check
+Mar 13 17:15:55.194 DEBG gathered local counts; waiting for server reply
+Mar 13 17:15:55.234 DEBG got server reply
+Mar 13 17:15:55.234 DEBG finalize
+Mar 13 17:16:19.919 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:16:19.919 DEBG skip check
+Mar 13 17:16:19.919 DEBG begin media sync
+Mar 13 17:16:19.920 DEBG fetching meta...
+Mar 13 17:16:20.102 DEBG server usn was 7924
+Mar 13 17:16:20.102 DEBG media sync complete
+Mar 13 17:16:20.190 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1184), latest_usn: Usn(1184), pending_usn: Usn(-1), new_usn: Some(Usn(1184)), server_message: "", host_number: 4 }
+Mar 13 17:18:08.615 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:18:08.615 DEBG skip check
+Mar 13 17:18:08.615 DEBG begin media sync
+Mar 13 17:18:08.618 DEBG fetching meta...
+Mar 13 17:18:08.729 DEBG server usn was 7924
+Mar 13 17:18:08.729 DEBG media sync complete
+Mar 13 17:18:08.804 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1184), latest_usn: Usn(1184), pending_usn: Usn(-1), new_usn: Some(Usn(1184)), server_message: "", host_number: 4 }
+Mar 13 17:18:08.804 DEBG start
+Mar 13 17:18:08.842 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:18:08.842 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:18:08.842 DEBG applied server graves
+Mar 13 17:18:08.842 DEBG unchunked changes
+Mar 13 17:18:08.842 DEBG gathering local changes
+Mar 13 17:18:08.842 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:18:08.880 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:18:08.880 DEBG begin stream from server
+Mar 13 17:18:08.921 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:18:08.921 DEBG begin stream to server
+Mar 13 17:18:08.921 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:18:08.957 DEBG sanity check
+Mar 13 17:18:08.958 DEBG gathered local counts; waiting for server reply
+Mar 13 17:18:08.991 DEBG got server reply
+Mar 13 17:18:08.991 DEBG finalize
+Mar 13 17:18:12.445 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:18:12.445 DEBG skip check
+Mar 13 17:18:12.445 DEBG begin media sync
+Mar 13 17:18:12.446 DEBG fetching meta...
+Mar 13 17:18:12.583 DEBG server usn was 7924
+Mar 13 17:18:12.583 DEBG media sync complete
+Mar 13 17:18:12.666 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1185), latest_usn: Usn(1185), pending_usn: Usn(-1), new_usn: Some(Usn(1185)), server_message: "", host_number: 4 }
+Mar 13 17:20:41.559 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:20:41.559 DEBG skip check
+Mar 13 17:20:41.559 DEBG begin media sync
+Mar 13 17:20:41.562 DEBG fetching meta...
+Mar 13 17:20:41.691 DEBG server usn was 7924
+Mar 13 17:20:41.691 DEBG media sync complete
+Mar 13 17:20:41.777 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1185), latest_usn: Usn(1185), pending_usn: Usn(-1), new_usn: Some(Usn(1185)), server_message: "", host_number: 4 }
+Mar 13 17:20:41.777 DEBG start
+Mar 13 17:20:41.821 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:20:41.821 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:20:41.821 DEBG applied server graves
+Mar 13 17:20:41.821 DEBG unchunked changes
+Mar 13 17:20:41.821 DEBG gathering local changes
+Mar 13 17:20:41.821 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:20:41.869 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:20:41.869 DEBG begin stream from server
+Mar 13 17:20:41.910 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:20:41.910 DEBG begin stream to server
+Mar 13 17:20:41.910 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:20:41.945 DEBG sanity check
+Mar 13 17:20:41.945 DEBG gathered local counts; waiting for server reply
+Mar 13 17:20:42.002 DEBG got server reply
+Mar 13 17:20:42.002 DEBG finalize
+Mar 13 17:20:45.126 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:20:45.126 DEBG skip check
+Mar 13 17:20:45.126 DEBG begin media sync
+Mar 13 17:20:45.127 DEBG fetching meta...
+Mar 13 17:20:45.285 DEBG server usn was 7924
+Mar 13 17:20:45.285 DEBG media sync complete
+Mar 13 17:20:45.366 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1186), latest_usn: Usn(1186), pending_usn: Usn(-1), new_usn: Some(Usn(1186)), server_message: "", host_number: 4 }
+Mar 13 17:20:55.640 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:20:55.640 DEBG skip check
+Mar 13 17:20:55.640 DEBG begin media sync
+Mar 13 17:20:55.643 DEBG fetching meta...
+Mar 13 17:20:55.771 DEBG server usn was 7924
+Mar 13 17:20:55.771 DEBG media sync complete
+Mar 13 17:20:55.863 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1186), latest_usn: Usn(1186), pending_usn: Usn(-1), new_usn: Some(Usn(1186)), server_message: "", host_number: 4 }
+Mar 13 17:20:55.863 DEBG start
+Mar 13 17:20:55.908 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:20:55.908 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:20:55.908 DEBG applied server graves
+Mar 13 17:20:55.908 DEBG unchunked changes
+Mar 13 17:20:55.908 DEBG gathering local changes
+Mar 13 17:20:55.909 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:20:55.979 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:20:55.979 DEBG begin stream from server
+Mar 13 17:20:56.022 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:20:56.022 DEBG begin stream to server
+Mar 13 17:20:56.022 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:20:56.071 DEBG sanity check
+Mar 13 17:20:56.072 DEBG gathered local counts; waiting for server reply
+Mar 13 17:20:56.113 DEBG got server reply
+Mar 13 17:20:56.113 DEBG finalize
+Mar 13 17:22:03.312 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:22:03.313 DEBG skip check
+Mar 13 17:22:03.313 DEBG begin media sync
+Mar 13 17:22:03.313 DEBG fetching meta...
+Mar 13 17:22:03.444 DEBG server usn was 7924
+Mar 13 17:22:03.444 DEBG media sync complete
+Mar 13 17:22:03.521 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1187), latest_usn: Usn(1187), pending_usn: Usn(-1), new_usn: Some(Usn(1187)), server_message: "", host_number: 4 }
+Mar 13 17:22:26.138 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:22:26.138 DEBG skip check
+Mar 13 17:22:26.138 DEBG begin media sync
+Mar 13 17:22:26.143 DEBG fetching meta...
+Mar 13 17:22:26.277 DEBG server usn was 7924
+Mar 13 17:22:26.278 DEBG media sync complete
+Mar 13 17:22:26.353 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1187), latest_usn: Usn(1187), pending_usn: Usn(-1), new_usn: Some(Usn(1187)), server_message: "", host_number: 4 }
+Mar 13 17:22:26.353 DEBG start
+Mar 13 17:22:26.397 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:22:26.397 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:22:26.397 DEBG applied server graves
+Mar 13 17:22:26.397 DEBG unchunked changes
+Mar 13 17:22:26.397 DEBG gathering local changes
+Mar 13 17:22:26.398 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:22:26.439 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:22:26.439 DEBG begin stream from server
+Mar 13 17:22:26.474 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:22:26.474 DEBG begin stream to server
+Mar 13 17:22:26.474 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:22:26.508 DEBG sanity check
+Mar 13 17:22:26.509 DEBG gathered local counts; waiting for server reply
+Mar 13 17:22:26.595 DEBG got server reply
+Mar 13 17:22:26.596 DEBG finalize
+Mar 13 17:22:29.709 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:22:29.709 DEBG skip check
+Mar 13 17:22:29.709 DEBG begin media sync
+Mar 13 17:22:29.709 DEBG fetching meta...
+Mar 13 17:22:29.822 DEBG server usn was 7924
+Mar 13 17:22:29.822 DEBG media sync complete
+Mar 13 17:22:29.914 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1188), latest_usn: Usn(1188), pending_usn: Usn(-1), new_usn: Some(Usn(1188)), server_message: "", host_number: 4 }
+Mar 13 17:22:55.935 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:22:55.935 DEBG skip check
+Mar 13 17:22:55.935 DEBG begin media sync
+Mar 13 17:22:55.940 DEBG fetching meta...
+Mar 13 17:22:56.062 DEBG server usn was 7924
+Mar 13 17:22:56.062 DEBG media sync complete
+Mar 13 17:22:56.182 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1188), latest_usn: Usn(1188), pending_usn: Usn(-1), new_usn: Some(Usn(1188)), server_message: "", host_number: 4 }
+Mar 13 17:22:56.182 DEBG start
+Mar 13 17:22:56.237 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:22:56.237 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:22:56.237 DEBG applied server graves
+Mar 13 17:22:56.237 DEBG unchunked changes
+Mar 13 17:22:56.237 DEBG gathering local changes
+Mar 13 17:22:56.237 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:22:56.284 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:22:56.284 DEBG begin stream from server
+Mar 13 17:22:56.331 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:22:56.331 DEBG begin stream to server
+Mar 13 17:22:56.331 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:22:56.387 DEBG sanity check
+Mar 13 17:22:56.388 DEBG gathered local counts; waiting for server reply
+Mar 13 17:22:56.434 DEBG got server reply
+Mar 13 17:22:56.434 DEBG finalize
+Mar 13 17:22:59.602 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:22:59.602 DEBG skip check
+Mar 13 17:22:59.602 DEBG begin media sync
+Mar 13 17:22:59.603 DEBG fetching meta...
+Mar 13 17:22:59.728 DEBG server usn was 7924
+Mar 13 17:22:59.728 DEBG media sync complete
+Mar 13 17:22:59.797 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1189), latest_usn: Usn(1189), pending_usn: Usn(-1), new_usn: Some(Usn(1189)), server_message: "", host_number: 4 }
+Mar 13 17:24:11.263 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:24:11.263 DEBG skip check
+Mar 13 17:24:11.263 DEBG begin media sync
+Mar 13 17:24:11.268 DEBG fetching meta...
+Mar 13 17:24:11.396 DEBG server usn was 7924
+Mar 13 17:24:11.396 DEBG media sync complete
+Mar 13 17:24:11.520 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1189), latest_usn: Usn(1189), pending_usn: Usn(-1), new_usn: Some(Usn(1189)), server_message: "", host_number: 4 }
+Mar 13 17:24:11.520 DEBG start
+Mar 13 17:24:11.559 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:24:11.559 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:24:11.559 DEBG applied server graves
+Mar 13 17:24:11.559 DEBG unchunked changes
+Mar 13 17:24:11.559 DEBG gathering local changes
+Mar 13 17:24:11.559 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:24:11.597 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:24:11.597 DEBG begin stream from server
+Mar 13 17:24:11.641 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:24:11.641 DEBG begin stream to server
+Mar 13 17:24:11.641 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:24:11.686 DEBG sanity check
+Mar 13 17:24:11.687 DEBG gathered local counts; waiting for server reply
+Mar 13 17:24:11.774 DEBG got server reply
+Mar 13 17:24:11.774 DEBG finalize
+Mar 13 17:24:14.940 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:24:14.941 DEBG skip check
+Mar 13 17:24:14.941 DEBG begin media sync
+Mar 13 17:24:14.942 DEBG fetching meta...
+Mar 13 17:24:15.059 DEBG server usn was 7924
+Mar 13 17:24:15.059 DEBG media sync complete
+Mar 13 17:24:15.167 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1190), latest_usn: Usn(1190), pending_usn: Usn(-1), new_usn: Some(Usn(1190)), server_message: "", host_number: 4 }
+Mar 13 17:24:58.709 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:24:58.709 DEBG skip check
+Mar 13 17:24:58.709 DEBG begin media sync
+Mar 13 17:24:58.714 DEBG fetching meta...
+Mar 13 17:24:58.815 DEBG server usn was 7924
+Mar 13 17:24:58.815 DEBG media sync complete
+Mar 13 17:24:58.918 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1190), latest_usn: Usn(1190), pending_usn: Usn(-1), new_usn: Some(Usn(1190)), server_message: "", host_number: 4 }
+Mar 13 17:24:58.918 DEBG start
+Mar 13 17:24:58.962 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:24:58.962 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:24:58.962 DEBG applied server graves
+Mar 13 17:24:58.962 DEBG unchunked changes
+Mar 13 17:24:58.962 DEBG gathering local changes
+Mar 13 17:24:58.962 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:24:58.998 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:24:58.998 DEBG begin stream from server
+Mar 13 17:24:59.037 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:24:59.037 DEBG begin stream to server
+Mar 13 17:24:59.038 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:24:59.073 DEBG sanity check
+Mar 13 17:24:59.074 DEBG gathered local counts; waiting for server reply
+Mar 13 17:24:59.111 DEBG got server reply
+Mar 13 17:24:59.111 DEBG finalize
+Mar 13 17:25:02.404 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:25:02.404 DEBG skip check
+Mar 13 17:25:02.404 DEBG begin media sync
+Mar 13 17:25:02.405 DEBG fetching meta...
+Mar 13 17:25:02.525 DEBG server usn was 7924
+Mar 13 17:25:02.525 DEBG media sync complete
+Mar 13 17:25:02.627 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1191), latest_usn: Usn(1191), pending_usn: Usn(-1), new_usn: Some(Usn(1191)), server_message: "", host_number: 4 }
+Mar 13 17:25:20.236 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:25:20.236 DEBG skip check
+Mar 13 17:25:20.237 DEBG begin media sync
+Mar 13 17:25:20.240 DEBG fetching meta...
+Mar 13 17:25:20.386 DEBG server usn was 7924
+Mar 13 17:25:20.386 DEBG media sync complete
+Mar 13 17:25:20.503 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1191), latest_usn: Usn(1191), pending_usn: Usn(-1), new_usn: Some(Usn(1191)), server_message: "", host_number: 4 }
+Mar 13 17:25:20.503 DEBG start
+Mar 13 17:25:20.546 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:25:20.546 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:25:20.546 DEBG applied server graves
+Mar 13 17:25:20.546 DEBG unchunked changes
+Mar 13 17:25:20.546 DEBG gathering local changes
+Mar 13 17:25:20.546 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:25:20.591 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:25:20.591 DEBG begin stream from server
+Mar 13 17:25:20.641 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:25:20.641 DEBG begin stream to server
+Mar 13 17:25:20.641 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:25:20.680 DEBG sanity check
+Mar 13 17:25:20.681 DEBG gathered local counts; waiting for server reply
+Mar 13 17:25:20.731 DEBG got server reply
+Mar 13 17:25:20.731 DEBG finalize
+Mar 13 17:25:42.737 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:25:42.737 DEBG skip check
+Mar 13 17:25:42.737 DEBG begin media sync
+Mar 13 17:25:42.737 DEBG fetching meta...
+Mar 13 17:25:42.880 DEBG server usn was 7924
+Mar 13 17:25:42.880 DEBG media sync complete
+Mar 13 17:25:42.951 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1192), latest_usn: Usn(1192), pending_usn: Usn(-1), new_usn: Some(Usn(1192)), server_message: "", host_number: 4 }
+Mar 13 17:25:55.288 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:25:55.288 DEBG skip check
+Mar 13 17:25:55.288 DEBG begin media sync
+Mar 13 17:25:55.291 DEBG fetching meta...
+Mar 13 17:25:55.406 DEBG server usn was 7924
+Mar 13 17:25:55.406 DEBG media sync complete
+Mar 13 17:25:55.489 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1192), latest_usn: Usn(1192), pending_usn: Usn(-1), new_usn: Some(Usn(1192)), server_message: "", host_number: 4 }
+Mar 13 17:25:55.490 DEBG start
+Mar 13 17:25:55.536 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:25:55.536 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:25:55.536 DEBG applied server graves
+Mar 13 17:25:55.536 DEBG unchunked changes
+Mar 13 17:25:55.536 DEBG gathering local changes
+Mar 13 17:25:55.536 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:25:55.576 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:25:55.576 DEBG begin stream from server
+Mar 13 17:25:55.607 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:25:55.607 DEBG begin stream to server
+Mar 13 17:25:55.608 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:25:55.640 DEBG sanity check
+Mar 13 17:25:55.641 DEBG gathered local counts; waiting for server reply
+Mar 13 17:25:55.679 DEBG got server reply
+Mar 13 17:25:55.679 DEBG finalize
+Mar 13 17:26:06.728 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:26:06.728 DEBG skip check
+Mar 13 17:26:06.728 DEBG begin media sync
+Mar 13 17:26:06.728 DEBG fetching meta...
+Mar 13 17:26:06.953 DEBG server usn was 7924
+Mar 13 17:26:06.953 DEBG media sync complete
+Mar 13 17:26:06.974 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1193), latest_usn: Usn(1193), pending_usn: Usn(-1), new_usn: Some(Usn(1193)), server_message: "", host_number: 4 }
+Mar 13 17:27:25.738 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:27:25.739 DEBG skip check
+Mar 13 17:27:25.739 DEBG begin media sync
+Mar 13 17:27:25.741 DEBG fetching meta...
+Mar 13 17:27:25.857 DEBG server usn was 7924
+Mar 13 17:27:25.857 DEBG media sync complete
+Mar 13 17:27:25.944 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1193), latest_usn: Usn(1193), pending_usn: Usn(-1), new_usn: Some(Usn(1193)), server_message: "", host_number: 4 }
+Mar 13 17:27:25.944 DEBG start
+Mar 13 17:27:25.983 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:27:25.983 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:27:25.983 DEBG applied server graves
+Mar 13 17:27:25.983 DEBG unchunked changes
+Mar 13 17:27:25.983 DEBG gathering local changes
+Mar 13 17:27:25.983 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:27:26.019 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:27:26.019 DEBG begin stream from server
+Mar 13 17:27:26.065 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:27:26.065 DEBG begin stream to server
+Mar 13 17:27:26.065 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:27:26.105 DEBG sanity check
+Mar 13 17:27:26.106 DEBG gathered local counts; waiting for server reply
+Mar 13 17:27:26.145 DEBG got server reply
+Mar 13 17:27:26.145 DEBG finalize
+Mar 13 17:27:30.243 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:27:30.243 DEBG skip check
+Mar 13 17:27:30.243 DEBG begin media sync
+Mar 13 17:27:30.244 DEBG fetching meta...
+Mar 13 17:27:30.391 DEBG server usn was 7924
+Mar 13 17:27:30.391 DEBG media sync complete
+Mar 13 17:27:30.464 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1194), latest_usn: Usn(1194), pending_usn: Usn(-1), new_usn: Some(Usn(1194)), server_message: "", host_number: 4 }
+Mar 13 17:27:41.922 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:27:41.922 DEBG skip check
+Mar 13 17:27:41.922 DEBG begin media sync
+Mar 13 17:27:41.929 DEBG fetching meta...
+Mar 13 17:27:42.142 DEBG server usn was 7924
+Mar 13 17:27:42.142 DEBG media sync complete
+Mar 13 17:27:42.245 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1194), latest_usn: Usn(1194), pending_usn: Usn(-1), new_usn: Some(Usn(1194)), server_message: "", host_number: 4 }
+Mar 13 17:27:42.245 DEBG start
+Mar 13 17:27:42.307 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:27:42.307 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:27:42.307 DEBG applied server graves
+Mar 13 17:27:42.307 DEBG unchunked changes
+Mar 13 17:27:42.307 DEBG gathering local changes
+Mar 13 17:27:42.307 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:27:42.360 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:27:42.360 DEBG begin stream from server
+Mar 13 17:27:42.412 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:27:42.412 DEBG begin stream to server
+Mar 13 17:27:42.413 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:27:42.455 DEBG sanity check
+Mar 13 17:27:42.456 DEBG gathered local counts; waiting for server reply
+Mar 13 17:27:42.501 DEBG got server reply
+Mar 13 17:27:42.501 DEBG finalize
+Mar 13 17:28:12.142 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:28:12.142 DEBG skip check
+Mar 13 17:28:12.142 DEBG begin media sync
+Mar 13 17:28:12.143 DEBG fetching meta...
+Mar 13 17:28:12.344 DEBG server usn was 7924
+Mar 13 17:28:12.344 DEBG media sync complete
+Mar 13 17:28:12.396 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1195), latest_usn: Usn(1195), pending_usn: Usn(-1), new_usn: Some(Usn(1195)), server_message: "", host_number: 4 }
+Mar 13 17:28:18.310 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:28:18.310 DEBG skip check
+Mar 13 17:28:18.310 DEBG begin media sync
+Mar 13 17:28:18.313 DEBG fetching meta...
+Mar 13 17:28:18.430 DEBG server usn was 7924
+Mar 13 17:28:18.430 DEBG media sync complete
+Mar 13 17:28:18.503 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1195), latest_usn: Usn(1195), pending_usn: Usn(-1), new_usn: Some(Usn(1195)), server_message: "", host_number: 4 }
+Mar 13 17:28:18.503 DEBG start
+Mar 13 17:28:18.536 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:28:18.536 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:28:18.537 DEBG applied server graves
+Mar 13 17:28:18.537 DEBG unchunked changes
+Mar 13 17:28:18.537 DEBG gathering local changes
+Mar 13 17:28:18.537 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:28:18.589 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:28:18.589 DEBG begin stream from server
+Mar 13 17:28:18.623 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:28:18.623 DEBG begin stream to server
+Mar 13 17:28:18.623 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:28:18.657 DEBG sanity check
+Mar 13 17:28:18.658 DEBG gathered local counts; waiting for server reply
+Mar 13 17:28:18.694 DEBG got server reply
+Mar 13 17:28:18.694 DEBG finalize
+Mar 13 17:28:37.338 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:28:37.339 DEBG skip check
+Mar 13 17:28:37.339 DEBG begin media sync
+Mar 13 17:28:37.339 DEBG fetching meta...
+Mar 13 17:28:37.484 DEBG server usn was 7924
+Mar 13 17:28:37.484 DEBG media sync complete
+Mar 13 17:28:37.562 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1196), latest_usn: Usn(1196), pending_usn: Usn(-1), new_usn: Some(Usn(1196)), server_message: "", host_number: 4 }
+Mar 13 17:31:17.563 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:31:17.563 DEBG skip check
+Mar 13 17:31:17.563 DEBG begin media sync
+Mar 13 17:31:17.566 DEBG fetching meta...
+Mar 13 17:31:17.762 DEBG server usn was 7924
+Mar 13 17:31:17.762 DEBG media sync complete
+Mar 13 17:31:17.855 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1196), latest_usn: Usn(1196), pending_usn: Usn(-1), new_usn: Some(Usn(1196)), server_message: "", host_number: 4 }
+Mar 13 17:31:17.856 DEBG start
+Mar 13 17:31:17.904 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:31:17.904 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:31:17.904 DEBG applied server graves
+Mar 13 17:31:17.904 DEBG unchunked changes
+Mar 13 17:31:17.904 DEBG gathering local changes
+Mar 13 17:31:17.904 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:31:17.949 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:31:17.949 DEBG begin stream from server
+Mar 13 17:31:17.990 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:31:17.990 DEBG begin stream to server
+Mar 13 17:31:17.990 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:31:18.037 DEBG sanity check
+Mar 13 17:31:18.038 DEBG gathered local counts; waiting for server reply
+Mar 13 17:31:18.106 DEBG got server reply
+Mar 13 17:31:18.106 DEBG finalize
+Mar 13 17:31:21.070 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:31:21.070 DEBG skip check
+Mar 13 17:31:21.070 DEBG begin media sync
+Mar 13 17:31:21.071 DEBG fetching meta...
+Mar 13 17:31:21.215 DEBG server usn was 7924
+Mar 13 17:31:21.215 DEBG media sync complete
+Mar 13 17:31:21.302 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1197), latest_usn: Usn(1197), pending_usn: Usn(-1), new_usn: Some(Usn(1197)), server_message: "", host_number: 4 }
+Mar 13 17:33:52.393 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:33:52.393 DEBG skip check
+Mar 13 17:33:52.393 DEBG begin media sync
+Mar 13 17:33:52.394 DEBG fetching meta...
+Mar 13 17:33:52.525 DEBG server usn was 7924
+Mar 13 17:33:52.525 DEBG media sync complete
+Mar 13 17:33:52.596 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1197), latest_usn: Usn(1197), pending_usn: Usn(-1), new_usn: Some(Usn(1197)), server_message: "", host_number: 4 }
+Mar 13 17:33:52.596 DEBG start
+Mar 13 17:33:52.649 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:33:52.649 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:33:52.649 DEBG applied server graves
+Mar 13 17:33:52.649 DEBG unchunked changes
+Mar 13 17:33:52.649 DEBG gathering local changes
+Mar 13 17:33:52.650 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:33:52.688 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:33:52.688 DEBG begin stream from server
+Mar 13 17:33:52.749 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:33:52.749 DEBG begin stream to server
+Mar 13 17:33:52.749 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:33:52.784 DEBG sanity check
+Mar 13 17:33:52.785 DEBG gathered local counts; waiting for server reply
+Mar 13 17:33:52.838 DEBG got server reply
+Mar 13 17:33:52.838 DEBG finalize
+Mar 13 17:33:56.110 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:33:56.110 DEBG skip check
+Mar 13 17:33:56.110 DEBG begin media sync
+Mar 13 17:33:56.111 DEBG fetching meta...
+Mar 13 17:33:56.280 DEBG server usn was 7924
+Mar 13 17:33:56.280 DEBG media sync complete
+Mar 13 17:33:56.332 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1198), latest_usn: Usn(1198), pending_usn: Usn(-1), new_usn: Some(Usn(1198)), server_message: "", host_number: 4 }
+Mar 13 17:34:39.406 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:34:39.406 DEBG skip check
+Mar 13 17:34:39.406 DEBG begin media sync
+Mar 13 17:34:39.410 DEBG fetching meta...
+Mar 13 17:34:39.545 DEBG server usn was 7924
+Mar 13 17:34:39.545 DEBG media sync complete
+Mar 13 17:34:39.630 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1198), latest_usn: Usn(1198), pending_usn: Usn(-1), new_usn: Some(Usn(1198)), server_message: "", host_number: 4 }
+Mar 13 17:34:39.630 DEBG start
+Mar 13 17:34:39.678 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:34:39.678 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:34:39.678 DEBG applied server graves
+Mar 13 17:34:39.678 DEBG unchunked changes
+Mar 13 17:34:39.678 DEBG gathering local changes
+Mar 13 17:34:39.678 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:34:39.769 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:34:39.769 DEBG begin stream from server
+Mar 13 17:34:39.815 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:34:39.815 DEBG begin stream to server
+Mar 13 17:34:39.815 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:34:39.859 DEBG sanity check
+Mar 13 17:34:39.860 DEBG gathered local counts; waiting for server reply
+Mar 13 17:34:39.909 DEBG got server reply
+Mar 13 17:34:39.909 DEBG finalize
+Mar 13 17:34:42.995 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:34:42.996 DEBG skip check
+Mar 13 17:34:42.996 DEBG begin media sync
+Mar 13 17:34:42.996 DEBG fetching meta...
+Mar 13 17:34:43.192 DEBG server usn was 7924
+Mar 13 17:34:43.193 DEBG media sync complete
+Mar 13 17:34:43.273 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1199), latest_usn: Usn(1199), pending_usn: Usn(-1), new_usn: Some(Usn(1199)), server_message: "", host_number: 4 }
+Mar 13 17:35:05.704 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:35:05.704 DEBG skip check
+Mar 13 17:35:05.704 DEBG begin media sync
+Mar 13 17:35:05.708 DEBG fetching meta...
+Mar 13 17:35:05.898 DEBG server usn was 7924
+Mar 13 17:35:05.898 DEBG media sync complete
+Mar 13 17:35:05.981 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1199), latest_usn: Usn(1199), pending_usn: Usn(-1), new_usn: Some(Usn(1199)), server_message: "", host_number: 4 }
+Mar 13 17:35:05.981 DEBG start
+Mar 13 17:35:06.028 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:35:06.029 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:35:06.029 DEBG applied server graves
+Mar 13 17:35:06.029 DEBG unchunked changes
+Mar 13 17:35:06.029 DEBG gathering local changes
+Mar 13 17:35:06.029 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:35:06.065 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:35:06.065 DEBG begin stream from server
+Mar 13 17:35:06.106 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:35:06.106 DEBG begin stream to server
+Mar 13 17:35:06.106 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:35:06.144 DEBG sanity check
+Mar 13 17:35:06.145 DEBG gathered local counts; waiting for server reply
+Mar 13 17:35:06.188 DEBG got server reply
+Mar 13 17:35:06.188 DEBG finalize
+Mar 13 17:35:09.291 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:35:09.291 DEBG skip check
+Mar 13 17:35:09.291 DEBG begin media sync
+Mar 13 17:35:09.292 DEBG fetching meta...
+Mar 13 17:35:09.422 DEBG server usn was 7924
+Mar 13 17:35:09.422 DEBG media sync complete
+Mar 13 17:35:09.518 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1200), latest_usn: Usn(1200), pending_usn: Usn(-1), new_usn: Some(Usn(1200)), server_message: "", host_number: 4 }
+Mar 13 17:35:15.792 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:35:15.792 DEBG skip check
+Mar 13 17:35:15.792 DEBG begin media sync
+Mar 13 17:35:15.797 DEBG fetching meta...
+Mar 13 17:35:15.940 DEBG server usn was 7924
+Mar 13 17:35:15.940 DEBG media sync complete
+Mar 13 17:35:16.025 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1200), latest_usn: Usn(1200), pending_usn: Usn(-1), new_usn: Some(Usn(1200)), server_message: "", host_number: 4 }
+Mar 13 17:35:16.025 DEBG start
+Mar 13 17:35:16.115 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:35:16.115 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:35:16.115 DEBG applied server graves
+Mar 13 17:35:16.115 DEBG unchunked changes
+Mar 13 17:35:16.115 DEBG gathering local changes
+Mar 13 17:35:16.115 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:35:16.263 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:35:16.263 DEBG begin stream from server
+Mar 13 17:35:16.325 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:35:16.325 DEBG begin stream to server
+Mar 13 17:35:16.325 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:35:16.435 DEBG sanity check
+Mar 13 17:35:16.436 DEBG gathered local counts; waiting for server reply
+Mar 13 17:35:16.489 DEBG got server reply
+Mar 13 17:35:16.489 DEBG finalize
+Mar 13 17:37:03.009 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:37:03.009 DEBG skip check
+Mar 13 17:37:03.009 DEBG begin media sync
+Mar 13 17:37:03.009 DEBG fetching meta...
+Mar 13 17:37:03.131 DEBG server usn was 7924
+Mar 13 17:37:03.131 DEBG media sync complete
+Mar 13 17:37:03.201 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1201), latest_usn: Usn(1201), pending_usn: Usn(-1), new_usn: Some(Usn(1201)), server_message: "", host_number: 4 }
+Mar 13 17:39:37.794 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:39:37.794 DEBG skip check
+Mar 13 17:39:37.794 DEBG begin media sync
+Mar 13 17:39:37.797 DEBG fetching meta...
+Mar 13 17:39:37.931 DEBG server usn was 7924
+Mar 13 17:39:37.931 DEBG media sync complete
+Mar 13 17:39:38.025 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1201), latest_usn: Usn(1201), pending_usn: Usn(-1), new_usn: Some(Usn(1201)), server_message: "", host_number: 4 }
+Mar 13 17:39:38.026 DEBG start
+Mar 13 17:39:38.065 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:39:38.065 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:39:38.065 DEBG applied server graves
+Mar 13 17:39:38.065 DEBG unchunked changes
+Mar 13 17:39:38.065 DEBG gathering local changes
+Mar 13 17:39:38.065 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:39:38.101 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:39:38.101 DEBG begin stream from server
+Mar 13 17:39:38.148 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:39:38.149 DEBG begin stream to server
+Mar 13 17:39:38.149 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:39:38.186 DEBG sanity check
+Mar 13 17:39:38.187 DEBG gathered local counts; waiting for server reply
+Mar 13 17:39:38.232 DEBG got server reply
+Mar 13 17:39:38.232 DEBG finalize
+Mar 13 17:39:41.245 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:39:41.245 DEBG skip check
+Mar 13 17:39:41.245 DEBG begin media sync
+Mar 13 17:39:41.246 DEBG fetching meta...
+Mar 13 17:39:41.398 DEBG server usn was 7924
+Mar 13 17:39:41.398 DEBG media sync complete
+Mar 13 17:39:41.465 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1202), latest_usn: Usn(1202), pending_usn: Usn(-1), new_usn: Some(Usn(1202)), server_message: "", host_number: 4 }
+Mar 13 17:41:30.003 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:41:30.003 DEBG skip check
+Mar 13 17:41:30.003 DEBG begin media sync
+Mar 13 17:41:30.007 DEBG fetching meta...
+Mar 13 17:41:30.204 DEBG server usn was 7924
+Mar 13 17:41:30.204 DEBG media sync complete
+Mar 13 17:41:30.294 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1202), latest_usn: Usn(1202), pending_usn: Usn(-1), new_usn: Some(Usn(1202)), server_message: "", host_number: 4 }
+Mar 13 17:41:30.294 DEBG start
+Mar 13 17:41:30.337 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:41:30.337 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:41:30.337 DEBG applied server graves
+Mar 13 17:41:30.337 DEBG unchunked changes
+Mar 13 17:41:30.337 DEBG gathering local changes
+Mar 13 17:41:30.338 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:41:30.389 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:41:30.389 DEBG begin stream from server
+Mar 13 17:41:30.426 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:41:30.426 DEBG begin stream to server
+Mar 13 17:41:30.427 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:41:30.461 DEBG sanity check
+Mar 13 17:41:30.462 DEBG gathered local counts; waiting for server reply
+Mar 13 17:41:30.509 DEBG got server reply
+Mar 13 17:41:30.509 DEBG finalize
+Mar 13 17:41:33.489 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:41:33.489 DEBG skip check
+Mar 13 17:41:33.489 DEBG begin media sync
+Mar 13 17:41:33.490 DEBG fetching meta...
+Mar 13 17:41:33.615 DEBG server usn was 7924
+Mar 13 17:41:33.615 DEBG media sync complete
+Mar 13 17:41:33.706 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1203), latest_usn: Usn(1203), pending_usn: Usn(-1), new_usn: Some(Usn(1203)), server_message: "", host_number: 4 }
+Mar 13 17:41:56.872 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:41:56.873 DEBG skip check
+Mar 13 17:41:56.873 DEBG begin media sync
+Mar 13 17:41:56.876 DEBG fetching meta...
+Mar 13 17:41:56.980 DEBG server usn was 7924
+Mar 13 17:41:56.980 DEBG media sync complete
+Mar 13 17:41:57.063 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1203), latest_usn: Usn(1203), pending_usn: Usn(-1), new_usn: Some(Usn(1203)), server_message: "", host_number: 4 }
+Mar 13 17:41:57.063 DEBG start
+Mar 13 17:41:57.099 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:41:57.099 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:41:57.099 DEBG applied server graves
+Mar 13 17:41:57.099 DEBG unchunked changes
+Mar 13 17:41:57.099 DEBG gathering local changes
+Mar 13 17:41:57.100 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:41:57.136 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:41:57.136 DEBG begin stream from server
+Mar 13 17:41:57.177 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:41:57.177 DEBG begin stream to server
+Mar 13 17:41:57.177 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:41:57.212 DEBG sanity check
+Mar 13 17:41:57.213 DEBG gathered local counts; waiting for server reply
+Mar 13 17:41:57.289 DEBG got server reply
+Mar 13 17:41:57.289 DEBG finalize
+Mar 13 17:42:00.365 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:42:00.366 DEBG skip check
+Mar 13 17:42:00.366 DEBG begin media sync
+Mar 13 17:42:00.366 DEBG fetching meta...
+Mar 13 17:42:00.533 DEBG server usn was 7924
+Mar 13 17:42:00.533 DEBG media sync complete
+Mar 13 17:42:00.619 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1204), latest_usn: Usn(1204), pending_usn: Usn(-1), new_usn: Some(Usn(1204)), server_message: "", host_number: 4 }
+Mar 13 17:43:09.110 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:43:09.110 DEBG skip check
+Mar 13 17:43:09.110 DEBG begin media sync
+Mar 13 17:43:09.112 DEBG fetching meta...
+Mar 13 17:43:09.239 DEBG server usn was 7924
+Mar 13 17:43:09.239 DEBG media sync complete
+Mar 13 17:43:09.337 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1204), latest_usn: Usn(1204), pending_usn: Usn(-1), new_usn: Some(Usn(1204)), server_message: "", host_number: 4 }
+Mar 13 17:43:09.337 DEBG start
+Mar 13 17:43:09.379 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:43:09.379 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:43:09.379 DEBG applied server graves
+Mar 13 17:43:09.379 DEBG unchunked changes
+Mar 13 17:43:09.379 DEBG gathering local changes
+Mar 13 17:43:09.379 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:43:09.418 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:43:09.418 DEBG begin stream from server
+Mar 13 17:43:09.464 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:43:09.464 DEBG begin stream to server
+Mar 13 17:43:09.464 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:43:09.507 DEBG sanity check
+Mar 13 17:43:09.507 DEBG gathered local counts; waiting for server reply
+Mar 13 17:43:09.554 DEBG got server reply
+Mar 13 17:43:09.554 DEBG finalize
+Mar 13 17:43:12.997 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:43:12.997 DEBG skip check
+Mar 13 17:43:12.997 DEBG begin media sync
+Mar 13 17:43:12.997 DEBG fetching meta...
+Mar 13 17:43:13.135 DEBG server usn was 7924
+Mar 13 17:43:13.135 DEBG media sync complete
+Mar 13 17:43:13.210 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1205), latest_usn: Usn(1205), pending_usn: Usn(-1), new_usn: Some(Usn(1205)), server_message: "", host_number: 4 }
+Mar 13 17:44:18.699 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:44:18.699 DEBG skip check
+Mar 13 17:44:18.699 DEBG begin media sync
+Mar 13 17:44:18.705 DEBG fetching meta...
+Mar 13 17:44:18.854 DEBG server usn was 7924
+Mar 13 17:44:18.854 DEBG media sync complete
+Mar 13 17:44:18.943 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1205), latest_usn: Usn(1205), pending_usn: Usn(-1), new_usn: Some(Usn(1205)), server_message: "", host_number: 4 }
+Mar 13 17:44:18.944 DEBG start
+Mar 13 17:44:18.988 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:44:18.988 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:44:18.988 DEBG applied server graves
+Mar 13 17:44:18.988 DEBG unchunked changes
+Mar 13 17:44:18.988 DEBG gathering local changes
+Mar 13 17:44:18.988 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:44:19.028 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:44:19.028 DEBG begin stream from server
+Mar 13 17:44:19.066 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:44:19.066 DEBG begin stream to server
+Mar 13 17:44:19.066 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:44:19.103 DEBG sanity check
+Mar 13 17:44:19.104 DEBG gathered local counts; waiting for server reply
+Mar 13 17:44:19.144 DEBG got server reply
+Mar 13 17:44:19.144 DEBG finalize
+Mar 13 17:44:22.411 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:44:22.411 DEBG skip check
+Mar 13 17:44:22.411 DEBG begin media sync
+Mar 13 17:44:22.412 DEBG fetching meta...
+Mar 13 17:44:22.599 DEBG server usn was 7924
+Mar 13 17:44:22.599 DEBG media sync complete
+Mar 13 17:44:22.681 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1206), latest_usn: Usn(1206), pending_usn: Usn(-1), new_usn: Some(Usn(1206)), server_message: "", host_number: 4 }
+Mar 13 17:44:38.825 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:44:38.825 DEBG skip check
+Mar 13 17:44:38.825 DEBG begin media sync
+Mar 13 17:44:38.834 DEBG fetching meta...
+Mar 13 17:44:38.942 DEBG server usn was 7924
+Mar 13 17:44:38.942 DEBG media sync complete
+Mar 13 17:44:39.045 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1206), latest_usn: Usn(1206), pending_usn: Usn(-1), new_usn: Some(Usn(1206)), server_message: "", host_number: 4 }
+Mar 13 17:44:39.045 DEBG start
+Mar 13 17:44:39.098 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:44:39.098 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:44:39.098 DEBG applied server graves
+Mar 13 17:44:39.098 DEBG unchunked changes
+Mar 13 17:44:39.098 DEBG gathering local changes
+Mar 13 17:44:39.098 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:44:39.141 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:44:39.141 DEBG begin stream from server
+Mar 13 17:44:39.178 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:44:39.178 DEBG begin stream to server
+Mar 13 17:44:39.179 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:44:39.211 DEBG sanity check
+Mar 13 17:44:39.212 DEBG gathered local counts; waiting for server reply
+Mar 13 17:44:39.244 DEBG got server reply
+Mar 13 17:44:39.244 DEBG finalize
+Mar 13 17:44:44.387 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:44:44.388 DEBG skip check
+Mar 13 17:44:44.388 DEBG begin media sync
+Mar 13 17:44:44.388 DEBG fetching meta...
+Mar 13 17:44:44.512 DEBG server usn was 7924
+Mar 13 17:44:44.512 DEBG media sync complete
+Mar 13 17:44:44.624 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1207), latest_usn: Usn(1207), pending_usn: Usn(-1), new_usn: Some(Usn(1207)), server_message: "", host_number: 4 }
+Mar 13 17:44:53.550 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:44:53.550 DEBG skip check
+Mar 13 17:44:53.550 DEBG begin media sync
+Mar 13 17:44:53.554 DEBG fetching meta...
+Mar 13 17:44:53.691 DEBG server usn was 7924
+Mar 13 17:44:53.691 DEBG media sync complete
+Mar 13 17:44:53.779 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1207), latest_usn: Usn(1207), pending_usn: Usn(-1), new_usn: Some(Usn(1207)), server_message: "", host_number: 4 }
+Mar 13 17:44:53.779 DEBG start
+Mar 13 17:44:53.826 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:44:53.826 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:44:53.826 DEBG applied server graves
+Mar 13 17:44:53.826 DEBG unchunked changes
+Mar 13 17:44:53.826 DEBG gathering local changes
+Mar 13 17:44:53.826 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:44:53.866 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:44:53.866 DEBG begin stream from server
+Mar 13 17:44:53.915 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:44:53.915 DEBG begin stream to server
+Mar 13 17:44:53.916 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:44:53.955 DEBG sanity check
+Mar 13 17:44:53.956 DEBG gathered local counts; waiting for server reply
+Mar 13 17:44:53.997 DEBG got server reply
+Mar 13 17:44:53.997 DEBG finalize
+Mar 13 17:45:02.429 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:45:02.429 DEBG skip check
+Mar 13 17:45:02.429 DEBG begin media sync
+Mar 13 17:45:02.429 DEBG fetching meta...
+Mar 13 17:45:02.550 DEBG server usn was 7924
+Mar 13 17:45:02.550 DEBG media sync complete
+Mar 13 17:45:02.629 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1208), latest_usn: Usn(1208), pending_usn: Usn(-1), new_usn: Some(Usn(1208)), server_message: "", host_number: 4 }
+Mar 13 17:45:10.403 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:45:10.403 DEBG skip check
+Mar 13 17:45:10.403 DEBG begin media sync
+Mar 13 17:45:10.406 DEBG fetching meta...
+Mar 13 17:45:10.537 DEBG server usn was 7924
+Mar 13 17:45:10.538 DEBG media sync complete
+Mar 13 17:45:10.619 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1208), latest_usn: Usn(1208), pending_usn: Usn(-1), new_usn: Some(Usn(1208)), server_message: "", host_number: 4 }
+Mar 13 17:45:10.619 DEBG start
+Mar 13 17:45:10.667 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:45:10.667 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:45:10.667 DEBG applied server graves
+Mar 13 17:45:10.667 DEBG unchunked changes
+Mar 13 17:45:10.667 DEBG gathering local changes
+Mar 13 17:45:10.667 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:45:10.715 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:45:10.715 DEBG begin stream from server
+Mar 13 17:45:10.752 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:45:10.752 DEBG begin stream to server
+Mar 13 17:45:10.752 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:45:10.797 DEBG sanity check
+Mar 13 17:45:10.798 DEBG gathered local counts; waiting for server reply
+Mar 13 17:45:10.838 DEBG got server reply
+Mar 13 17:45:10.838 DEBG finalize
+Mar 13 17:47:17.372 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:47:17.372 DEBG skip check
+Mar 13 17:47:17.372 DEBG begin media sync
+Mar 13 17:47:17.373 DEBG fetching meta...
+Mar 13 17:47:17.511 DEBG server usn was 7924
+Mar 13 17:47:17.511 DEBG media sync complete
+Mar 13 17:47:17.601 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1209), latest_usn: Usn(1209), pending_usn: Usn(-1), new_usn: Some(Usn(1209)), server_message: "", host_number: 4 }
+Mar 13 17:58:32.137 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 17:58:32.137 DEBG skip check
+Mar 13 17:58:32.137 DEBG begin media sync
+Mar 13 17:58:32.143 DEBG fetching meta...
+Mar 13 17:58:32.263 DEBG server usn was 7924
+Mar 13 17:58:32.263 DEBG media sync complete
+Mar 13 17:58:32.403 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1209), latest_usn: Usn(1209), pending_usn: Usn(-1), new_usn: Some(Usn(1209)), server_message: "", host_number: 4 }
+Mar 13 17:58:32.403 DEBG start
+Mar 13 17:58:32.448 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 17:58:32.448 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 17:58:32.448 DEBG applied server graves
+Mar 13 17:58:32.448 DEBG unchunked changes
+Mar 13 17:58:32.448 DEBG gathering local changes
+Mar 13 17:58:32.448 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:58:32.494 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 17:58:32.494 DEBG begin stream from server
+Mar 13 17:58:32.532 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:58:32.532 DEBG begin stream to server
+Mar 13 17:58:32.532 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 17:58:32.577 DEBG sanity check
+Mar 13 17:58:32.578 DEBG gathered local counts; waiting for server reply
+Mar 13 17:58:32.617 DEBG got server reply
+Mar 13 17:58:32.617 DEBG finalize
+Mar 13 18:03:27.758 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 18:03:27.758 DEBG skip check
+Mar 13 18:03:27.758 DEBG begin media sync
+Mar 13 18:03:27.759 DEBG fetching meta...
+Mar 13 18:03:27.931 DEBG server usn was 7924
+Mar 13 18:03:27.931 DEBG media sync complete
+Mar 13 18:03:27.991 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1210), latest_usn: Usn(1210), pending_usn: Usn(-1), new_usn: Some(Usn(1210)), server_message: "", host_number: 4 }
+Mar 13 18:03:54.280 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 18:03:54.280 DEBG skip check
+Mar 13 18:03:54.280 DEBG begin media sync
+Mar 13 18:03:54.283 DEBG fetching meta...
+Mar 13 18:03:54.407 DEBG server usn was 7924
+Mar 13 18:03:54.407 DEBG media sync complete
+Mar 13 18:03:54.483 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1210), latest_usn: Usn(1210), pending_usn: Usn(-1), new_usn: Some(Usn(1210)), server_message: "", host_number: 4 }
+Mar 13 18:03:54.483 DEBG start
+Mar 13 18:03:54.529 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 18:03:54.529 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 18:03:54.529 DEBG applied server graves
+Mar 13 18:03:54.529 DEBG unchunked changes
+Mar 13 18:03:54.529 DEBG gathering local changes
+Mar 13 18:03:54.529 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 18:03:54.562 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 18:03:54.562 DEBG begin stream from server
+Mar 13 18:03:54.606 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 18:03:54.606 DEBG begin stream to server
+Mar 13 18:03:54.606 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 18:03:54.647 DEBG sanity check
+Mar 13 18:03:54.648 DEBG gathered local counts; waiting for server reply
+Mar 13 18:03:54.681 DEBG got server reply
+Mar 13 18:03:54.681 DEBG finalize
+Mar 13 18:03:58.234 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 18:03:58.234 DEBG skip check
+Mar 13 18:03:58.234 DEBG begin media sync
+Mar 13 18:03:58.234 DEBG fetching meta...
+Mar 13 18:03:58.426 DEBG server usn was 7924
+Mar 13 18:03:58.426 DEBG media sync complete
+Mar 13 18:03:58.527 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1211), latest_usn: Usn(1211), pending_usn: Usn(-1), new_usn: Some(Usn(1211)), server_message: "", host_number: 4 }
+Mar 13 18:04:29.516 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 18:04:29.516 DEBG skip check
+Mar 13 18:04:29.516 DEBG begin media sync
+Mar 13 18:04:29.521 DEBG fetching meta...
+Mar 13 18:04:29.648 DEBG server usn was 7924
+Mar 13 18:04:29.648 DEBG media sync complete
+Mar 13 18:04:29.728 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1211), latest_usn: Usn(1211), pending_usn: Usn(-1), new_usn: Some(Usn(1211)), server_message: "", host_number: 4 }
+Mar 13 18:04:29.728 DEBG start
+Mar 13 18:04:29.774 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 18:04:29.774 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 18:04:29.774 DEBG applied server graves
+Mar 13 18:04:29.774 DEBG unchunked changes
+Mar 13 18:04:29.774 DEBG gathering local changes
+Mar 13 18:04:29.774 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 18:04:29.827 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 18:04:29.827 DEBG begin stream from server
+Mar 13 18:04:29.874 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 18:04:29.874 DEBG begin stream to server
+Mar 13 18:04:29.874 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 18:04:29.919 DEBG sanity check
+Mar 13 18:04:29.920 DEBG gathered local counts; waiting for server reply
+Mar 13 18:04:29.981 DEBG got server reply
+Mar 13 18:04:29.981 DEBG finalize
+Mar 13 18:04:33.762 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 18:04:33.762 DEBG skip check
+Mar 13 18:04:33.762 DEBG begin media sync
+Mar 13 18:04:33.763 DEBG fetching meta...
+Mar 13 18:04:33.908 DEBG server usn was 7924
+Mar 13 18:04:33.908 DEBG media sync complete
+Mar 13 18:04:33.992 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1212), latest_usn: Usn(1212), pending_usn: Usn(-1), new_usn: Some(Usn(1212)), server_message: "", host_number: 4 }
+Mar 13 18:07:10.054 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 18:07:10.054 DEBG skip check
+Mar 13 18:07:10.054 DEBG begin media sync
+Mar 13 18:07:10.054 DEBG fetching meta...
+Mar 13 18:07:10.208 DEBG server usn was 7924
+Mar 13 18:07:10.208 DEBG media sync complete
+Mar 13 18:07:10.259 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1212), latest_usn: Usn(1212), pending_usn: Usn(-1), new_usn: Some(Usn(1212)), server_message: "", host_number: 4 }
+Mar 13 18:07:10.259 DEBG start
+Mar 13 18:07:10.296 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 18:07:10.296 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 18:07:10.296 DEBG applied server graves
+Mar 13 18:07:10.296 DEBG unchunked changes
+Mar 13 18:07:10.296 DEBG gathering local changes
+Mar 13 18:07:10.296 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 18:07:10.332 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 18:07:10.332 DEBG begin stream from server
+Mar 13 18:07:10.374 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 18:07:10.375 DEBG begin stream to server
+Mar 13 18:07:10.375 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 18:07:10.419 DEBG sanity check
+Mar 13 18:07:10.420 DEBG gathered local counts; waiting for server reply
+Mar 13 18:07:10.467 DEBG got server reply
+Mar 13 18:07:10.467 DEBG finalize
+Mar 13 18:11:39.488 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 18:11:39.489 DEBG skip check
+Mar 13 18:11:39.489 DEBG begin media sync
+Mar 13 18:11:39.489 DEBG fetching meta...
+Mar 13 18:11:39.731 DEBG server usn was 7924
+Mar 13 18:11:39.731 DEBG media sync complete
+Mar 13 18:11:39.829 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1213), latest_usn: Usn(1213), pending_usn: Usn(-1), new_usn: Some(Usn(1213)), server_message: "", host_number: 4 }
+Mar 13 18:12:11.063 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 18:12:11.063 DEBG skip check
+Mar 13 18:12:11.063 DEBG begin media sync
+Mar 13 18:12:11.066 DEBG fetching meta...
+Mar 13 18:12:11.204 DEBG server usn was 7924
+Mar 13 18:12:11.204 DEBG media sync complete
+Mar 13 18:12:11.303 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1213), latest_usn: Usn(1213), pending_usn: Usn(-1), new_usn: Some(Usn(1213)), server_message: "", host_number: 4 }
+Mar 13 18:12:11.303 DEBG start
+Mar 13 18:12:11.348 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 18:12:11.348 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 18:12:11.348 DEBG applied server graves
+Mar 13 18:12:11.348 DEBG unchunked changes
+Mar 13 18:12:11.348 DEBG gathering local changes
+Mar 13 18:12:11.348 DEBG sending, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 18:12:11.391 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 18:12:11.391 DEBG begin stream from server
+Mar 13 18:12:11.447 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 18:12:11.447 DEBG begin stream to server
+Mar 13 18:12:11.448 DEBG sending, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 18:12:11.498 DEBG sanity check
+Mar 13 18:12:11.499 DEBG gathered local counts; waiting for server reply
+Mar 13 18:12:11.544 DEBG got server reply
+Mar 13 18:12:11.545 DEBG finalize
+Mar 13 18:21:54.943 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 18:21:54.943 DEBG skip check
+Mar 13 18:21:54.943 DEBG begin media sync
+Mar 13 18:21:54.944 DEBG fetching meta...
+Mar 13 18:21:55.111 DEBG server usn was 7924
+Mar 13 18:21:55.111 DEBG media sync complete
+Mar 13 18:21:55.179 DEBG fetched, state: SyncState { required: NoChanges, local_is_newer: false, usn_at_last_sync: Usn(1214), latest_usn: Usn(1214), pending_usn: Usn(-1), new_usn: Some(Usn(1214)), server_message: "", host_number: 4 }
+Mar 13 18:44:41.803 DEBG begin change check, db_mod: 1615189907, folder_mod: 1615189907
+Mar 13 18:44:41.803 DEBG skip check
+Mar 13 18:44:41.803 DEBG begin media sync
+Mar 13 18:44:41.805 DEBG fetching meta...
+Mar 13 18:44:41.955 DEBG server usn was 7924
+Mar 13 18:44:41.955 DEBG media sync complete
+Mar 13 18:44:42.030 DEBG fetched, state: SyncState { required: NormalSyncRequired, local_is_newer: true, usn_at_last_sync: Usn(1214), latest_usn: Usn(1214), pending_usn: Usn(-1), new_usn: Some(Usn(1214)), server_message: "", host_number: 4 }
+Mar 13 18:44:42.030 DEBG start
+Mar 13 18:44:42.066 DEBG removed on remote, decks: 0, notes: 0, cards: 0
+Mar 13 18:44:42.066 DEBG locally removed  , decks: 0, notes: 0, cards: 0
+Mar 13 18:44:42.066 DEBG applied server graves
+Mar 13 18:44:42.066 DEBG unchunked changes
+Mar 13 18:44:42.066 DEBG gathering local changes
+Mar 13 18:44:42.066 DEBG sending, tags: 0, deck config: 0, decks: 1, notetypes: 0
+Mar 13 18:44:42.103 DEBG received, tags: 0, deck config: 0, decks: 0, notetypes: 0
+Mar 13 18:44:42.103 DEBG begin stream from server
+Mar 13 18:44:42.151 DEBG received, revlog: 0, notes: 0, cards: 0, done: true
+Mar 13 18:44:42.151 DEBG begin stream to server
+Mar 13 18:44:42.152 DEBG sending, revlog: 2, notes: 0, cards: 1, done: true
+Mar 13 18:44:42.193 DEBG sanity check
+Mar 13 18:44:42.194 DEBG gathered local counts; waiting for server reply
+Mar 13 18:44:42.230 DEBG got server reply
+Mar 13 18:44:42.230 DEBG finalize

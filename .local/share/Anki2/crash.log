@@ -614,3 +614,16 @@ Thread 0x00003688 (most recent call first):
   File "aqt\__init__.py", line 574 in _run
   File "aqt\__init__.py", line 405 in run
   File "runanki.py", line 4 in <module>
+Windows fatal exception: access violation
+
+Thread 0x0000038c (most recent call first):
+  File "threading.py", line 306 in wait
+  File "queue.py", line 179 in get
+  File "aqt\mpv.py", line 363 in _get_event
+  File "aqt\mpv.py", line 502 in _event_reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Current thread 0x00001d3c (most recent call first):
+<no Python frame>
