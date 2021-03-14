@@ -1,14 +1,17 @@
 from anki.hooks import wrap
 from aqt.utils import tooltip
-import anki.schedv2
-import aqt
-config = aqt.mw.addonManager.getConfig(__name__)
+from anki.schedv2 import Scheduler
+from aqt import mw
+
+config = mw.addonManager.getConfig(__name__)
 # config["burypoint"] #    5: automatically buries learning/relearning queue cards if you fail them this many times in a single day. does not add any tags.
 # config["killpoint"] #  140: suspends cards if you review them successfully and the resulting interval is at least this value in days. adds a "auto-suspended" tag.
 
 # burying and killing can be disabled for specific cards by adding special tags
 # "No::Burry" to disable burying
 # "No::Suspend" to disable killing
+
+to_bury = []
 
 def checkKill(self, card, ease, early, _old):
     ret = _old(self, card, ease, early)
@@ -25,8 +28,6 @@ def checkKill(self, card, ease, early, _old):
         note.flush()
         tooltip(_("Card automatically auto-suspended and tagged due to high maturity"))
     return ret
-
-to_bury = []
 
 def checkBury(self, card, ease, _old):
     global to_bury
@@ -53,6 +54,7 @@ def handleBury(self, card, ease, _old):
     to_bury = []
     return ret
 
-anki.schedv2.Scheduler._rescheduleRev = wrap(anki.schedv2.Scheduler._rescheduleRev, checkKill, "around")
-anki.schedv2.Scheduler._answerLrnCard = wrap(anki.schedv2.Scheduler._answerLrnCard, checkBury, "around")
-anki.schedv2.Scheduler.answerCard = wrap(anki.schedv2.Scheduler.answerCard, handleBury, "around")
+
+Scheduler._rescheduleRev = wrap(Scheduler._rescheduleRev, checkKill, "around")
+Scheduler._answerLrnCard = wrap(Scheduler._answerLrnCard, checkBury, "around")
+Scheduler.answerCard = wrap(Scheduler.answerCard, handleBury, "around")

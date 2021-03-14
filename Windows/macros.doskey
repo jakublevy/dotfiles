@@ -26,6 +26,7 @@ cp=xcopy /Y /H /C $*
 rm=del $*
 ls=dir /D $*
 rmdir=rmdir /S /Q $*
+rd=rd /S /Q $*
 cc=cleanmgr /verylowdisk /autoclean /sagerun:5 $T powershell -File C:\tools\BCURRAN3\choco-cleaner.ps1 $*
 
 grep=grep --color=auto $*
