@@ -24,7 +24,7 @@ cdd=cd /d %userprofile%\Desktop $*
 ip=ipconfig $*
 cp=xcopy /Y /H /C $*
 rm=del $*
-ls=dir /B $*
+ls=dir /D $*
 rmdir=rmdir /S /Q $*
 cc=cleanmgr /verylowdisk /autoclean /sagerun:5 $T powershell -File C:\tools\BCURRAN3\choco-cleaner.ps1 $*
 

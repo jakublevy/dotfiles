@@ -627,3 +627,16 @@ Thread 0x0000038c (most recent call first):
 
 Current thread 0x00001d3c (most recent call first):
 <no Python frame>
+Windows fatal exception: access violation
+
+Thread 0x00002b30 (most recent call first):
+  File "threading.py", line 306 in wait
+  File "queue.py", line 179 in get
+  File "aqt\mpv.py", line 363 in _get_event
+  File "aqt\mpv.py", line 502 in _event_reader
+  File "threading.py", line 870 in run
+  File "threading.py", line 932 in _bootstrap_inner
+  File "threading.py", line 890 in _bootstrap
+
+Current thread 0x00001448 (most recent call first):
+<no Python frame>
