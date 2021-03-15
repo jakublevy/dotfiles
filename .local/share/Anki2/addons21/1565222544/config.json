@@ -1,1 +1,1 @@
-{"burypoint": 5, "killpoint": 140}
+{"burypoint": 5, "suspendpoint": 140, "suspendTag": "auto-suspended", "disableBuryTag": "No::Bury", "disableSuspendTag": "No::Suspend" }
