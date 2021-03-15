@@ -20863,3 +20863,24 @@
 [1615737975] schedv2.py:getCard(): <anki.cards.Card object at 0x00000281ECA48E80> {'data': '', 'did': 1614516346397, 'due': 666, 'factor': 0, 'flags': 0, 'id': 1614516399848, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1614516399, 'nid': 1614516399847, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 940}
 [1615738001] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.42
 [1615738015] schedv2.py:getCard(): <anki.cards.Card object at 0x0000018AB14FF3D0> {'data': '', 'did': 1614516346397, 'due': 666, 'factor': 0, 'flags': 0, 'id': 1614516399848, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1614516399, 'nid': 1614516399847, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 940}
+[1615738043] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.42
+[1615738047] schedv2.py:getCard(): <anki.cards.Card object at 0x000002C0541F7520> {'data': '', 'did': 1614516346397, 'due': 666, 'factor': 0, 'flags': 0, 'id': 1614516399848, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1614516399, 'nid': 1614516399847, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 940}
+[1615739211] schedv2.py:getCard(): <anki.cards.Card object at 0x000002C05931F670> {'data': '', 'did': 1614516346397, 'due': 666, 'factor': 0, 'flags': 0, 'id': 1614516399848, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1614516399, 'nid': 1614516399847, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 940}
+[1615750642] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.42
+[1615753050] schedv2.py:getCard(): <anki.cards.Card object at 0x000002035D2C6E20> {'data': '', 'did': 1600844981553, 'due': 1086, 'factor': 0, 'flags': 0, 'id': 1615743679779, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1615743679, 'nid': 1615743679779, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1241}
+[1615753055] schedv2.py:answerCard(): 
+[1615753055] schedv2.py:getCard(): <anki.cards.Card object at 0x000002035D03EEB0> {'data': '', 'did': 1600844981553, 'due': 1086, 'factor': 0, 'flags': 0, 'id': 1615750833947, 'ivl': 0, 'lapses': 0, 'left': 0, 'mod': 1615750833, 'nid': 1615750833947, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 0, 'reps': 0, 'type': 0, 'usn': 1244}
+[1615753060] schedv2.py:answerCard(): 
+[1615753060] schedv2.py:getCard(): <anki.cards.Card object at 0x000002035D2B3040> {'data': '', 'did': 1600844981553, 'due': 1615753783, 'factor': 0, 'flags': 0, 'id': 1615743679779, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1615753055, 'nid': 1615743679779, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1615753062] schedv2.py:answerCard(): 
+[1615753062] schedv2.py:getCard(): <anki.cards.Card object at 0x000002035D2B34C0> {'data': '', 'did': 1600844981553, 'due': 1615753784, 'factor': 0, 'flags': 0, 'id': 1615750833947, 'ivl': 0, 'lapses': 0, 'left': 2002, 'mod': 1615753060, 'nid': 1615750833947, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 1, 'type': 1, 'usn': -1}
+[1615753064] schedv2.py:answerCard(): 
+[1615753064] schedv2.py:getCard(): <anki.cards.Card object at 0x000002035D03EBB0> {'data': '', 'did': 1600844981553, 'due': 1615753710, 'factor': 0, 'flags': 0, 'id': 1615750833947, 'ivl': 0, 'lapses': 0, 'left': 1001, 'mod': 1615753064, 'nid': 1615750833947, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 1, 'reps': 2, 'type': 1, 'usn': -1}
+[1615753070] schedv2.py:answerCard(): 
+[1615798488] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.42
+[1615798701] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.42
+[1615798881] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.42
+[1615798900] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.42
+[1615800481] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.42
+[1615814686] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.42
+[1615814707] collection.py:__init__(): C:\Users\jakub\AppData\Roaming\Anki2\jakub\collection.anki2, 2.1.42
