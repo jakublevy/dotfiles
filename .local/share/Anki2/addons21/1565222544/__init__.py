@@ -7,8 +7,8 @@ from aqt import gui_hooks
 #from aqt.utils import showWarning
 
 config = mw.addonManager.getConfig(__name__)
-# config["burypoint"] #    5: automatically buries learning/relearning queue cards if you fail them this many times in a single day. does not add any tags.
-# config["suspendpoint"] #  140: suspends cards if you review them successfully and the resulting interval is at least this value in days. adds a config["suspendTag"] tag.
+# config["buryPoint"] #    5: automatically buries learning/relearning queue cards if you fail them this many times in a single day. does not add any tags.
+# config["suspendPoint"] #  140: suspends cards if you review them successfully and the resulting interval is at least this value in days. adds a config["suspendTag"] tag.
 
 # burying and suspending can be disabled for specific cards by adding special tags
 # config["disableBuryTag"] to disable burying
@@ -21,14 +21,13 @@ def checkSuspend(card, ease, early):
         return
     if note.hasTag(config["disableSuspendTag"]):
         return
-    if card.ivl >= config["suspendpoint"]:
+    if config["enableSuspend"] and card.ivl >= config["suspendPoint"]:
         card.queue = -1 #suspend card
         note.addTag(config["suspendTag"])
         note.flush()
         card.flush()
         tooltip(_("Card automatically suspended and tagged due to high maturity"))
 
-to_bury = []
 
 # Called after answering an arbitrary card
 def checkBury(reviewer, card, ease):
@@ -40,7 +39,7 @@ def checkBury(reviewer, card, ease):
         return                                                                                                    # (reviewer.mw.col.sched.dayCutoff-86400) start of this day in seconds
     count_relapses_today = reviewer.mw.col.db.scalar("select count() from revlog where ease = 1 and type >= 0 and type <= 1 and cid = ? and id > ?", card.id, (reviewer.mw.col.sched.dayCutoff-86400)*1000)
     #showWarning("count_relapses_today: {}".format(count_relapses_today))
-    if config["burypoint"] >= 0 and (count_relapses_today % config["burypoint"] == 0):
+    if config["enableBury"] and (count_relapses_today % config["buryPoint"] == 0):
         reviewer.onBuryCard()
         reviewer.mw.col.sched.buryCards([card.id], manual=False)
         reviewer.mw.col.sched._resetLrn()
@@ -48,6 +47,7 @@ def checkBury(reviewer, card, ease):
         #to_bury.append(card.id)
         tooltip(_("Card automatically buried until tomorrow due to high failure"))
 
+# to_bury = []
 
 # def handleBury(self, card, ease, _old):
 #     ret = _old(self, card, ease)
@@ -89,8 +89,7 @@ def checkBury(reviewer, card, ease):
 
 # Scheduler._answerLrnCard = wrap(Scheduler._answerLrnCard, checkBury, "around")
 # Scheduler.answerCard = wrap(Scheduler.answerCard, handleBury, "around")
-
+# Scheduler.answerCard = wrap(Scheduler.answerCard, handleBury, "around")
 
 hooks.schedv2_did_answer_review_card.append(checkSuspend)
 gui_hooks.reviewer_did_answer_card.append(checkBury)
-#Scheduler.answerCard = wrap(Scheduler.answerCard, handleBury, "around")

@@ -8,25 +8,27 @@ vim=nvim $*
 loud=speakers.bat $*
 quiet=headphones.bat $*
 
-ydl=youtube-dl $*
-
 gc=git clone $*
 gs=git status $*
 ga=git add $*
 gaa=git add -A $*
-gcd=git clone git@github.com:jakublevy/dotfiles.git
+gcd=git clone git@github.com:jakublevy/dotfiles.git $*
 
 pwd=cd $*
 cd=cd /d $*
 cdh=cd /d %userprofile% $*
 cdd=cd /d %userprofile%\Desktop $*
-
 ip=ipconfig $*
 cp=xcopy /Y /H /C $*
 rm=del $*
 ls=dir /D $*
 rmdir=rmdir /S /Q $*
 rd=rd /S /Q $*
-cc=cleanmgr /verylowdisk /autoclean /sagerun:5 $T powershell -File C:\tools\BCURRAN3\choco-cleaner.ps1 $*
+powershell=powershell -NoLogo $*
+pwsh=powershell -NoLogo $*
 
 grep=grep --color=auto $*
+ydl=youtube-dl $*
+
+cc=cleanmgr /verylowdisk /autoclean /sagerun:5 $T powershell -File C:\tools\BCURRAN3\choco-cleaner.ps1 $*
+
