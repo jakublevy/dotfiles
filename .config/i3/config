@@ -34,7 +34,6 @@ bindsym $mod+Return exec i3-sensible-terminal
 
 # kill focused window
 bindsym $mod+Shift+q kill
-
 # start dmenu (a program launcher)
 # bindsym $mod+d exec --no-startup-id dmenu_run
 # There also is the (new) i3-dmenu-desktop which only displays applications
@@ -149,10 +148,20 @@ mode "resize" {
         bindsym k resize shrink height 10 px or 10 ppt
         bindsym l resize grow width 10 px or 10 ppt
 
+        bindsym Shift+h resize shrink width 20 px or 20 ppt
+        bindsym Shift+j resize grow height 20 px or 20 ppt
+        bindsym Shift+k resize shrink height 20 px or 20 ppt
+        bindsym Shift+l resize grow width 20 px or 20 ppt
+
         # same bindings, but for the arrow keys
         bindsym Left resize shrink width 10 px or 10 ppt
         bindsym Down resize grow height 10 px or 10 ppt
         bindsym Up resize shrink height 10 px or 10 ppt
+
+        bindsym Shift+Left resize shrink width 20 px or 20 ppt
+        bindsym Shift+Down resize grow height 20 px or 20 ppt
+        bindsym Shift+Up resize shrink height 20 px or 20 ppt
+        bindsym Shift+Right resize grow width 20 px or 20 ppt
 
         # back to normal: Enter or Escape or $mod+r
         bindsym Return mode "default"
@@ -179,6 +188,9 @@ for_window [window_role="pop-up"] floating enable
 
 # correct floaing handling
 for_window [window_role="task_dialog"] floating enable
+
+# force Anki windows to be floating
+for_window [class="Anki"] floating enable
 
 #show borders only when more than 1 window is opened
 smart_borders on
@@ -208,9 +220,14 @@ bindsym XF86AudioMute exec --no-startup-id amixer sset Master toggle && pkill -R
 #Touchpad toggle
 bindsym XF86TouchpadToggle exec ~/.config/scripts/touchpad_toggle.sh
 
-#NetworkManager applent
+#Sleep
+bindsym XF86Sleep exec sudo zzz
+
+#NetworkManager applet
 exec --no-startup-id nm-applet --sm-disable
-exec --no-startup-id /usr/lib/geoclue-2.0/demos/agent
+
+#blueman applet
+exec --no-startup-id blueman-applet
 
 #bindsym Mod1+shift exec /home/jakub/.config/i3/toggle_keyboard_layout.sh
 #exec "setxkbmap -option grp:lctrl_lwin_toggle -layout us,cz -variant ,qwerty"
@@ -219,6 +236,8 @@ exec --no-startup-id /usr/lib/geoclue-2.0/demos/agent
 #exec --no-startup-id xmodmap /home/jakub/.Xmodmap
 
 # exec --no-startup-id ~/.config/scripts/keyboard.sh
+
+#IME start
 exec --no-startup-id fcitx
 
 #i3lock bind to WIN+L
@@ -252,7 +271,7 @@ exec --no-startup-id clipit -dn
 exec --no-startup-id xinput set-prop 'SYN1B7F:00 06CB:CD41 Touchpad' 'libinput Accel Speed' 0.3
 
 #wallpaper slideshow
-exec --no-startup-id /usr/bin/feh --no-fehbg --bg-scale ~/Pictures/wallpapers/robo.png
+exec --no-startup-id /usr/bin/feh --no-fehbg --bg-scale ~/Pictures/wallpapers/schematic.jpg
 
 ## Manual management of external displays
 set $mode_display Ext Screen: (d) Duplicate, (e) Extend, (o) Off
@@ -269,20 +288,23 @@ bindsym $mod+p mode "$mode_display"
 
 
 #menu to shutdown and restart pc
-set $mode_system System (s) shutdown, (r) reboot
+set $mode_system System (s) shutdown, (r) reboot, (h) hibernate
 mode "$mode_system" {
-    bindsym s exec shutdown -h now
-    bindsym r exec shutdown -r now
+    bindsym s exec sudo shutdown -h now
+    bindsym r exec sudo shutdown -r now
+    bindsym h exec sudo zzz -Z
 
     bindsym Return mode "default"
     bindsym Escape mode "default"
 }
 bindsym XF86PowerOff mode "$mode_system"
 
-set $mode_sound_output (i) internal, (h) HDMI
+
+set $mode_sound_output (i) internal, (h) HDMI, (b) Mi True Wireless
 mode "$mode_sound_output" {
     bindsym i exec --no-startup-id ~/.config/scripts/audio_internal.sh, mode "default"
     bindsym h exec --no-startup-id ~/.config/scripts/audio_hdmi.sh, mode "default"
+    bindsym b exec --no-startup-id ~/.config/scripts/audio_mi_true_wireless.sh, mode "default"
 
     bindsym Return mode "default"
     bindsym Escape mode "default"

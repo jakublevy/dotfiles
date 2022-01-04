@@ -24,7 +24,7 @@
 #
 # The top properties below are applied to every block, but can be overridden.
 # Each block command defaults to the script name to avoid boilerplate.
-command=/usr/lib/i3blocks/$BLOCK_NAME/$BLOCK_NAME
+command=/usr/share/examples/i3blocks/$BLOCK_NAME/$BLOCK_NAME
 separator_block_width=15
 markup=none
 
@@ -34,7 +34,7 @@ markup=none
 # The script may be called with -w and -c switches to specify thresholds,
 # see the script for details.
 [temperature]
-command=/usr/lib/i3blocks/temperature/temperature -w 60 -c 75 --chip coretemp-isa-0000
+command=/usr/share/examples/i3blocks/temperature/temperature -w 60 -c 75 --chip coretemp-isa-0000
 label=🌡️
 # label=
 interval=30
@@ -72,13 +72,13 @@ interval=60
 # The address can be forced to IPv4 or IPv6 with -4 or -6 switches.
 [iface]
 label= 
-instance=wlp0s12f0
+instance=wlan0
 color=#00FF00
 interval=10
 separator=false
 
 [wifi]
-instance=wlp0s12f0
+instance=wlan0
 interval=10
 separator=true
 
@@ -124,21 +124,21 @@ interval=once
 signal=11
 
 [date]
-label= 
+label=  
 # command=date '+%a, %-d.%-m.%Y'
 # command=date '+%a  %-m月 %-d日'
-command=LC_TIME=ja_JP.UTF-8 date '+%a  %-m月 %-d日'
+command=LC_TIME=ja_JP.UTF-8 date '+%a %-d.%-m.'
 interval=3600
 
 [time]
 label= 
-command=date '+%H:%M'
-interval=30
+command=date '+%H:%M:%S'
+interval=1
 
-[lang]
-label= 
-command=echo `xkblayout-state print "%s"`
-interval=10
+# [lang]
+# label= 
+# command=echo `xkblayout-state print "%s"`
+# interval=10
 
 # Generic media player support
 #

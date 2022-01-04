@@ -1,1 +1,0 @@
-{"name": "Highlight Search Results in the Browser", "mod": 1615395962, "min_point_version": 0, "max_point_version": 42, "branch_index": 0, "conflicts": ["highlight_search_results"], "config": {"highlight_by_default": true, "hotkey_select_all_matching_cards": "Ctrl+Shift+Return", "hotkey_select_next_matching_card": "Shift+Return", "hotkey_toggle_highlights": "Ctrl+T, H"}}

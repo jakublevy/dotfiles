@@ -7,15 +7,11 @@ packadd minpac
 call minpac#init({'dir': plugins_path})
 call minpac#add('k-takata/minpac', {'type': 'opt'})
 call minpac#add('tomasiser/vim-code-dark')
-call minpac#add('neovimhaskell/haskell-vim')
-call minpac#add('adimit/vim-prolog')
 call minpac#add('tpope/vim-surround')
 call minpac#add('tpope/vim-repeat')
 call minpac#add('tpope/vim-commentary')
 call minpac#add('ctrlpvim/ctrlp.vim')
 call minpac#add('machakann/vim-highlightedyank')
-call minpac#add('pbrisbin/vim-mkdir')
-call minpac#add('christoomey/vim-tmux-navigator')
 
 command! PackUpdate call minpac#update()
 command! PackClean call minpac#clean()
@@ -113,26 +109,6 @@ tnoremap <A-H> <C-\><C-n><C-w>Hi
 tnoremap <A-J> <C-\><C-n><C-w>Ji
 tnoremap <A-K> <C-\><C-n><C-w>Ki
 tnoremap <A-L> <C-\><C-n><C-w>Li
-
-
-"tmux sane navigation
-nnoremap <silent> <A-h> :TmuxNavigateLeft<CR>
-nnoremap <silent> <A-j> :TmuxNavigateDown<CR>
-nnoremap <silent> <A-k> :TmuxNavigateUp<CR>
-nnoremap <silent> <A-l> :TmuxNavigateRight<CR>
-nnoremap <silent> <A-\> :TmuxNavigatePrevious<CR>
-
-tnoremap <silent> <A-h> <C-\><C-n>:TmuxNavigateLeft<CR>
-tnoremap <silent> <A-j> <C-\><C-n>:TmuxNavigateDown<CR>
-tnoremap <silent> <A-k> <C-\><C-n>:TmuxNavigateUp<CR>
-tnoremap <silent> <A-l> <C-\><C-n>:TmuxNavigateRight<CR>
-tnoremap <silent> <A-\> <C-\><C-n>:TmuxNavigatePrevious<CR>
-
-" Write all buffers before navigating from Vim to tmux pane
-let g:tmux_navigator_save_on_switch = 2
-
-"repair vim and tmux overlapping windows
-autocmd VimResized * :wincmd =
 
 
 "my preffered encodings
