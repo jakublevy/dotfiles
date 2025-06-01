@@ -1,0 +1,38 @@
+[global]
+font = Sans 14
+frame_width = 2
+frame_color = "#788388"
+width = 300
+height = 80
+padding = 8
+horizontal_padding = 10
+alignment = center
+format = "%s %p\n%b"
+sort = true
+icon_theme = Papirus
+enable_recursive_icon_lookup = true
+
+[urgency_low]
+timeout = 2
+background = "#222222"
+foreground = "#ffffff"
+
+[urgency_normal]
+timeout = 2
+background = "#222222"
+foreground = "#ffffff"
+#foreground = "#ffa500"
+#new_icon = state-warning
+
+[urgency_critical]
+timeout = 5
+background = "#222222"
+foreground = "#ff0000"
+new_icon = gnome-warning
+
+[volume]
+appname = "volume"
+urgency = "low"
+format = "Volume: %s"
+timeout = 2
+set_stack_tag = "volume"

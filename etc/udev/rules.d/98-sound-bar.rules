@@ -1,0 +1,3 @@
+# Disable sound bar to connect as a block device
+ACTION=="add", ATTR{idVendor}=="05e3", ATTR{idProduct}=="0620", ATTR{authorized}="0"
+

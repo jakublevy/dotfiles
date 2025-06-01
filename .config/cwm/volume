@@ -1,0 +1,43 @@
+#!/bin/sh
+
+MUTED=$(pamixer --get-mute)
+
+# Determine the action: increase, decrease, or toggle mute
+if [ "$1" = "up" ]; then
+    pamixer --increase 5  # Increase volume by 5%
+    VOLUME=$(( $VOLUME + 5 ))
+elif [ "$1" = "down" ]; then
+    pamixer --decrease 5  # Decrease volume by 5%
+    VOLUME=$(( $VOLUME - 5 ))
+elif [ "$1" = "mute" ]; then
+    pamixer --toggle-mute  # Toggle mute
+    MUTED=$((! $MUTED ))
+else
+    echo "Invalid argument. Use 'up', 'down', or 'mute'."
+    exit 1
+fi
+
+# Get the current volume and mute status using pamixer
+VOLUME=$(pamixer --get-volume)
+MUTED=$(pamixer --get-mute)
+
+# Set the icon and notification title based on volume and mute status
+if [ "$MUTED" = "true" ]; then
+    ICON="audio-volume-muted-symbolic"
+else
+    if [ "$VOLUME" -ge 80 ]; then
+        ICON="audio-volume-high-symbolic"
+    elif [ "$VOLUME" -ge 40 ]; then
+	ICON="audio-volume-medium-symbolic"
+    else
+        ICON="audio-volume-low-symbolic"
+    fi
+fi
+
+PROGRESS=$VOLUME
+if [ $MUTED = "true" ]; then
+    PROGRESS=0
+fi
+
+# Send a notification to Dunst
+notify-send -a "volume" -i "$ICON" -h int:value:$PROGRESS "$VOLUME%"

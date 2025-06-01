@@ -1,0 +1,33 @@
+URxvt*locale: true
+URxvt*utf8: true
+URxvt*font: xft:JetbrainsMono:size=11, \
+            xft:Noto Sans CJK JP:size=11
+URxvt.letterSpace: 0
+URxvt.scrollBar: false
+URxvt.title: URxvt
+URxvt.termName: rxvt-unicode
+
+URxvt*enableInputMethods: true
+URxvt.inputMethod: fcitx
+Urxvt.imLocale: ja_JP.UTF-8
+URxvt.preeditType: OnTheSpot
+URxvt.perl-lib: /usr/lib/x86_64-linux-gnu/urxvt/perl
+URxvt.perl-ext-common: xim-onthespot
+
+URxvt.scrollTtyOutput: False
+URxvt.scrollTtyKeypress: True
+URxvt.scrollWithBuffer: True
+
+URxvt.depth: 32
+URxvt.background: [95]#000000
+URxvt.foreground: #ffffff
+
+!Xcursor.theme: Breeze_Hacked
+!Xcursor.size: 28
+
+!Xft.dpi: 120
+Xft.antialias: true
+Xft.hinting: true
+Xft.hintstyle: hintfull
+Xft*rgba: rgb
+Xft*lcdfilter: lcddefault

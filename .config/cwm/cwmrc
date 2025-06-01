@@ -1,0 +1,152 @@
+unbind-key all
+
+sticky yes
+borderwidth 3
+snapdist 9
+gap 0 0 0 0
+
+# Colors
+#color activeborder      '#eeeeec'              # Set the color of the active border
+color inactiveborder    '#1c1c1c'               # Set the color of the inactive border
+color urgencyborder     '#48c6ff'               # Set the color of the border of a window indicating urgency
+color groupborder       '#215d9c'               # Set the color of the border while grouping a window
+color ungroupborder     '#ff005b'               # Set the color of the border while ungrouping a window
+
+# Menu colors
+color font              '#bcbdbc'               # Set menu font color
+color selfont           '#eeeeec'               # Set font color for selected menu item
+color menubg            '#1c1c1c'               # Set menu background color
+color menufg            '#215d9c'               # Set menu foreground color
+
+ignore polybar
+
+bind-key 4-Return terminal
+bind-key 4C-p xsecurelock
+bind-key 4C-r restart
+bind-key 4-d "rofi -show drun"
+bind-key Print "flameshot gui"
+
+# Function keys
+bind-key XF86Explorer "doublecmd"
+bind-key XF86HomePage "firefox"
+# TODO Calculator
+bind-key XF86Tools "spotify"
+bind-key XF86AudioPrev "playerctl previous"
+bind-key XF86AudioNext "playerctl next"
+bind-key XF86AudioPlay "playerctl play-pause"
+bind-key XF86AudioStop "playerctl stop"
+bind-key XF86AudioMute "/home/jakub/.config/cwm/volume mute"
+bind-key XF86AudioRaiseVolume "/home/jakub/.config/cwm/volume up"
+bind-key XF86AudioLowerVolume "/home/jakub/.config/cwm/volume down"
+
+#bind-key XF86AudioMute "pamixer -t"
+#bind-key XF86AudioRaiseVolume "pamixer -i 5"
+#bind-key XF86AudioLowerVolume "pamixer -d 5"
+
+# Window manipulation
+
+# 0xff09 = Tab
+bind-key M-0xff09 window-cycle
+bind-key MS-0xff09 window-rcycle
+
+bind-key 4-n window-menu-label
+bind-key 4C-q window-close
+
+# Toggle window membership in group
+bind-key 4-g window-group
+bind-mouse 4-2 window-group
+
+# 0x20 = Space
+bind-key 4-s menu-window
+bind-key 4S-s menu-window-hidden
+
+moveamount 10
+bind-mouse 4-1 window-move
+bind-mouse 4-3 window-resize
+bind-key 4-h window-move-left
+bind-key 4-j window-move-down
+bind-key 4-k window-move-up
+bind-key 4-l window-move-right
+
+bind-key 4S-h window-move-left-big
+bind-key 4S-j window-move-down-big
+bind-key 4S-k window-move-up-big
+bind-key 4S-l window-move-right-big
+
+bind-key 4C-h window-resize-left
+bind-key 4C-j window-resize-down
+bind-key 4C-k window-resize-up
+bind-key 4C-l window-resize-right
+
+bind-key 4CS-h window-resize-left-big
+bind-key 4CS-j window-resize-down-big
+bind-key 4CS-k window-resize-up-big
+bind-key 4CS-l window-resize-right-big
+
+bind-key 4-0xff51 window-snap-left
+bind-key 4-0xff54 window-snap-down
+bind-key 4-0xff52 window-snap-up
+bind-key 4-0xff53 window-snap-right
+
+bind-key 4-0x2c "/home/jakub/.config/cwm/cwm-w-mv-left"
+bind-key 4-0x2e "/home/jakub/.config/cwm/cwm-w-mv-right"
+
+# 0xff51 = Left arrow
+bind-key 4S-0xff51 window-htile
+
+# 0xff52 = Up arrow
+bind-key 4S-0xff52 window-vtile
+
+bind-key 4-f window-maximize
+bind-key 4-x window-hide
+bind-key 4-z window-fullscreen
+
+# 0x2c = Comma
+bind-key 4S-0x2c window-hmaximize
+
+# 0x2e = Dot
+bind-key 4S-0x2e window-vmaximize
+
+bind-key 4-q window-raise
+bind-key 4-w window-lower
+
+
+# Groups
+
+# 0x60 = Tilde
+bind-key 4-0x60 group-toggle-all
+
+bind-key 4-1 group-toggle-1
+bind-key 4-2 group-toggle-2
+bind-key 4-3 group-toggle-3
+bind-key 4-4 group-toggle-4
+bind-key 4-5 group-toggle-5
+bind-key 4-6 group-toggle-6
+bind-key 4-7 group-toggle-7
+bind-key 4-8 group-toggle-8
+bind-key 4-9 group-toggle-9
+
+bind-key 4C-1 group-only-1
+bind-key 4C-2 group-only-2
+bind-key 4C-3 group-only-3
+bind-key 4C-4 group-only-4
+bind-key 4C-5 group-only-5
+bind-key 4C-6 group-only-6
+bind-key 4C-7 group-only-7
+bind-key 4C-8 group-only-8
+bind-key 4C-9 group-only-9
+
+bind-key 4S-1 window-movetogroup-1
+bind-key 4S-2 window-movetogroup-2
+bind-key 4S-3 window-movetogroup-3
+bind-key 4S-4 window-movetogroup-4
+bind-key 4S-5 window-movetogroup-5
+bind-key 4S-6 window-movetogroup-6
+bind-key 4S-7 window-movetogroup-7
+bind-key 4S-8 window-movetogroup-8
+bind-key 4S-9 window-movetogroup-9
+
+# 0xff09 = Tab
+bind-key 4-0xff09 window-cycle-ingroup
+bind-key 4S-0xff09 window-rcycle-ingroup
+

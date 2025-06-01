@@ -1,0 +1,26 @@
+#!/bin/sh
+
+# Get active window ID
+active_win=$(xdotool getactivewindow)
+
+# Get active window position
+eval $(xdotool getwindowgeometry --shell "$active_win")
+
+# Get screen width (assumes equal monitor sizes)
+screen_width=1920
+
+# Calculate new X position
+new_x=$((X + screen_width))
+
+# Get total screen width to prevent overflow
+max_x=5760
+
+# Wrap around if moving past last monitor
+if [ "$new_x" -ge "$max_x" ]; then
+   new_x=$(($new_x % $max_x))
+fi
+
+# Move the window
+wmctrl -ir "$active_win" -e 0,$new_x,$Y,-1,-1
+xdotool mousemove $new_x $Y
+

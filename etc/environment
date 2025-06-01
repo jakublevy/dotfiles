@@ -1,10 +1,35 @@
-#
-# This file is parsed by pam_env module
-#
-# Syntax: simple "KEY=VAL" pairs on separate lines
-#
-EDITOR=nvim
+# Firefox HW video decoding
+MOZ_DISABLE_RDD_SANDBOX=1
+LIBVA_DRIVER_NAME=nvidia
+NVD_BACKEND=direct
+__EGL_VENDOR_LIBRARY_FILENAMES=/usr/share/glvnd/egl_vendor.d/10_nvidia.json
 
+# Fcitx5 IME
+XIM=fcitx
+XIM_PROGRAM=fcitx
+SDL_IM_MODULE=fcitx
+GLFW_IM_MODULE=ibus
 XMODIFIERS=@im=fcitx
 QT_IM_MODULE=fcitx
 GTK_IM_MODULE=fcitx
+
+# Default editor
+EDITOR=nvim
+
+# mc do not block when opening a file
+MC_XDG_OPEN=/usr/local/bin/nohup-open
+
+# ibus IME
+#XIM=ibus
+#XIM_PROGRAM=ibus
+#SDL_IM_MODULE=ibus
+#GLFW_IM_MODULE=ibus
+#XMODIFIERS=@im=ibus
+#QT_IM_MODULE=ibus
+#GTK_IM_MODULE=ibus
+
+# ibus show IME switch on correct monitor
+#IBUS_ENABLE_SYNC_MODE=1
+
+# Libreoffice use QT6
+SAL_USE_VCLPLUGIN=qt6
