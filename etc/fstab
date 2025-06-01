@@ -1,12 +1,7 @@
-# Static information about the filesystems.
-# See fstab(5) for details.
-
-# <file system> <dir> <type> <options> <dump> <pass>
-# /dev/sda1
-UUID=5335-009B	/boot	vfat	rw,noatime,nodiratime	0 2
-
-# /dev/sda2
-UUID=d3c59eab-f93f-4b8b-bed7-ace706a2b8ba	/	ext4	rw,noatime,nodiratime	0 1
-
+# <file system> <mount point>   <type>  <options>       <dump>  <pass>
+# / was on /dev/sda2 during installation
+UUID=8c55bafd-9f7c-496a-8fa0-8dad4fc630e8 /               ext4    errors=remount-ro 0       1
+# /boot/efi was on /dev/sda1 during installation
+UUID=3637-8FE7  /boot/efi       vfat    umask=0077      0       1
 #swap file
 /swapfile swap swap defaults 0 0
