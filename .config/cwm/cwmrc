@@ -27,7 +27,7 @@ bind-key 4-d "rofi -show drun"
 bind-key Print "flameshot gui"
 
 # Function keys
-bind-key XF86Explorer "doublecmd"
+bind-key XF86Explorer "x-terminal-emulator -e mc"
 bind-key XF86HomePage "firefox"
 # TODO Calculator
 bind-key XF86Tools "spotify"
