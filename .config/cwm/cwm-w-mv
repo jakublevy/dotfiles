@@ -1,0 +1,129 @@
+#!/bin/sh
+
+cleanup() {
+  if [ -z "$MONITORS_TMP" ]; then
+     rm -f "$MONITORS_TMP"
+  fi
+}
+
+trap cleanup INT HUP TERM EXIT
+
+DIR="$1"
+
+if [ -z "$DIR" -o "$DIR" != 'left' -a "$DIR" != 'right' ]; then
+   echo "Usage: $0 {left,right}"
+   exit 1
+fi
+
+WIN_ID=$(xdotool getactivewindow)
+
+# Get window geometry
+eval $(xwininfo -id "$WIN_ID" | awk '
+    /Absolute upper-left X:/ {x=$NF}
+    /Absolute upper-left Y:/ {y=$NF}
+    /Width:/ {w=$NF; printf("WIN_W=%d\n", $NF)}
+    /Height:/ {h=$NF; printf("WIN_H=%d\n", $NF)}
+    END {
+       printf("WIN_X=%d\n", x)
+       printf("WIN_Y=%d\n", y)
+       printf("WIN_CX=%d\n", x + w/2)
+       printf("WIN_CY=%d\n", y + h/2)
+    }
+')
+
+# Read monitor info
+MONITORS_TMP=$(mktemp)
+xrandr | awk '
+  /connected/ && match($0, /([0-9]+)x([0-9]+)\+([0-9]+)\+([0-9]+)/, m) {
+    print $1, m[3], m[4], m[1], m[2]
+  }
+' > "$MONITORS_TMP"
+
+# slow
+# xrandr | while read line; do
+#     echo "$line" | grep ' connected' | grep -o '[0-9]\+x[0-9]\++[0-9]\++[0-9]' | while read geom; do
+#         name=$(echo "$line" | cut -d' ' -f1)
+#         w=$(echo "$geom" | cut -d'x' -f1)
+#         rest=$(echo "$geom" | cut -d'x' -f2)
+#         h=$(echo "$rest" | cut -d'+' -f1)
+#         x=$(echo "$rest" | cut -d'+' -f2)
+#         y=$(echo "$rest" | cut -d'+' -f3)
+#         echo "$name $x $y $w $h" >> "$MONITORS_TMP"
+#     done
+# done
+
+
+# Check whether at least two monitors are connected
+M_COUNT=$(grep -c '^' "$MONITORS_TMP")
+if [ $M_COUNT -le 1 ]; then
+   echo 'Error: At least two monitors are required'
+   exit 2
+fi
+
+# Find current monitor
+CURRENT_MON=""
+while read name mx my mw mh; do
+    in_x=$(( WIN_CX >= mx && WIN_CX < mx + mw ))
+    in_y=$(( WIN_CY >= my && WIN_CY < my + mh ))
+    if [ "$in_x" -eq 1 ] && [ "$in_y" -eq 1 ]; then
+        CURRENT_MON="$name $mx $my $mw $mh"
+        break
+    fi
+done < "$MONITORS_TMP"
+
+set -- $CURRENT_MON
+CUR_NAME="$1"
+CUR_X=$2
+CUR_Y=$3
+CUR_W=$4
+CUR_H=$5
+
+TGT_MON=""
+while read name mx my mw mh; do
+    [ "$name" = "$CUR_NAME" ] && continue
+
+    # Check vertical overlap
+    end_y1=$(( CUR_Y + CUR_H ))
+    end_y2=$(( my + mh ))
+    overlap=$(( (CUR_Y <= end_y2) && (end_y1 >= my) ))
+
+    if [ $overlap -eq 1 ]; then
+	# Horizontal overlap
+        if [ "$DIR" = "right" -a $mx -eq $(( CUR_X + CUR_W )) ]; then
+            TGT_MON="$name $mx $my $mw $mh"
+            break
+	elif [ "$DIR" = "left" -a $(( mx + mw )) -eq $CUR_X ]; then
+            TGT_MON="$name $mx $my $mw $mh"
+            break
+        fi
+    fi
+done < "$MONITORS_TMP"
+
+EXTREME_X=1
+# Requested move to a left/right monitor when already at the most left/right monitor
+if [ -z "$TGT_MON" ]; then
+   while read name mx my mw mh; do 
+      if [ "$DIR" = "left" -a $mx -gt $EXTREME_X ]; then
+        EXTREME_X=$mx 
+	TGT_MON="$name $mx $my $mw $mh"
+      elif [ "$DIR" = "right" -a $mx -eq 0 ]; then
+        EXTREME_X=0
+	TGT_MON="$name $mx $my $mw $mh"
+	break
+      fi
+   done < "$MONITORS_TMP"
+fi
+
+set -- $TGT_MON
+TGT_X=$2
+TGT_Y=$3
+TGT_W=$4
+TGT_H=$5
+
+#POS_OX=$(echo "($WIN_X - $CUR_X) / ($CUR_W / 100) / 100" | bc -l)
+#NEW_X=$(printf "%.0f" $(echo "$TGT_X + $TGT_W * (($WIN_X - $CUR_X) / ($CUR_W / 100) / 100)" | bc -l))
+NEW_X=$(printf "%.0f" $(( $TGT_X + $TGT_W * (($WIN_X - $CUR_X) / ($CUR_W / 100) / 100) )))
+
+wmctrl -ir "$WIN_ID" -e 0,$NEW_X,$WIN_Y,-1,-1
+xdotool mousemove $NEW_X $WIN_Y
+
