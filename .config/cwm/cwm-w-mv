@@ -128,8 +128,9 @@ TGT_H=$5
 
 #POS_OX=$(echo "($WIN_X - $CUR_X) / ($CUR_W / 100) / 100" | bc -l)
 #NEW_X=$(printf "%.0f" $(echo "$TGT_X + $TGT_W * (($WIN_X - $CUR_X) / ($CUR_W / 100) / 100)" | bc -l))
-NEW_X=$(printf "%.0f" $(( $TGT_X + $TGT_W * (($WIN_X - $CUR_X) / ($CUR_W / 100) / 100) )))
+NEW_X=$(printf "%.0f" $(echo "$TGT_X + $TGT_W * (($WIN_X - $CUR_X) / ($CUR_W / 100) / 100)" | bc -l))
+NEW_Y=$(printf "%.0f" $(echo "$TGT_Y + $TGT_H * (($WIN_Y - $CUR_Y) / ($CUR_H / 100) / 100)" | bc -l))
 
-wmctrl -ir "$WIN_ID" -e 0,$NEW_X,$WIN_Y,-1,-1
-xdotool mousemove $NEW_X $WIN_Y
+wmctrl -ir "$WIN_ID" -e 0,$NEW_X,$NEW_Y,-1,-1
+xdotool mousemove $NEW_X $NEW_Y
 

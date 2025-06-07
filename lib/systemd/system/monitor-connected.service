@@ -1,0 +1,11 @@
+[Unit]
+Description=Handle external monitor connection (xrandr)
+After=graphical.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/monitor_connected
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/jakub/.Xauthority
+User=jakub
+Group=jakub

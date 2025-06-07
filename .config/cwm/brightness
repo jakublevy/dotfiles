@@ -1,0 +1,26 @@
+#!/bin/sh
+
+b=$(cat /sys/class/backlight/amdgpu_bl1/brightness)
+
+p=$( echo "$b / 2.55" | bc )
+p=$(( ((p + 5) / 10) * 10 ))
+
+if [ "$1" = "up" ]; then
+    p=$(( p + 10 ))
+    [ $p -ge 100 ] && p=100
+elif [ "$1" = "down" ]; then
+    p=$(( p - 10 ))
+    [ $p -le 0 ] && p=0
+else
+    echo "Invalid argument. Use 'up' or 'down'"
+    exit 1
+fi
+
+b=$(printf "%0.f" $(echo "$p * 2.55" | bc))
+
+echo $b > /sys/class/backlight/amdgpu_bl1/brightness
+
+icon='brightnesssettings'
+
+notify-send -a "brightness" -i "$icon" -h int:value:$p "$p%"
+
