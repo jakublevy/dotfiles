@@ -77,6 +77,7 @@ while read name mx my mw mh; do
     fi
 done < "$MONITORS_TMP"
 
+echo $CURRENT_MON
 set -- $CURRENT_MON
 CUR_NAME="$1"
 CUR_X=$2
@@ -108,6 +109,7 @@ done < "$MONITORS_TMP"
 EXTREME_X=1
 # Requested move to a left/right monitor when already at the most left/right monitor
 if [ -z "$TGT_MON" ]; then
+   echo "EQR"
    while read name mx my mw mh; do 
       if [ "$DIR" = "left" -a $mx -gt $EXTREME_X ]; then
         EXTREME_X=$mx 
@@ -128,9 +130,24 @@ TGT_H=$5
 
 #POS_OX=$(echo "($WIN_X - $CUR_X) / ($CUR_W / 100) / 100" | bc -l)
 #NEW_X=$(printf "%.0f" $(echo "$TGT_X + $TGT_W * (($WIN_X - $CUR_X) / ($CUR_W / 100) / 100)" | bc -l))
-NEW_X=$(printf "%.0f" $(echo "$TGT_X + $TGT_W * (($WIN_X - $CUR_X) / ($CUR_W / 100) / 100)" | bc -l))
-NEW_Y=$(printf "%.0f" $(echo "$TGT_Y + $TGT_H * (($WIN_Y - $CUR_Y) / ($CUR_H / 100) / 100)" | bc -l))
+NEW_X=$(awk "BEGIN {printf \"%.0f\", $TGT_X + $TGT_W * (($WIN_X - $CUR_X) / ($CUR_W / 100) / 100)}")
+NEW_Y=$(awk "BEGIN {printf \"%.0f\", $TGT_Y + $TGT_H * (($WIN_Y - $CUR_Y) / ($CUR_H / 100) / 100)}")
+#NEW_X=$(printf "%.0f" $(echo "$TGT_X + $TGT_W * (($WIN_X - $CUR_X) / ($CUR_W / 100) / 100)" | bc -l))
+#NEW_Y=$(printf "%.0f" $(echo "$TGT_Y + $TGT_H * (($WIN_Y - $CUR_Y) / ($CUR_H / 100) / 100)" | bc -l))
 
-wmctrl -ir "$WIN_ID" -e 0,$NEW_X,$NEW_Y,-1,-1
-xdotool mousemove $NEW_X $NEW_Y
+MOUSE_LOC=$(xdotool getmouselocation)
+set -- $MOUSE_LOC
+MOUSE_X=$(echo $1 | cut -c3-)
+MOUSE_Y=$(echo $2 | cut -c3-)
+
+#MOUSE_OX=$(awk "BEGIN {printf \"%f\", ($MOUSE_X - $WIN_X) / ($WIN_W / 100) / 100}")
+#MOUSE_OY=$(awk "BEGIN {printf \"%f\", ($MOUSE_Y - $WIN_Y) / ($WIN_H / 100) / 100}")
+NEW_MOUSE_X=$(awk "BEGIN {printf \"%.0f\", $NEW_X + $WIN_W * (($MOUSE_X - $WIN_X) / ($WIN_W / 100) / 100)}")
+NEW_MOUSE_Y=$(awk "BEGIN {printf \"%.0f\", $NEW_Y + $WIN_H * (($MOUSE_Y - $WIN_Y) / ($WIN_H / 100) / 100)}")
+
+[ $NEW_MOUSE_X -lt 0 ] && NEW_MOUSE_X=0
+
+#wmctrl -ir "$WIN_ID" -e 0,$NEW_X,$NEW_Y,-1,-1
+xdotool windowmove "$WIN_ID" $NEW_X $NEW_Y
+xdotool mousemove $NEW_MOUSE_X $NEW_MOUSE_Y
 
