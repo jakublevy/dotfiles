@@ -1,0 +1,14 @@
+#!/bin/sh
+
+if [ -z "$1" ]; then
+  echo "Usage: $0 DISPLAY"
+  exit 1
+fi
+
+res=$(xrandr -q | sed -n "s/$1 ..* \([0-9][0-9]*x[0-9][0-9]*\).*/\1/p")
+
+if [ -z "$res" ]; then
+   echo "Error: No display connected to $1"
+   exit 2
+fi
+xrandr --output "$1" --mode $res --scale-from 2880x1800 --same-as eDP

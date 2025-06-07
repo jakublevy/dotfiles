@@ -1,0 +1,6 @@
+#!/bin/sh
+
+enabled=$(xinput list-props 15 | grep "Device Enabled" | grep -o "[01]$")
+
+[ $enabled = '1' ] && xinput set-prop 15 'Device Enabled' 0 \
+	           || xinput set-prop 15 'Device Enabled' 1
