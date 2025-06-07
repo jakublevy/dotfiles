@@ -1,7 +1,7 @@
 #!/bin/sh
 
 cleanup() {
-  if [ -z "$MONITORS_TMP" ]; then
+  if [ -f "$MONITORS_TMP" ]; then
      rm -f "$MONITORS_TMP"
   fi
 }
@@ -33,11 +33,14 @@ eval $(xwininfo -id "$WIN_ID" | awk '
 
 # Read monitor info
 MONITORS_TMP=$(mktemp)
-xrandr | awk '
-  /connected/ && match($0, /([0-9]+)x([0-9]+)\+([0-9]+)\+([0-9]+)/, m) {
-    print $1, m[3], m[4], m[1], m[2]
-  }
-' > "$MONITORS_TMP"
+xrandr | sed -n 's/^\([^ ][^ ]*\) connected [^0-9]*\([0-9][0-9]*\)x\([0-9][0-9]*\)+\([0-9][0-9]*\)+\([0-9][0-9]*\).*/\1 \4 \5 \2 \3/p' > "$MONITORS_TMP"
+
+# slow
+#xrandr | awk '
+#  /connected/ && match($0, /([0-9]+)x([0-9]+)\+([0-9]+)\+([0-9]+)/, m) {
+#    print $1, m[3], m[4], m[1], m[2]
+#  }
+#' > "$MONITORS_TMP"
 
 # slow
 # xrandr | while read line; do
@@ -54,7 +57,8 @@ xrandr | awk '
 
 
 # Check whether at least two monitors are connected
-M_COUNT=$(grep -c '^' "$MONITORS_TMP")
+M_COUNT=$(wc -l < "$MONITORS_TMP")
+#M_COUNT=$(grep -c '^' "$MONITORS_TMP")
 if [ $M_COUNT -le 1 ]; then
    echo 'Error: At least two monitors are required'
    exit 2
@@ -63,9 +67,11 @@ fi
 # Find current monitor
 CURRENT_MON=""
 while read name mx my mw mh; do
-    in_x=$(( WIN_CX >= mx && WIN_CX < mx + mw ))
-    in_y=$(( WIN_CY >= my && WIN_CY < my + mh ))
-    if [ "$in_x" -eq 1 ] && [ "$in_y" -eq 1 ]; then
+    in_x=0
+    in_y=0
+    [ $WIN_CX -ge $mx -a $WIN_CX -le $(( mx + mw )) ] && in_x=1
+    [ $WIN_CY -ge $my -a $WIN_CY -le $(( my + mh )) ] && in_y=1
+    if [ $in_x -eq 1 -a $in_y -eq 1 ]; then
         CURRENT_MON="$name $mx $my $mw $mh"
         break
     fi
