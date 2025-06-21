@@ -1,0 +1,3 @@
+#!/bin/sh
+find /boot/ -name 'vmlinuz-*' -print0 | xargs -0 -I% -P $(nproc) sbctl sign %   
+

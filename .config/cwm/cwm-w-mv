@@ -148,6 +148,7 @@ NEW_MOUSE_Y=$(awk "BEGIN {printf \"%.0f\", $NEW_Y + $WIN_H * (($MOUSE_Y - $WIN_Y
 [ $NEW_MOUSE_X -lt 0 ] && NEW_MOUSE_X=0
 
 #wmctrl -ir "$WIN_ID" -e 0,$NEW_X,$NEW_Y,-1,-1
+xdotool windowfocus "$WIN_ID"
 xdotool windowmove "$WIN_ID" $NEW_X $NEW_Y
 xdotool mousemove $NEW_MOUSE_X $NEW_MOUSE_Y
 

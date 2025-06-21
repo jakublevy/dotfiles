@@ -1,0 +1,8 @@
+cryptroot       UUID=67c05b95-4f00-475b-a8e7-33fa6a5769c9           /etc/cryptsetup-initramfs/cryptroot.key         luks,discard,tries=3
+
+cryptwolf       UUID=0ff5644a-b985-47d5-902c-1ceb5ab4e6bf           /etc/cryptsetup-keys.d/cryptwolf.key            luks,tries=3
+
+crypt850        UUID=023999a2-0fd8-49f4-9054-3264e9c83573           /etc/cryptsetup-keys.d/crypt850.key             luks,discard,tries=3
+
+cryptwdb        UUID=2903ebd0-f765-4eb6-80b2-12289034e753           /etc/cryptsetup-keys.d/cryptwdb.key             luks,tries=3
+

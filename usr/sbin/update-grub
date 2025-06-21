@@ -1,0 +1,4 @@
+#!/bin/sh
+/usr/sbin/update-grub.real "$*"
+
+find /boot/efi/EFI/ -name '*.efi' -not -path '*Microsoft*' -print0 | xargs -0 -I% -P $(nproc) sbctl sign %   
