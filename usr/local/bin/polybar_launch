@@ -1,0 +1,10 @@
+#!/bin/sh
+
+polybar --list-monitors | while IFS= read -r m; do
+    name=$(echo "$m" | cut -d':' -f1)
+    primary=$(echo "$m" | cut -d' ' -f3)
+    [ "$primary" = '(primary)' ] \
+    && MONITOR=$name polybar --reload primary \
+    || MONITOR=$name polybar --reload secondary &
+done
+

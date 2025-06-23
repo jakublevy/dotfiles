@@ -1,0 +1,3 @@
+#!/bin/sh
+setxkbmap -layout "us,cz" -variant ",qwerty" -option "custom:ctrl_tab_toggle" -option "custom:remap"
+
