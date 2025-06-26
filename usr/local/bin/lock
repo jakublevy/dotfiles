@@ -8,8 +8,9 @@ lock='/home/jakub/Pictures/lock.png'
 #fi
 
 maim "$screen"
-gm convert "$screen" -scale 10% -scale 1000% "$screen"
-#convert "$screen" -filter Gaussian -blur 0x3 "$screen"
+gm convert "$screen" -scale 4% -scale 2500% "$screen"
+# gm convert "$screen" -scale 10% -scale 1000% "$screen"
+# gm convert "$screen" -filter Gaussian -blur 0x33 "$screen"
  
 if [ -f "$lock" ]; then
     # placement x/y
@@ -20,20 +21,19 @@ if [ -f "$lock" ]; then
     RX=$(echo $R | cut -d' ' -f 1)
     RY=$(echo $R | cut -d' ' -f 3)
  
-    SR=$(xrandr --query | grep ' connected' | sed 's/primary //' | cut -f3 -d' ')
-    for RES in $SR
-    do
-        # monitor position/offset
-        SRX=$(echo $RES | cut -d'x' -f 1)                   # x pos
-        SRY=$(echo $RES | cut -d'x' -f 2 | cut -d'+' -f 1)  # y pos
-        SROX=$(echo $RES | cut -d'x' -f 2 | cut -d'+' -f 2) # x offset
-        SROY=$(echo $RES | cut -d'x' -f 2 | cut -d'+' -f 3) # y offset
-        PX=$(( $SROX + $SRX / 2 - $RX / 2 ))
-        PY=$(( $SROY + $SRY / 2 - $RY / 2 ))
- 
-        gm convert "$screen" "$lock" -geometry +$PX+$PY - | gm composite -geometry +$PX+$PY -matte "$lock" - "$screen"
-        #echo "done"
-    done
+    xrandr --query | grep ' connected' | sed 's/primary //' | cut -f3 -d' ' | while read -r RES; do
+       # monitor position/offset
+       SRX=$(echo $RES | cut -d'x' -f 1)                   # x pos
+       SRY=$(echo $RES | cut -d'x' -f 2 | cut -d'+' -f 1)  # y pos
+       SROX=$(echo $RES | cut -d'x' -f 2 | cut -d'+' -f 2) # x offset
+       SROY=$(echo $RES | cut -d'x' -f 2 | cut -d'+' -f 3) # y offset
+       PX=$(( $SROX + $SRX / 2 - $RX / 2 ))
+       PY=$(( $SROY + $SRY / 2 - $RY / 2 ))
+
+       gm composite -geometry +$PX+$PY -compose over "$lock" "$screen" "$screen"
+       #gm convert "$screen" "$lock" -geometry +$PX+$PY - | gm composite -geometry +$PX+$PY -matte "$lock" - "$screen"
+       #echo "done"
+   done
 fi
 # dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Stop
 #i3lock  -I 10 -d -e -u -n -i "$screen"
