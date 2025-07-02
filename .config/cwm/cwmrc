@@ -22,7 +22,7 @@ ignore polybar
 
 bind-key 4-Return terminal
 bind-key 4C-p xsecurelock
-bind-key 4C-o /usr/local/bin/sleep
+bind-key 4C-o /usr/local/bin/suspend
 bind-key 4C-r restart
 bind-key 4-d "rofi -show drun"
 bind-key Print "flameshot gui"
