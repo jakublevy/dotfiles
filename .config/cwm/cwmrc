@@ -1,9 +1,10 @@
 unbind-key all
+unbind-mouse all
 
 sticky yes
 borderwidth 3
 snapdist 9
-gap 0 0 0 0
+gap 35 0 0 0
 
 # Colors
 #color activeborder      '#eeeeec'              # Set the color of the active border
@@ -89,8 +90,8 @@ bind-key 4-0xff54 window-snap-down
 bind-key 4-0xff52 window-snap-up
 bind-key 4-0xff53 window-snap-right
 
-bind-key 4-0x2c "/home/jakub/.config/cwm/cwm-w-mv-left"
-bind-key 4-0x2e "/home/jakub/.config/cwm/cwm-w-mv-right"
+bind-key 4-0x2c "/home/jakub/.config/cwm/cwm-w-mv left"
+bind-key 4-0x2e "/home/jakub/.config/cwm/cwm-w-mv right"
 
 # 0xff51 = Left arrow
 bind-key 4S-0xff51 window-htile
