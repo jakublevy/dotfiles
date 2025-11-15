@@ -1,6 +1,6 @@
 # English and Czech QWERTY layout ALT+Shift toggle xkb fallback
 # without IMF, load keys remap
-setxkbmap -layout "us,cz" -variant ",qwerty" -option "custom:ctrl_tab_toggle" -option "custom:remap"
+keyboard-remap
 
 [ -f ~/.Xresources ] && xrdb -merge ~/.Xresources
 
@@ -17,9 +17,6 @@ feh --bg-tile ~/Pictures/Wallpapers/wallpap1920x1080.jpg
 #systemctl --user start dunst.service
 #systemctl --user start polybar.service
 #systemctl --user start copyq autolock flameshot dunst polybar
-
-# IME
-fcitx5 &
 
 # Networking
 nm-applet &
@@ -42,13 +39,19 @@ flameshot & disown
 # Auto lock after 10 minutes
 xautolock -time 10 -locker "xsecurelock" &
 
+# Gamma step indicator
+gammastep-indicator -l manual -l 50.43:16.15 &
+
 # Notifications
 dunst &
 
-polybar &
+polybar-launch &
 
-# dbus needs to inherit DISPLAY env in order to launch GUI applications
+[ -z "$DBUS_SESSION_BUS_ADDRESS" ] && eval $(dbus-launch --sh-syntax --exit-with-session)
 dbus-update-activation-environment DISPLAY
+
+# IME
+fcitx5 &
 
 exec cwm -c ~/.config/cwm/cwmrc
 
