@@ -1,8 +1,11 @@
 #!/bin/sh
 
-b=$(cat /sys/class/backlight/amdgpu_bl1/brightness)
+path=$(find /sys/class/backlight -maxdepth 1 -type l | head -n1)
+b=$(cat "$path/brightness")
+maxb=$(cat "$path/max_brightness")
+step=$(echo "$maxb / 100" | bc)
 
-p=$( echo "$b / 2.55" | bc )
+p=$( echo "$b / $step" | bc )
 p=$(( ((p + 5) / 10) * 10 ))
 
 if [ "$1" = "up" ]; then
@@ -16,9 +19,9 @@ else
     exit 1
 fi
 
-b=$(printf "%0.f" $(echo "$p * 2.55" | bc))
+b=$(printf "%0.f" $(echo "$p * $step" | bc))
 
-echo $b > /sys/class/backlight/amdgpu_bl1/brightness
+echo $b > "$path/brightness"
 
 icon='brightnesssettings'
 

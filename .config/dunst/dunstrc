@@ -36,3 +36,11 @@ urgency = "low"
 format = "Volume: %s"
 timeout = 2
 set_stack_tag = "volume"
+
+
+[brightness]
+appname = "brightness"
+urgency = "low"
+format = "Brightness: %s"
+timeout = 2
+set_stack_tag = "brightness"
