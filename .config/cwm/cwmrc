@@ -4,7 +4,7 @@ unbind-mouse all
 sticky yes
 borderwidth 3
 snapdist 9
-gap 35 0 0 0
+gap 32 0 0 0
 
 # Colors
 #color activeborder      '#eeeeec'              # Set the color of the active border
@@ -40,6 +40,8 @@ bind-key XF86AudioStop "playerctl stop"
 bind-key XF86AudioMute "/home/jakub/.config/cwm/volume mute"
 bind-key XF86AudioRaiseVolume "/home/jakub/.config/cwm/volume up"
 bind-key XF86AudioLowerVolume "/home/jakub/.config/cwm/volume down"
+bind-key XF86MonBrightnessUp "/home/jakub/.config/cwm/brightness up"
+bind-key XF86MonBrightnessDown "/home/jakub/.config/cwm/brightness down"
 
 #bind-key XF86AudioMute "pamixer -t"
 #bind-key XF86AudioRaiseVolume "pamixer -i 5"

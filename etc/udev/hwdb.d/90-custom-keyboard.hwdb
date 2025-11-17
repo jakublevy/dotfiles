@@ -1,0 +1,15 @@
+# Map CapsLock scancode to Left Ctrl
+evdev:input:*
+ KEYBOARD_KEY_70039=leftctrl
+
+# Map Left Ctrl scancode to Escape
+evdev:input:*
+ KEYBOARD_KEY_700e0=esc
+
+# Map Escape scancode to CapsLock
+evdev:input:*
+ KEYBOARD_KEY_70029=capslock
+
+# Map LSGT scancode to Left Shift
+evdev:input:*
+ KEYBOARD_KEY_70064=leftshift

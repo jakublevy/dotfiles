@@ -2,9 +2,11 @@ partial modifier_keys
 xkb_symbols "remap" {
     replace key <CAPS> { [ Control_L ] };
     replace key <LCTL> { [ Escape ] };
-    replace key <ESC>  { [ Caps_Lock ] };
+    replace key <ESC>  { type = "ONE_LEVEL", symbols[Group1] = [ NoSymbol ] };
+    replace key <LSGT> { [ NoSymbol, Shift_L ] };
     modifier_map Control { <CAPS> };
     modifier_map Lock { <ESC> };
+    modifier_map Shift { <LSGT> };
 };
 
 partial modifier_keys
