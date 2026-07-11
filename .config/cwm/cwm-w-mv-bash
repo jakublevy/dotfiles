@@ -1,17 +1,8 @@
-#!/bin/sh
-
-cleanup() {
-  if [ -f "$MONITORS_TMP" ]; then
-     rm -f "$MONITORS_TMP"
-  fi
-}
-
-trap cleanup INT HUP TERM EXIT
+#!/bin/bash
 
 DIR="$1"
 
-# -a has higher priority than -o
-if [ -z "$DIR" -o "$DIR" != 'left' -a "$DIR" != 'right' ]; then
+if [ -z "$DIR" ] || ([ "$DIR" != 'left' ] && [ "$DIR" != 'right' ]); then
    echo "Usage: $0 {left,right}"
    exit 1
 fi
@@ -33,33 +24,10 @@ eval $(xwininfo -id "$WIN_ID" | awk '
 ')
 
 # Read monitor info
-MONITORS_TMP=$(mktemp)
-xrandr --current | sed -n 's/^\([^ ][^ ]*\) connected [^0-9]*\([0-9][0-9]*\)x\([0-9][0-9]*\)+\([0-9][0-9]*\)+\([0-9][0-9]*\).*/\1 \4 \5 \2 \3/p' > "$MONITORS_TMP"
-
-# slow
-#xrandr | awk '
-#  /connected/ && match($0, /([0-9]+)x([0-9]+)\+([0-9]+)\+([0-9]+)/, m) {
-#    print $1, m[3], m[4], m[1], m[2]
-#  }
-#' > "$MONITORS_TMP"
-
-# slow
-# xrandr | while read line; do
-#     echo "$line" | grep ' connected' | grep -o '[0-9]\+x[0-9]\++[0-9]\++[0-9]' | while read geom; do
-#         name=$(echo "$line" | cut -d' ' -f1)
-#         w=$(echo "$geom" | cut -d'x' -f1)
-#         rest=$(echo "$geom" | cut -d'x' -f2)
-#         h=$(echo "$rest" | cut -d'+' -f1)
-#         x=$(echo "$rest" | cut -d'+' -f2)
-#         y=$(echo "$rest" | cut -d'+' -f3)
-#         echo "$name $x $y $w $h" >> "$MONITORS_TMP"
-#     done
-# done
-
+MONITORS="$(xrandr --current | sed -n 's/^\([^ ][^ ]*\) connected [^0-9]*\([0-9][0-9]*\)x\([0-9][0-9]*\)+\([0-9][0-9]*\)+\([0-9][0-9]*\).*/\1 \4 \5 \2 \3/p')"
 
 # Check whether at least two monitors are connected
-M_COUNT=$(wc -l < "$MONITORS_TMP")
-#M_COUNT=$(grep -c '^' "$MONITORS_TMP")
+M_COUNT=$(wc -l <<< "$MONITORS")
 if [ $M_COUNT -le 1 ]; then
    echo 'Error: At least two monitors are required'
    exit 2
@@ -76,7 +44,7 @@ while read name mx my mw mh; do
         CURRENT_MON="$name $mx $my $mw $mh"
         break
     fi
-done < "$MONITORS_TMP"
+done <<< "$MONITORS"
 
 set -- $CURRENT_MON
 CUR_NAME="$1"
@@ -104,7 +72,7 @@ while read name mx my mw mh; do
             break
         fi
     fi
-done < "$MONITORS_TMP"
+done <<< "$MONITORS"
 
 EXTREME_X=1
 # Requested move to a left/right monitor when already at the most left/right monitor
@@ -119,7 +87,7 @@ if [ -z "$TGT_MON" ]; then
 	TGT_MON="$name $mx $my $mw $mh"
 	break
       fi
-   done < "$MONITORS_TMP"
+   done <<< "$MONITORS"
 fi
 
 set -- $TGT_MON
